@@ -1,0 +1,3050 @@
+[
+    {
+        "personal": {
+            "first_name": "Jashan",
+            "last_name": "Kaur",
+            "headline": "Senior Manager @ RBCx (Ventures) | Strategic Finance @ Replit (AI + SaaS) | Investment Banking @ JP Morgan",
+            "location": "Canada",
+            "city": "Toronto, Ontario",
+            "industry": "Computer Software"
+        },
+        "experiences": [
+            {
+                "title": "Senior Manager",
+                "company": "RBCx",
+                "company_public_id": "rbcx",
+                "description": "No description available",
+                "start_date": {
+                    "month": 8,
+                    "year": 2024
+                },
+                "end_date": null
+            },
+            {
+                "title": "Strategic Finance",
+                "company": "Replit",
+                "company_public_id": "repl-it",
+                "description": "Revenue analytics, Financial Modelling, SaaS metrics (ARR, LTV, Retention), GTM RevOps",
+                "start_date": {
+                    "month": 7,
+                    "year": 2023
+                },
+                "end_date": {
+                    "month": 7,
+                    "year": 2024
+                }
+            },
+            {
+                "title": "Finance Manager",
+                "company": "Procter & Gamble",
+                "company_public_id": "procter-and-gamble",
+                "description": "Awards: \n1. Platinum Award  - Recognized leadership & resilience in enabling the team to finish the year +16pts vs. target\n2. Gold Award - Recognized leadership & growth in successfully executing pricing strategy & leading the Business Planning for FY2223",
+                "start_date": {
+                    "month": 6,
+                    "year": 2021
+                },
+                "end_date": {
+                    "month": 7,
+                    "year": 2023
+                }
+            },
+            {
+                "title": "Business Analyst",
+                "company": "BOMBARDIER",
+                "company_public_id": "bombardier",
+                "description": "No description available",
+                "start_date": {
+                    "month": 12,
+                    "year": 2019
+                },
+                "end_date": {
+                    "month": 5,
+                    "year": 2020
+                }
+            },
+            {
+                "title": "Investment Banking Analyst",
+                "company": "J.P. Morgan",
+                "company_public_id": "jpmorgan",
+                "description": "Diversified Industrials and Transportation Coverage, Investment Banking Division\n\n- Prepared pitchbooks for 30+ clients by assessing potential M&A targets, highlighting industry trends, conducting interloper analysis, developing financial valuations, and performing pro-forma analysis\n- Key valuation analysis performed: DCF, SOTP, trading and transaction comps\n- Developed functional expertise in the airline industry and was the partner of choice projects in this sector\n\nKey deals:\n\u2022 Developed financial valuations and management decks for a successful IPO of a US-based landscaping services firm (~$650MM)\n\u2022 Conducted trading/transaction comps analysis and generated industry insights for a successful IPO of a US-based waste-water processing firm (~$600MM)\n\u2022 Deal team member for execution of IPO of one of the largest airlines in the US with $2.1B revenue",
+                "start_date": {
+                    "month": 7,
+                    "year": 2017
+                },
+                "end_date": {
+                    "month": 8,
+                    "year": 2019
+                }
+            }
+        ],
+        "education": [
+            {
+                "school": "McGill University - Desautels Faculty of Management",
+                "activities": null,
+                "grade": "3.9/4.0",
+                "start_date": null,
+                "end_date": null
+            },
+            {
+                "school": "PEC University of Technology, Chandigarh",
+                "activities": null,
+                "grade": null,
+                "start_date": null,
+                "end_date": null
+            }
+        ],
+        "skills": [
+            "M&A analysis",
+            "M&A Modeling",
+            "Valuation",
+            "Mergers & Acquisitions (M&A)"
+        ],
+        "id": "jashan-kaur"
+    },
+    {
+        "personal": {
+            "first_name": "Alex",
+            "last_name": "Chow, CPA",
+            "headline": "Senior Finance Manager at Viral Nation",
+            "location": "Canada",
+            "city": null,
+            "industry": "Marketing & Advertising"
+        },
+        "experiences": [
+            {
+                "title": "Senior Finance Manager - FP&A",
+                "company": "Viral Nation",
+                "company_public_id": "viralnationinc",
+                "description": "No description available",
+                "start_date": {
+                    "month": 10,
+                    "year": 2023
+                },
+                "end_date": null
+            },
+            {
+                "title": "Strategic Finance Manager",
+                "company": "TouchBistro",
+                "company_public_id": "touchbistro",
+                "description": "No description available",
+                "start_date": {
+                    "month": 8,
+                    "year": 2021
+                },
+                "end_date": {
+                    "month": 7,
+                    "year": 2022
+                }
+            },
+            {
+                "title": "Financial Analyst, Marketing Finance & Analytics",
+                "company": "Unilever",
+                "company_public_id": "unilever",
+                "description": "No description available",
+                "start_date": {
+                    "month": 2,
+                    "year": 2018
+                },
+                "end_date": {
+                    "month": 7,
+                    "year": 2019
+                }
+            },
+            {
+                "title": "Fund Accountant",
+                "company": "CIBC Mellon",
+                "company_public_id": "cibc-mellon",
+                "description": "No description available",
+                "start_date": {
+                    "month": 4,
+                    "year": 2017
+                },
+                "end_date": {
+                    "month": 2,
+                    "year": 2018
+                }
+            },
+            {
+                "title": "Internal Audit Associate",
+                "company": "Dundee Corporation",
+                "company_public_id": "dundeecorporation",
+                "description": "No description available",
+                "start_date": {
+                    "month": 5,
+                    "year": 2016
+                },
+                "end_date": {
+                    "month": 8,
+                    "year": 2016
+                }
+            }
+        ],
+        "education": [
+            {
+                "school": "University of Toronto at Scarborough",
+                "activities": null,
+                "grade": null,
+                "start_date": null,
+                "end_date": null
+            }
+        ],
+        "skills": [
+            "Leadership",
+            "Financial Analysis",
+            "Visual Basic for Applications (VBA)",
+            "Time Management"
+        ],
+        "id": "alex-chow-cpa-83275360"
+    },
+    {
+        "personal": {
+            "first_name": "Niki",
+            "last_name": "Shi",
+            "headline": "Strategic Finance at Dream Unlimited",
+            "location": "Canada",
+            "city": null,
+            "industry": "Real Estate"
+        },
+        "experiences": [
+            {
+                "title": "Senior Manager, Strategic Finance",
+                "company": "Dream",
+                "company_public_id": "dream-unlimited",
+                "description": "No description available",
+                "start_date": {
+                    "month": 9,
+                    "year": 2021
+                },
+                "end_date": {
+                    "month": 2,
+                    "year": 2023
+                }
+            },
+            {
+                "title": "Senior Associate, Real Estate",
+                "company": "RBC Capital Markets",
+                "company_public_id": "rbc-capital-markets",
+                "description": "No description available",
+                "start_date": {
+                    "month": 9,
+                    "year": 2018
+                },
+                "end_date": {
+                    "month": 11,
+                    "year": 2020
+                }
+            },
+            {
+                "title": "Summer Analyst",
+                "company": "RBC Capital Markets",
+                "company_public_id": "rbc-capital-markets",
+                "description": "No description available",
+                "start_date": {
+                    "month": 5,
+                    "year": 2015
+                },
+                "end_date": {
+                    "month": 8,
+                    "year": 2015
+                }
+            },
+            {
+                "title": "Summer Analyst, Finance",
+                "company": "RBC",
+                "company_public_id": "rbc",
+                "description": "No description available",
+                "start_date": {
+                    "month": 6,
+                    "year": 2014
+                },
+                "end_date": {
+                    "month": 8,
+                    "year": 2014
+                }
+            }
+        ],
+        "education": [
+            {
+                "school": "University of Toronto",
+                "activities": null,
+                "grade": null,
+                "start_date": null,
+                "end_date": {
+                    "year": 2016
+                }
+            }
+        ],
+        "skills": [],
+        "id": "nikishi"
+    },
+    {
+        "personal": {
+            "first_name": "Sachin",
+            "last_name": "K Thomas",
+            "headline": "Finance Manager",
+            "location": "Canada",
+            "city": "Toronto, Ontario",
+            "industry": "Financial Services"
+        },
+        "experiences": [
+            {
+                "title": "Finance and Payroll Officer",
+                "company": "CEE Centre for Young Black Professionals ",
+                "company_public_id": "cee-centre-for-young-black-professionals",
+                "description": "No description available",
+                "start_date": {
+                    "month": 11,
+                    "year": 2021
+                },
+                "end_date": {
+                    "month": 1,
+                    "year": 2022
+                }
+            },
+            {
+                "title": "Client Services Representative",
+                "company": "Fine Food Market",
+                "company_public_id": "fine-food-market",
+                "description": "The Convenience store located in downtown Toronto is one of the leading stores which stocks a wide range of everyday items. We manage a wide range of customers coming from different countries and races. Our focus is to provide positive customer experience by excellent communication and client service.\n\u2022\tGreeting customers with a smile and making guest feel welcomed and attended.\n\u2022\tCommunicating with clients to understand their requirements and providing directions and solutions.\n\u2022\tManaging the cash register, billing items, collecting payment, and maintaining receipt of transactions.\n\u2022\tCounting the contents of cash register at the end of each shift to make sure the accounts tally.\n\u2022\tManaging online orders, preparing, and working with customers to resolve queries and disputes.\n",
+                "start_date": {
+                    "month": 11,
+                    "year": 2020
+                },
+                "end_date": {
+                    "month": 10,
+                    "year": 2021
+                }
+            },
+            {
+                "title": "Senior Financial Analyst",
+                "company": "Goldman Sachs",
+                "company_public_id": "goldman-sachs",
+                "description": "Asset Management - Institutional Client Reporting\n\nThe GSAM Client Reporting team manages the client reporting deliverables for all institutional clients globally. In addition, we manage institutional portal client setup, distribution of private placement memoranda, client contacts maintenance, and provide assistance on a number of other client relationship functions, Act as a client reporting specialist within the Bangalore Client Reporting team, partnering closely with Client Relationship Managers and product teams to fulfill regularly scheduled institutional client reporting deliverables. \n\nThe team is responsible for the following functions:\n\u00b7         Checkout of Standard reports\n\u00b7         Liasoning with upstream teams for ensuring data accuracy\n\u00b7         Metrics reporting to management on a daily basis.\n\u00b7         Preparation & delivery of Custom Reports for institutional clients\n\u00b7         Co-ordination of regulatory reports for GSAM\n\u00b7         Manage changes for client statement disclosures and footnotes\n\u00b7         Access provisioning to GSAM.com",
+                "start_date": {
+                    "month": 7,
+                    "year": 2019
+                },
+                "end_date": {
+                    "month": 3,
+                    "year": 2020
+                }
+            },
+            {
+                "title": "Audit Associate",
+                "company": "KPMG",
+                "company_public_id": "kpmg",
+                "description": "Auditing for US investment Management firms.\n\nHere the team helps the US KPMG audit team to complete their audit by performing the Substantive Procedures and other control test works. We work for the US audit team that handles Investment management clients. I have received a Rising star award within the first six months in the firm. I also, have received various good feedback from US audit teams and also client service excellence awards. \n\nThe team's responsibilities include:\n* Handling a specific client being dedicated team members from off-shore to help and work along to complete the entire audit of the assigned client.\n* Vouching and ensuring the reasonableness of various items like Cash & cash equivalents, Purchase and Sales, Portfolio Holdings by checking the audit evidence and supporting documents.\n* Analyzing the unrecorded liabilities, given by the ADPT (Audit Difference Posting Threshold) matching with open trade report.\n* Mapping trial balance to the Balance sheet and Profit & Loss Statements.\n* Verifying the mathematical accuracy of the Unaudited Financial Statements and Schedule of Investments of different Investment clients.\n* Testing of the Partners capital for investment companies by recalculating the management fee and performance allocations.\n* Processing all the procedures with a high accuracy percentage and within the agreed timeline. Also, working as a team with US Engagement Teams in case of any clarifications, updates, or queries.",
+                "start_date": {
+                    "month": 9,
+                    "year": 2017
+                },
+                "end_date": {
+                    "month": 3,
+                    "year": 2019
+                }
+            }
+        ],
+        "education": [
+            {
+                "school": "Lambton College",
+                "activities": null,
+                "grade": null,
+                "start_date": {
+                    "year": 2020
+                },
+                "end_date": {
+                    "year": 2022
+                }
+            },
+            {
+                "school": "Kristhu Jayanthi College, - Bangalore University",
+                "activities": "\u27a2 Participated in the BEST CEO competition Event organized conducted by SSMRV College, Bangalore,\n\u27a2 Capacity Building Training On Life Skills conducted by the center for life skills education (CLSE)  at Kristu jayanti College, Bengaluru \n \u27a2 Participate in Workshop on EQUITY, FOREX & COMMODITY TRADING, Kristu Jayanti College, Bangalore\n \u27a2 Participated In house seminar on Make in India its Impact on FDI Policy conducted by Kristu Jayanti College ( Autonomous)",
+                "grade": null,
+                "start_date": {
+                    "year": 2015
+                },
+                "end_date": {
+                    "year": 2017
+                }
+            },
+            {
+                "school": "St. Mary's College, Sulthan Bathery - Calicut University",
+                "activities": null,
+                "grade": null,
+                "start_date": {
+                    "year": 2012
+                },
+                "end_date": {
+                    "year": 2015
+                }
+            }
+        ],
+        "skills": [
+            "General Ledgers",
+            "Analytical Software",
+            "Account Reconciliation",
+            "Annual Budgeting"
+        ],
+        "id": "kthomassachin"
+    },
+    {
+        "personal": {
+            "first_name": "Vinay",
+            "last_name": "Kambli",
+            "headline": "Strategic Planning, Finance, Business Analytics and Global Operations Leadership",
+            "location": "Canada",
+            "city": "Toronto, Ontario",
+            "industry": "Venture Capital & Private Equity"
+        },
+        "experiences": [
+            {
+                "title": "Head of Finance Operations",
+                "company": "RBCx",
+                "company_public_id": "rbcx",
+                "description": "Developing a high-impact team and together creating a finance operations platform that provides early stage businesses security, scale, and insights.",
+                "start_date": {
+                    "month": 7,
+                    "year": 2022
+                },
+                "end_date": null
+            },
+            {
+                "title": "On Deck Fellow",
+                "company": "On Deck",
+                "company_public_id": "'odf'",
+                "description": "No description available",
+                "start_date": {
+                    "month": 2,
+                    "year": 2022
+                },
+                "end_date": {
+                    "month": 7,
+                    "year": 2022
+                }
+            },
+            {
+                "title": "Senior Manager, Strategic Planning and Operations",
+                "company": "RBC",
+                "company_public_id": "rbc",
+                "description": "Led strategic initiatives across technology teams powering payment & core credit products, working closely with engineering, product and delivery leaders to continuously improve 'how we ship', and codify best practices to drive impact from agile delivery, devops, risk mgmt., and performance reporting.",
+                "start_date": {
+                    "month": 1,
+                    "year": 2021
+                },
+                "end_date": {
+                    "month": 6,
+                    "year": 2022
+                }
+            },
+            {
+                "title": "Senior Manager, Financial Planning & Analysis",
+                "company": "RBC",
+                "company_public_id": "rbc",
+                "description": "Head of Financial Planning & Analysis, and on leadership team responsible for setting and executing on the technology strategy for core credit products.",
+                "start_date": {
+                    "month": 1,
+                    "year": 2019
+                },
+                "end_date": {
+                    "month": 12,
+                    "year": 2019
+                }
+            },
+            {
+                "title": "Manager, Workforce Strategy and Performance",
+                "company": "RBC",
+                "company_public_id": "rbc",
+                "description": "Owned workforce planning, optimization & performance management for a 2,000+ FTE global banking operations group.",
+                "start_date": {
+                    "year": 2017
+                },
+                "end_date": {
+                    "year": 2018
+                }
+            }
+        ],
+        "education": [
+            {
+                "school": "IE Business School",
+                "activities": null,
+                "grade": null,
+                "start_date": null,
+                "end_date": null
+            },
+            {
+                "school": "University of Ottawa / Universit\u00e9 d'Ottawa",
+                "activities": null,
+                "grade": null,
+                "start_date": null,
+                "end_date": null
+            }
+        ],
+        "skills": [
+            "Market Research",
+            "Analytics",
+            "Economics",
+            "Project Management"
+        ],
+        "id": "vinaykambli"
+    },
+    {
+        "personal": {
+            "first_name": "Daniel",
+            "last_name": "Tavakoli",
+            "headline": "Senior Manager, Strategic Finance at Instacart",
+            "location": null,
+            "city": "Chicago, Illinois",
+            "industry": "Internet"
+        },
+        "experiences": [
+            {
+                "title": "Senior Manager, Strategic Finance",
+                "company": "Instacart",
+                "company_public_id": "instacart",
+                "description": "No description available",
+                "start_date": {
+                    "month": 11,
+                    "year": 2021
+                },
+                "end_date": null
+            },
+            {
+                "title": "Senior Financial Analyst",
+                "company": "LinkedIn",
+                "company_public_id": "linkedin",
+                "description": "No description available",
+                "start_date": {
+                    "month": 3,
+                    "year": 2018
+                },
+                "end_date": {
+                    "month": 9,
+                    "year": 2020
+                }
+            },
+            {
+                "title": "Senior Financial Analyst - WW Operations Finance",
+                "company": "Apple",
+                "company_public_id": "apple",
+                "description": "No description available",
+                "start_date": {
+                    "month": 9,
+                    "year": 2014
+                },
+                "end_date": {
+                    "month": 2,
+                    "year": 2018
+                }
+            },
+            {
+                "title": "Associate",
+                "company": "One Equity Partners",
+                "company_public_id": "one-equity-partners",
+                "description": "No description available",
+                "start_date": {
+                    "month": 6,
+                    "year": 2012
+                },
+                "end_date": {
+                    "month": 8,
+                    "year": 2014
+                }
+            },
+            {
+                "title": "Private Equity Fund Analyst",
+                "company": "JP Morgan",
+                "company_public_id": "jpmorgan",
+                "description": "Officer, Middle Office, Private Equity Fund Services (2011-2012)\n\u2022 Prepared quarterly valuations for One Equity Partners' investment portfolio using DCF, comparable company and precedent transaction analysis; presented valuation updates to JPMC Investment Risk Committee\n\u2022 Collaborated cross-functionally with JPMC Accounting Policy, Investment Bank, and Legal teams to determine proper valuation methodology and calculate discounts for publicly traded investments\n\u2022 Led projects requested by OEP CFO and JPMC Executive Committee, including potential divestiture, portfolio performance, and capital appreciation analyses\n\u2022 Coordinated and led the Sarbanes-Oxley compliance process for One Equity Partners; partnered with internal audit to create a new best practice control covering OEP\u2019s valuation process\n\nAccounting Officer (2010-2011), Accounting Analyst (2009-2010)\n\u2022 Responsible for all financial accounting & reporting activities for a $3B+ Private Equity fund of OEP; prepared financial statements, coordinated and led external and internal audit processes\n\u2022 Proactively developed and implemented a process for tracking non-accrual income due from portfolio companies, resulting in greater time efficiencies and accuracy during audits and exit processes",
+                "start_date": {
+                    "month": 1,
+                    "year": 2009
+                },
+                "end_date": {
+                    "month": 6,
+                    "year": 2012
+                }
+            }
+        ],
+        "education": [
+            {
+                "school": "Northwestern University - Kellogg School of Management",
+                "activities": null,
+                "grade": null,
+                "start_date": {
+                    "year": 2010
+                },
+                "end_date": {
+                    "year": 2013
+                }
+            },
+            {
+                "school": "University of Wisconsin-Madison - School of Business",
+                "activities": "Sigma Alpha Epsilon",
+                "grade": null,
+                "start_date": {
+                    "year": 2002
+                },
+                "end_date": {
+                    "year": 2006
+                }
+            },
+            {
+                "school": "American School of Dubai",
+                "activities": null,
+                "grade": null,
+                "start_date": {
+                    "year": 1999
+                },
+                "end_date": {
+                    "year": 2002
+                }
+            }
+        ],
+        "skills": [
+            "Financial Modeling",
+            "Valuation",
+            "Private Equity",
+            "Accounting"
+        ],
+        "id": "dbtavakoli"
+    },
+    {
+        "personal": {
+            "first_name": "Alley",
+            "last_name": "Liang",
+            "headline": "Senior Manager Strategic Finance at Public Goods",
+            "location": "United States",
+            "city": "New York, New York",
+            "industry": "Retail"
+        },
+        "experiences": [
+            {
+                "title": "Senior Manager Strategic Finance ",
+                "company": "Public Goods",
+                "company_public_id": "publicgoods",
+                "description": "No description available",
+                "start_date": {
+                    "year": 2023
+                },
+                "end_date": null
+            },
+            {
+                "title": "Senior Venture Architect ",
+                "company": "Boston Consulting Group (BCG)",
+                "company_public_id": "boston-consulting-group",
+                "description": "BCG Digital Ventures",
+                "start_date": {
+                    "year": 2022
+                },
+                "end_date": {
+                    "year": 2023
+                }
+            },
+            {
+                "title": "MBA Intern - Cloud Management ",
+                "company": "VMware",
+                "company_public_id": "vmware",
+                "description": "No description available",
+                "start_date": {
+                    "year": 2020
+                },
+                "end_date": {
+                    "year": 2020
+                }
+            },
+            {
+                "title": "Strategy & Finance",
+                "company": "Launch Collective",
+                "company_public_id": "launch-collective",
+                "description": "No description available",
+                "start_date": {
+                    "year": 2017
+                },
+                "end_date": {
+                    "year": 2019
+                }
+            },
+            {
+                "title": "Equity Research Associate",
+                "company": "Deutsche Bank",
+                "company_public_id": "deutsche-bank",
+                "description": "No description available",
+                "start_date": {
+                    "year": 2015
+                },
+                "end_date": {
+                    "year": 2017
+                }
+            }
+        ],
+        "education": [
+            {
+                "school": "Yale School of Management",
+                "activities": null,
+                "grade": null,
+                "start_date": {
+                    "year": 2019
+                },
+                "end_date": {
+                    "year": 2021
+                }
+            },
+            {
+                "school": "New York University",
+                "activities": null,
+                "grade": null,
+                "start_date": {
+                    "year": 2010
+                },
+                "end_date": {
+                    "year": 2014
+                }
+            }
+        ],
+        "skills": [
+            "PowerPoint",
+            "Microsoft Excel",
+            "Mandarin",
+            "Social Media"
+        ],
+        "id": "alleyliang"
+    },
+    {
+        "personal": {
+            "first_name": "Sachin",
+            "last_name": "K Thomas",
+            "headline": "Finance Manager",
+            "location": "Canada",
+            "city": "Toronto, Ontario",
+            "industry": "Financial Services"
+        },
+        "experiences": [
+            {
+                "title": "Finance and Payroll Officer",
+                "company": "CEE Centre for Young Black Professionals ",
+                "company_public_id": "cee-centre-for-young-black-professionals",
+                "description": "No description available",
+                "start_date": {
+                    "month": 11,
+                    "year": 2021
+                },
+                "end_date": {
+                    "month": 1,
+                    "year": 2022
+                }
+            },
+            {
+                "title": "Client Services Representative",
+                "company": "Fine Food Market",
+                "company_public_id": "fine-food-market",
+                "description": "The Convenience store located in downtown Toronto is one of the leading stores which stocks a wide range of everyday items. We manage a wide range of customers coming from different countries and races. Our focus is to provide positive customer experience by excellent communication and client service.\n\u2022\tGreeting customers with a smile and making guest feel welcomed and attended.\n\u2022\tCommunicating with clients to understand their requirements and providing directions and solutions.\n\u2022\tManaging the cash register, billing items, collecting payment, and maintaining receipt of transactions.\n\u2022\tCounting the contents of cash register at the end of each shift to make sure the accounts tally.\n\u2022\tManaging online orders, preparing, and working with customers to resolve queries and disputes.\n",
+                "start_date": {
+                    "month": 11,
+                    "year": 2020
+                },
+                "end_date": {
+                    "month": 10,
+                    "year": 2021
+                }
+            },
+            {
+                "title": "Senior Financial Analyst",
+                "company": "Goldman Sachs",
+                "company_public_id": "goldman-sachs",
+                "description": "Asset Management - Institutional Client Reporting\n\nThe GSAM Client Reporting team manages the client reporting deliverables for all institutional clients globally. In addition, we manage institutional portal client setup, distribution of private placement memoranda, client contacts maintenance, and provide assistance on a number of other client relationship functions, Act as a client reporting specialist within the Bangalore Client Reporting team, partnering closely with Client Relationship Managers and product teams to fulfill regularly scheduled institutional client reporting deliverables. \n\nThe team is responsible for the following functions:\n\u00b7         Checkout of Standard reports\n\u00b7         Liasoning with upstream teams for ensuring data accuracy\n\u00b7         Metrics reporting to management on a daily basis.\n\u00b7         Preparation & delivery of Custom Reports for institutional clients\n\u00b7         Co-ordination of regulatory reports for GSAM\n\u00b7         Manage changes for client statement disclosures and footnotes\n\u00b7         Access provisioning to GSAM.com",
+                "start_date": {
+                    "month": 7,
+                    "year": 2019
+                },
+                "end_date": {
+                    "month": 3,
+                    "year": 2020
+                }
+            },
+            {
+                "title": "Audit Associate",
+                "company": "KPMG",
+                "company_public_id": "kpmg",
+                "description": "Auditing for US investment Management firms.\n\nHere the team helps the US KPMG audit team to complete their audit by performing the Substantive Procedures and other control test works. We work for the US audit team that handles Investment management clients. I have received a Rising star award within the first six months in the firm. I also, have received various good feedback from US audit teams and also client service excellence awards. \n\nThe team's responsibilities include:\n* Handling a specific client being dedicated team members from off-shore to help and work along to complete the entire audit of the assigned client.\n* Vouching and ensuring the reasonableness of various items like Cash & cash equivalents, Purchase and Sales, Portfolio Holdings by checking the audit evidence and supporting documents.\n* Analyzing the unrecorded liabilities, given by the ADPT (Audit Difference Posting Threshold) matching with open trade report.\n* Mapping trial balance to the Balance sheet and Profit & Loss Statements.\n* Verifying the mathematical accuracy of the Unaudited Financial Statements and Schedule of Investments of different Investment clients.\n* Testing of the Partners capital for investment companies by recalculating the management fee and performance allocations.\n* Processing all the procedures with a high accuracy percentage and within the agreed timeline. Also, working as a team with US Engagement Teams in case of any clarifications, updates, or queries.",
+                "start_date": {
+                    "month": 9,
+                    "year": 2017
+                },
+                "end_date": {
+                    "month": 3,
+                    "year": 2019
+                }
+            }
+        ],
+        "education": [
+            {
+                "school": "Lambton College",
+                "activities": null,
+                "grade": null,
+                "start_date": {
+                    "year": 2020
+                },
+                "end_date": {
+                    "year": 2022
+                }
+            },
+            {
+                "school": "Kristhu Jayanthi College, - Bangalore University",
+                "activities": "\u27a2 Participated in the BEST CEO competition Event organized conducted by SSMRV College, Bangalore,\n\u27a2 Capacity Building Training On Life Skills conducted by the center for life skills education (CLSE)  at Kristu jayanti College, Bengaluru \n \u27a2 Participate in Workshop on EQUITY, FOREX & COMMODITY TRADING, Kristu Jayanti College, Bangalore\n \u27a2 Participated In house seminar on Make in India its Impact on FDI Policy conducted by Kristu Jayanti College ( Autonomous)",
+                "grade": null,
+                "start_date": {
+                    "year": 2015
+                },
+                "end_date": {
+                    "year": 2017
+                }
+            },
+            {
+                "school": "St. Mary's College, Sulthan Bathery - Calicut University",
+                "activities": null,
+                "grade": null,
+                "start_date": {
+                    "year": 2012
+                },
+                "end_date": {
+                    "year": 2015
+                }
+            }
+        ],
+        "skills": [
+            "General Ledgers",
+            "Analytical Software",
+            "Account Reconciliation",
+            "Annual Budgeting"
+        ],
+        "id": "kthomassachin"
+    },
+    {
+        "personal": {
+            "first_name": "Alex",
+            "last_name": "Chow, CPA",
+            "headline": "Senior Finance Manager at Viral Nation",
+            "location": "Canada",
+            "city": null,
+            "industry": "Marketing & Advertising"
+        },
+        "experiences": [
+            {
+                "title": "Senior Finance Manager - FP&A",
+                "company": "Viral Nation",
+                "company_public_id": "viralnationinc",
+                "description": "No description available",
+                "start_date": {
+                    "month": 10,
+                    "year": 2023
+                },
+                "end_date": null
+            },
+            {
+                "title": "Strategic Finance Manager",
+                "company": "TouchBistro",
+                "company_public_id": "touchbistro",
+                "description": "No description available",
+                "start_date": {
+                    "month": 8,
+                    "year": 2021
+                },
+                "end_date": {
+                    "month": 7,
+                    "year": 2022
+                }
+            },
+            {
+                "title": "Financial Analyst, Marketing Finance & Analytics",
+                "company": "Unilever",
+                "company_public_id": "unilever",
+                "description": "No description available",
+                "start_date": {
+                    "month": 2,
+                    "year": 2018
+                },
+                "end_date": {
+                    "month": 7,
+                    "year": 2019
+                }
+            },
+            {
+                "title": "Fund Accountant",
+                "company": "CIBC Mellon",
+                "company_public_id": "cibc-mellon",
+                "description": "No description available",
+                "start_date": {
+                    "month": 4,
+                    "year": 2017
+                },
+                "end_date": {
+                    "month": 2,
+                    "year": 2018
+                }
+            },
+            {
+                "title": "Internal Audit Associate",
+                "company": "Dundee Corporation",
+                "company_public_id": "dundeecorporation",
+                "description": "No description available",
+                "start_date": {
+                    "month": 5,
+                    "year": 2016
+                },
+                "end_date": {
+                    "month": 8,
+                    "year": 2016
+                }
+            }
+        ],
+        "education": [
+            {
+                "school": "University of Toronto at Scarborough",
+                "activities": null,
+                "grade": null,
+                "start_date": null,
+                "end_date": null
+            }
+        ],
+        "skills": [
+            "Leadership",
+            "Financial Analysis",
+            "Visual Basic for Applications (VBA)",
+            "Time Management"
+        ],
+        "id": "alex-chow-cpa-83275360"
+    },
+    {
+        "personal": {
+            "first_name": "Andrea",
+            "last_name": "Chacko",
+            "headline": "Finance Manager | Business Unit Support",
+            "location": "Canada",
+            "city": null,
+            "industry": "Financial Services"
+        },
+        "experiences": [
+            {
+                "title": "Senior Financial Analyst",
+                "company": "Fidelity Canada",
+                "company_public_id": "fidelitycanada",
+                "description": "No description available",
+                "start_date": {
+                    "month": 9,
+                    "year": 2022
+                },
+                "end_date": {
+                    "month": 6,
+                    "year": 2024
+                }
+            },
+            {
+                "title": "Senior Financial Analyst",
+                "company": "CIBC",
+                "company_public_id": "cibc",
+                "description": "No description available",
+                "start_date": {
+                    "month": 2,
+                    "year": 2022
+                },
+                "end_date": {
+                    "month": 8,
+                    "year": 2022
+                }
+            },
+            {
+                "title": "Financial Analyst",
+                "company": "Deloitte Canada",
+                "company_public_id": "deloitte",
+                "description": "No description available",
+                "start_date": {
+                    "month": 5,
+                    "year": 2021
+                },
+                "end_date": {
+                    "month": 2,
+                    "year": 2022
+                }
+            },
+            {
+                "title": "Business Analyst",
+                "company": "Avis Budget Group",
+                "company_public_id": "avis-budget-group",
+                "description": "No description available",
+                "start_date": {
+                    "month": 12,
+                    "year": 2018
+                },
+                "end_date": {
+                    "month": 2,
+                    "year": 2021
+                }
+            }
+        ],
+        "education": [
+            {
+                "school": "Macquarie University",
+                "activities": null,
+                "grade": null,
+                "start_date": {
+                    "year": 2016
+                },
+                "end_date": {
+                    "year": 2018
+                }
+            },
+            {
+                "school": "St. Francis College for Women",
+                "activities": null,
+                "grade": null,
+                "start_date": {
+                    "year": 2013
+                },
+                "end_date": {
+                    "year": 2016
+                }
+            }
+        ],
+        "skills": [
+            "Data Analysis",
+            "Process Improvement",
+            "Business Analysis",
+            "Interpersonal Skills"
+        ],
+        "id": "andreachacko"
+    },
+    {
+        "personal": {
+            "first_name": "Justin",
+            "last_name": "Areias, CPA, MBA",
+            "headline": "Finance Manager @ Vertus Group | CPA, MBA",
+            "location": "Canada",
+            "city": "Toronto, Ontario",
+            "industry": "Computer Software"
+        },
+        "experiences": [
+            {
+                "title": "Finance Manager",
+                "company": "Vertus Group",
+                "company_public_id": "the-vertus-group",
+                "description": "No description available",
+                "start_date": {
+                    "month": 11,
+                    "year": 2024
+                },
+                "end_date": null
+            },
+            {
+                "title": "Senior Financial Analyst",
+                "company": "Volaris Group",
+                "company_public_id": "volaris-group",
+                "description": "\u2022Guided Finance Leads in preparing comprehensive external audit documentation, leading to a 20% reduction in audit adjustments and ensuring all corporate compliance requirements were met.\n\u2022 Assumed interim Finance Manager role, overseeing quarterly budgeting practices for our latest acquired business unit, which resulted in a 15% improvement in budget accuracy and alignment with corporate guidelines.\n\u2022 Conducted internal audits across five business units at Vencora, ensuring appropriate revenue recognition and accurate reconciliations, ultimately reducing financial discrepancies by 25%.\n\u2022 Led review and consolidation of month-end and quarter-end deliverables from Finance Leads across multiple VBUs globally, ensuring accuracy and timeliness, resulting in a 20% reduction in closing cycle time.\n\u2022 Advised and supported VBU Finance teams on technical IFRS standards, particularly Revenue Recognition and Lease Accounting, resulting in a 15% improvement in compliance and accuracy of financial reporting.\n\u2022 Conducted comprehensive training sessions for VBU Finance teams on financial systems (Great Plains, BPC) and shared Corporate Reporting best practices, leading to a 30% increase in system proficiency and alignment with global reporting standards.\n\u2022 Reviewed and provided feedback on $1M+ revenue contracts to ensure IFRS compliance with VBU revenue recognition policies, reducing financial risk and improving recognition accuracy by 25%.",
+                "start_date": {
+                    "month": 5,
+                    "year": 2022
+                },
+                "end_date": {
+                    "month": 10,
+                    "year": 2024
+                }
+            },
+            {
+                "title": "Financial Analyst",
+                "company": "Techtronic Industries - TTI",
+                "company_public_id": "techtronic-industries",
+                "description": "\u2022 Enhanced financial reporting for Consumer and Outdoor SBUs by developing and presenting Financial Scorecards to Executive, Sales, and Marketing Teams, leading to improved decision-making accuracy and a 20% reduction in reporting turnaround time.\n\u2022 Streamlined monthly and quarterly forecasting processes for Floorcare, Consumer, and Outdoor Business Units, identifying variances from Budget/Prior Forecast and delivering actionable recommendations that contributed to a 15% increase in forecast accuracy.\n\u2022 Led the annual budgeting process for Floorcare, Consumer, and Outdoor, collaborating with SBU teams to assess Gross Margin and Standard Margin performance, resulting in a 10% improvement in budget adherence and alignment with corporate financial goals.\n\u2022 Implemented monthly management estimate accruals for SG&A expenses, ensuring accuracy and compliance with financial reporting standards, reducing accrual errors by 25%.\n\u2022 Provided detailed variance analysis on key P&L items, enabling management to make informed decisions and achieve a 12% reduction in controllable expenses.",
+                "start_date": {
+                    "month": 7,
+                    "year": 2019
+                },
+                "end_date": {
+                    "month": 7,
+                    "year": 2021
+                }
+            },
+            {
+                "title": "Junior Trust Compliance Officer",
+                "company": "Bereavement Authority of Ontario",
+                "company_public_id": "bereavement-authority-of-ontario",
+                "description": "\u2022Responsible for evaluating and conducting Financial Reporting analysis on over a thousand cemeteries in Ontario \n\u2022Regularly analyzed Trustee Statements submitted by operators to ensure compliance with statutory requirements \n\u2022Sent Deficiency Letters to operators in order to bring the cemetery's Care and Maintenance Trust Fund into compliance\n\u2022Had the ability to recover approximately $20,000, of depleted Care and Maintenance Funds, from a single operator through effective communication, reinforcing statutory requirements and preventing further depletion\n\u2022Effectively communicated with hundreds of licensed cemetery operators via phone; to educate, instruct and ensure proper reporting standards for each operator's Annual Licensure Report",
+                "start_date": {
+                    "month": 10,
+                    "year": 2017
+                },
+                "end_date": {
+                    "month": 3,
+                    "year": 2018
+                }
+            },
+            {
+                "title": "Customer Service",
+                "company": "Scotiabank",
+                "company_public_id": "scotiabank",
+                "description": "\u2022Responsible for meeting clients' day to day transactional needs to provide a positive customer experience\n\u2022Increased client satisfaction and loyalty through service excellence by providing sound financial advice \n\u2022Strengthened and retained profitable customer relations through sales support\n\u2022Provided client's with digital presentations and demos for new products and services resulting in an increase in credit products sold\n\u2022Helped translate Portuguese Clients' needs to Financial Service Representatives ensuring effective client communication\n\n\n",
+                "start_date": {
+                    "month": 1,
+                    "year": 2015
+                },
+                "end_date": {
+                    "month": 10,
+                    "year": 2017
+                }
+            }
+        ],
+        "education": [
+            {
+                "school": "Quantic School of Business and Technology",
+                "activities": null,
+                "grade": null,
+                "start_date": {
+                    "month": 6,
+                    "year": 2022
+                },
+                "end_date": {
+                    "month": 8,
+                    "year": 2023
+                }
+            },
+            {
+                "school": "University of Toronto - Rotman School of Management",
+                "activities": null,
+                "grade": null,
+                "start_date": {
+                    "month": 5,
+                    "year": 2017
+                },
+                "end_date": {
+                    "month": 7,
+                    "year": 2017
+                }
+            },
+            {
+                "school": "University of Toronto - Rotman School of Management",
+                "activities": null,
+                "grade": null,
+                "start_date": {
+                    "year": 2017
+                },
+                "end_date": {
+                    "year": 2017
+                }
+            }
+        ],
+        "skills": [
+            "Mergers & Acquisitions (M&A)",
+            "Portuguese",
+            "Time Management",
+            "Teamwork"
+        ],
+        "id": "justin-areias-cpa-mba-8257ab95"
+    },
+    {
+        "personal": {
+            "first_name": "Chantelle",
+            "last_name": "Petrozzi, CPA",
+            "headline": "Finance Manager at Wealthsimple",
+            "location": "Canada",
+            "city": "Toronto, Ontario",
+            "industry": "Financial Services"
+        },
+        "experiences": [
+            {
+                "title": "Senior Accountant",
+                "company": "Wealthsimple",
+                "company_public_id": "wealthsimple",
+                "description": "No description available",
+                "start_date": {
+                    "month": 1,
+                    "year": 2022
+                },
+                "end_date": {
+                    "month": 9,
+                    "year": 2024
+                }
+            },
+            {
+                "title": "Accountant",
+                "company": "ecobee",
+                "company_public_id": "ecobee",
+                "description": "No description available",
+                "start_date": {
+                    "month": 7,
+                    "year": 2018
+                },
+                "end_date": {
+                    "month": 1,
+                    "year": 2022
+                }
+            },
+            {
+                "title": "Junior Accountant",
+                "company": "AGF Investments Inc.",
+                "company_public_id": "agf-managements",
+                "description": "- Perform accurate reconciliations of multiple general ledger accounts\n- Assist with quarterly reviews, by accurately preparing the required schedules for the auditors\n- Prepare monthly journal entries for all retail management fee rebates\n",
+                "start_date": {
+                    "month": 12,
+                    "year": 2017
+                },
+                "end_date": {
+                    "month": 6,
+                    "year": 2018
+                }
+            },
+            {
+                "title": "Customer Service Representative",
+                "company": "CIBC",
+                "company_public_id": "cibc",
+                "description": "-Welcome and assist clients with their everyday banking needs while suggesting products and services to best fit the client\u2019s financial needs\n-Strengthen customer relations by ensuring all clients are confident and knowledgeable with the banking services provided",
+                "start_date": {
+                    "month": 7,
+                    "year": 2016
+                },
+                "end_date": {
+                    "month": 1,
+                    "year": 2018
+                }
+            },
+            {
+                "title": "Junior Accountant",
+                "company": "Luminato",
+                "company_public_id": "luminatofestival",
+                "description": "\u2022 Manage corporate expense reports ensuring they comply with company policies\n\u2022 Accurately prepare and maintain the accounts payable ledger to ensure timely payments are made,\nwhile up-keeping the fixed asset continuity schedule.\n\u2022 Daily tasks include, the processing of invoices and purchase orders, and the reconciliation of ticket\nrevenue through QuickBooks",
+                "start_date": {
+                    "month": 5,
+                    "year": 2017
+                },
+                "end_date": {
+                    "month": 9,
+                    "year": 2017
+                }
+            }
+        ],
+        "education": [
+            {
+                "school": "University of Toronto",
+                "activities": "Treasurer of the University of Toronto Cycling Club, Academic Peer at St Michael's College,\nOrientation Leader at St. Michaels College.",
+                "grade": null,
+                "start_date": {
+                    "year": 2013
+                },
+                "end_date": {
+                    "year": 2017
+                }
+            }
+        ],
+        "skills": [
+            "Teamwork",
+            "Microsoft Excel",
+            "Leadership",
+            "Microsoft Office"
+        ],
+        "id": "chantellepompili"
+    },
+    {
+        "personal": {
+            "first_name": "Isabella",
+            "last_name": "Diez",
+            "headline": "Innovation Strategist",
+            "location": "Canada",
+            "city": "Greater Toronto Area, Canada",
+            "industry": "Computer Software"
+        },
+        "experiences": [
+            {
+                "title": "Customer Experience Representative and Customer Service Agent",
+                "company": "Indigo",
+                "company_public_id": "indigo",
+                "description": "Design and execution of visual in-store displays. Point of contact for online customer service inquiries, promptly addressed concerns, contributing to elevated customer satisfaction and loyalty. Extensive knowledge of product offerings to provide informed recommendations, while keeping informed of emerging trends and market shifts in the dynamic publishing industry.",
+                "start_date": {
+                    "month": 6,
+                    "year": 2022
+                },
+                "end_date": null
+            },
+            {
+                "title": "Operations Lead (Contract)",
+                "company": "Jetson Infinity",
+                "company_public_id": "jetson-infinity",
+                "description": "Oversee all operational activities, including marketing strategy, event management, and lead generation. Optimizing efficiency and enhancing our market presence through strategic planning and execution. Orchestrating impactful events and implementing targeted campaigns that drive business growth and foster lasting partnerships.",
+                "start_date": {
+                    "month": 4,
+                    "year": 2024
+                },
+                "end_date": {
+                    "month": 10,
+                    "year": 2024
+                }
+            },
+            {
+                "title": "Marketing Coordinator",
+                "company": "InSchoolwear",
+                "company_public_id": "inschoolwear",
+                "description": "Execution of marketing campaigns across various social media platforms, seamlessly aligning strategies with operational dynamics. In overseeing the brand's social and digital media presence, actively engaged with consumers, gaining valuable insights into consumer behavior and fostering a customer-centric approach to retail operations.",
+                "start_date": {
+                    "month": 4,
+                    "year": 2021
+                },
+                "end_date": {
+                    "month": 9,
+                    "year": 2021
+                }
+            },
+            {
+                "title": "Teaching Assistant",
+                "company": "McMaster University",
+                "company_public_id": "mcmaster-university",
+                "description": "Supported students from various faculties as they explore innovation and enhance their entrepreneurial skills. This collaborative program between the Faculty of Engineering and the DeGroote School of Business offers a diverse range of courses tailored to individual interests, allowing students to pursue either standalone coursework or engage in practical experiences with the aim is foster innovation literacy and empower aspiring entrepreneurs to create their own enterprises.",
+                "start_date": {
+                    "month": 1,
+                    "year": 2021
+                },
+                "end_date": {
+                    "month": 8,
+                    "year": 2021
+                }
+            }
+        ],
+        "education": [
+            {
+                "school": "McMaster University",
+                "activities": null,
+                "grade": null,
+                "start_date": {
+                    "year": 2018
+                },
+                "end_date": {
+                    "year": 2022
+                }
+            },
+            {
+                "school": "St. Thomas Aquinas Secondary School",
+                "activities": null,
+                "grade": null,
+                "start_date": {
+                    "year": 2014
+                },
+                "end_date": {
+                    "year": 2018
+                }
+            }
+        ],
+        "skills": [
+            "Project Management",
+            "Lead Generation",
+            "Marketing Strategy",
+            "Feedback and Assessment:"
+        ],
+        "id": "isabelladiez057"
+    },
+    {
+        "personal": {
+            "first_name": "Jacky",
+            "last_name": "O.",
+            "headline": "Programmatic Strategist ",
+            "location": "Canada",
+            "city": "Greater Toronto Area, Canada",
+            "industry": "Marketing & Advertising"
+        },
+        "experiences": [
+            {
+                "title": "Programmatic Strategist",
+                "company": "dentsu",
+                "company_public_id": "dentsu",
+                "description": "No description available",
+                "start_date": {
+                    "month": 4,
+                    "year": 2024
+                },
+                "end_date": null
+            },
+            {
+                "title": "Campaign Manager",
+                "company": "KINESSO",
+                "company_public_id": "kinesso",
+                "description": "No description available",
+                "start_date": {
+                    "month": 1,
+                    "year": 2023
+                },
+                "end_date": {
+                    "month": 4,
+                    "year": 2024
+                }
+            },
+            {
+                "title": "Wealth Specialist",
+                "company": "TD",
+                "company_public_id": "td",
+                "description": "Mid-Office support for TD Wealth and Retail Banking",
+                "start_date": {
+                    "month": 3,
+                    "year": 2018
+                },
+                "end_date": {
+                    "month": 6,
+                    "year": 2019
+                }
+            },
+            {
+                "title": "Customer Service Representative",
+                "company": "CIBC",
+                "company_public_id": "cibc",
+                "description": "No description available",
+                "start_date": {
+                    "month": 8,
+                    "year": 2014
+                },
+                "end_date": {
+                    "month": 1,
+                    "year": 2016
+                }
+            },
+            {
+                "title": "Sales Associate",
+                "company": "Fido Solutions",
+                "company_public_id": "fido-solutions",
+                "description": "No description available",
+                "start_date": {
+                    "month": 4,
+                    "year": 2012
+                },
+                "end_date": {
+                    "month": 1,
+                    "year": 2016
+                }
+            }
+        ],
+        "education": [
+            {
+                "school": "Ryerson University",
+                "activities": null,
+                "grade": null,
+                "start_date": null,
+                "end_date": null
+            }
+        ],
+        "skills": [
+            "Critical Thinking",
+            "Problem Solving",
+            "Writing",
+            "Attention to Detail"
+        ],
+        "id": "jacky-o-54949676"
+    },
+    {
+        "personal": {
+            "first_name": "Jason",
+            "last_name": "Nguyen",
+            "headline": "Associate Strategist at Dynamic Funds",
+            "location": "Canada",
+            "city": "Toronto, Ontario",
+            "industry": "Investment Management"
+        },
+        "experiences": [
+            {
+                "title": "Associate Strategist (Quantitative)",
+                "company": "Dynamic Funds",
+                "company_public_id": "dynamic-funds",
+                "description": "Provide top-down and bottom-up quantitative analysis for investment strategy team, portfolio managers and analysts.",
+                "start_date": {
+                    "year": 2013
+                },
+                "end_date": null
+            },
+            {
+                "title": "Senior Investment Analyst",
+                "company": "Investors Group",
+                "company_public_id": "igwealthmanagement",
+                "description": "Researched, developed and implemented numerous North American long-only quantitative equity model portfolios for a variety of mandates across the main segments of the capitalization and investment style spectrum.",
+                "start_date": {
+                    "year": 2010
+                },
+                "end_date": {
+                    "year": 2013
+                }
+            },
+            {
+                "title": "Quantitative Research Associate",
+                "company": "RBC Capital Markets",
+                "company_public_id": "rbc-capital-markets",
+                "description": "Assisted the Research Analyst (North American Quantitative Research) in all group functions including the preparation of marketing presentations, custom research and data requests, client correspondence, sales & trading inquiries, idea generation, and system enhancement.",
+                "start_date": {
+                    "year": 2006
+                },
+                "end_date": {
+                    "year": 2010
+                }
+            },
+            {
+                "title": "Financial Analyst",
+                "company": "Morningstar - C.P.M.S.",
+                "company_public_id": "morningstar",
+                "description": "Collected fundamental and forecast data from daily earnings releases, financial statements, and broker research.  Managed and supervised production of equity research product for institutional clients.",
+                "start_date": {
+                    "year": 2001
+                },
+                "end_date": {
+                    "year": 2006
+                }
+            }
+        ],
+        "education": [
+            {
+                "school": "Wilfrid Laurier University",
+                "activities": null,
+                "grade": null,
+                "start_date": null,
+                "end_date": null
+            },
+            {
+                "school": "York University - Schulich School of Business",
+                "activities": null,
+                "grade": null,
+                "start_date": null,
+                "end_date": null
+            }
+        ],
+        "skills": [
+            "Portfolio Optimization",
+            "Institutional Investments",
+            "Performance Attribution",
+            "Investment Strategies"
+        ],
+        "id": "jasonhuynguyen"
+    },
+    {
+        "personal": {
+            "first_name": "Yash",
+            "last_name": "Kapil",
+            "headline": "Lead at Deloitte",
+            "location": "Canada",
+            "city": "Toronto, Ontario",
+            "industry": "Financial Services"
+        },
+        "experiences": [
+            {
+                "title": "Team Lead, Project Management",
+                "company": "Deloitte",
+                "company_public_id": "deloitte",
+                "description": "No description available",
+                "start_date": {
+                    "month": 6,
+                    "year": 2022
+                },
+                "end_date": null
+            },
+            {
+                "title": "Manager, Finance",
+                "company": "RBC Capital Markets",
+                "company_public_id": "rbc-capital-markets",
+                "description": "No description available",
+                "start_date": {
+                    "month": 11,
+                    "year": 2018
+                },
+                "end_date": {
+                    "year": 2022
+                }
+            }
+        ],
+        "education": [
+            {
+                "school": "Lazaridis School of Business & Economics at Wilfrid Laurier University",
+                "activities": null,
+                "grade": null,
+                "start_date": {
+                    "year": 2014
+                },
+                "end_date": {
+                    "year": 2018
+                }
+            }
+        ],
+        "skills": [
+            "Business Planning",
+            "Leadership",
+            "Corporate Finance",
+            "Financial Modeling"
+        ],
+        "id": "yash-kapil-a170b6221"
+    },
+    {
+        "personal": {
+            "first_name": "Brian",
+            "last_name": "Wu",
+            "headline": "Finance | Strategy | Operations ",
+            "location": "Canada",
+            "city": null,
+            "industry": "Government Administration"
+        },
+        "experiences": [
+            {
+                "title": "Chief Financial Officer",
+                "company": "Future Fertility",
+                "company_public_id": "future-fertility",
+                "description": "No description available",
+                "start_date": {
+                    "month": 12,
+                    "year": 2022
+                },
+                "end_date": null
+            },
+            {
+                "title": "Chief Financial Officer",
+                "company": "Bonsai",
+                "company_public_id": "shopbonsai",
+                "description": "Joined the company as the first C-Suite hire. Navigated the company to optimize burn before transitioning to advisor role.",
+                "start_date": {
+                    "month": 5,
+                    "year": 2022
+                },
+                "end_date": {
+                    "month": 6,
+                    "year": 2022
+                }
+            },
+            {
+                "title": "VP Finance",
+                "company": "Maple (getmaple.ca)",
+                "company_public_id": "mapleonlinehealthcare",
+                "description": "No description available",
+                "start_date": {
+                    "month": 6,
+                    "year": 2019
+                },
+                "end_date": {
+                    "month": 5,
+                    "year": 2022
+                }
+            },
+            {
+                "title": "Adjunct Lecturer",
+                "company": "University of Waterloo",
+                "company_public_id": "uwaterloo",
+                "description": "No description available",
+                "start_date": {
+                    "month": 5,
+                    "year": 2018
+                },
+                "end_date": {
+                    "month": 8,
+                    "year": 2019
+                }
+            },
+            {
+                "title": "VP Finance",
+                "company": "STACK",
+                "company_public_id": "getstack",
+                "description": "No description available",
+                "start_date": {
+                    "month": 7,
+                    "year": 2018
+                },
+                "end_date": {
+                    "month": 6,
+                    "year": 2019
+                }
+            }
+        ],
+        "education": [
+            {
+                "school": "University of Waterloo",
+                "activities": null,
+                "grade": null,
+                "start_date": null,
+                "end_date": null
+            },
+            {
+                "school": "University of Waterloo",
+                "activities": null,
+                "grade": null,
+                "start_date": null,
+                "end_date": null
+            }
+        ],
+        "skills": [
+            "IFRS",
+            "Corporate Tax",
+            "Accounting",
+            "Financial Reporting"
+        ],
+        "id": "brian-wu-cpa-ca-cfa"
+    },
+    {
+        "personal": {
+            "first_name": "Shobith",
+            "last_name": "J.",
+            "headline": "Analytics | Finance| CFA | MBA |",
+            "location": "Canada",
+            "city": "Toronto, Ontario",
+            "industry": "Higher Education"
+        },
+        "experiences": [
+            {
+                "title": "Manager Analytics & Strategy",
+                "company": "Subway",
+                "company_public_id": "subway",
+                "description": "Pricing, Analytics and Strategy for Subway Canada. worked with Marketing and Operations team to drive  window programs and marketing initiatives. Led pricing for Subway Canada by partnering with the regional business development directors to implement them",
+                "start_date": {
+                    "month": 3,
+                    "year": 2019
+                },
+                "end_date": {
+                    "month": 10,
+                    "year": 2022
+                }
+            },
+            {
+                "title": "Manager Data Management and Governance",
+                "company": "Restaurant Brands International",
+                "company_public_id": "restaurant-brands-international",
+                "description": "Led a team of 8+ Analyst and oversaw an offshore team to execute Data Governance projects. Worked closely with cross functional to build end to end data strategy that helped in building great tools, websites and app",
+                "start_date": {
+                    "year": 2016
+                },
+                "end_date": {
+                    "year": 2018
+                }
+            },
+            {
+                "title": "Analytics ",
+                "company": "Barclays",
+                "company_public_id": "barclays-bank",
+                "description": "Analytics for Synthetics and Sec Lending Trading Desks\nSQL, Qlikview, Qlik sense",
+                "start_date": {
+                    "year": 2013
+                },
+                "end_date": {
+                    "year": 2015
+                }
+            },
+            {
+                "title": "Business Analytics",
+                "company": "Ocwen Financial Corporation - US",
+                "company_public_id": "ocwen-financial-corporation",
+                "description": "Analytics for Mortgage Backed Securities, Bond Issues\nSQL, SAS",
+                "start_date": {
+                    "year": 2010
+                },
+                "end_date": {
+                    "year": 2013
+                }
+            }
+        ],
+        "education": [
+            {
+                "school": "Ivey Business School at Western University",
+                "activities": null,
+                "grade": null,
+                "start_date": null,
+                "end_date": null
+            },
+            {
+                "school": "National Institute of Technology Calicut",
+                "activities": null,
+                "grade": null,
+                "start_date": null,
+                "end_date": null
+            },
+            {
+                "school": "CFA institute",
+                "activities": null,
+                "grade": null,
+                "start_date": null,
+                "end_date": null
+            }
+        ],
+        "skills": [
+            "Goal Setting",
+            "Business Profitability",
+            "Business Development",
+            "Food & Beverage"
+        ],
+        "id": "shobith-j-098392126"
+    },
+    {
+        "personal": {
+            "first_name": "Umme Salma",
+            "last_name": "M.",
+            "headline": "Senior Finance Lead | FP&A | Project Management Specialist @GE Aerospace | Bilingual - French | Mural Artist",
+            "location": "Canada",
+            "city": "Greater Montreal Metropolitan Area",
+            "industry": "Aviation & Aerospace"
+        },
+        "experiences": [
+            {
+                "title": "Senior Finance Lead - Project Management Specialist",
+                "company": "GE Aerospace",
+                "company_public_id": "geaerospace",
+                "description": "Working with highly challenging environment driving consistency. Responsible for building project pricing models, project financial analysis, reconciliations and scenario analyses in relation to budgets and forecasts with an agenda driven on improving project margins. Interacting regularly with internal business partners to perform risk evaluation, project planning, preparation of budgets, examining forecasts, monitoring and identifying budget variances & communicating impact on financial results on their cost centers. \n\n\u2022 Oversee AR team and entire process of revenue recognition , ME Reporting, Financial Preparations\n\u2022 Project Pricing, FTE Analysis, Project creation, Project budgeting, Forecasting, Project Financial reporting\n\u2022 Expense Review, Invoicing, ETC & EAC reporting, EVM analysis, Risk Analysis Review - Project Financial statements, Revenue analysis, Complex scenario analysis, Creation WBS, CBS etc.\n\u2022 Planning/scheduling, cost engineering, cost estimating and cost analysis/control activities for a major project, schedule progress reports, trending charts and schedule analysis, Sub contractor management\n\u2022 SME for development of governance, internal controls, process , and training materials, Lead projects from requirements definition through deployment, identifying schedules, scopes, budget estimations, and implementation plans, including risk mitigation\n\u2022 Assist with update to projections on cash flows, staffing plans and contingency usage & support the change control process, establishing the necessary forms, logs and expediting methods\n\u2022 Milestone invoicing monthly/quarterly basis , recognize revenue and perform Project close out activities\n\u2022 Built Financial Performance Dashboard for leadership & Corporate reporting \n\u2022 Successful Project Completion \u2013 GE Aerospace Separation\u201922",
+                "start_date": {
+                    "month": 4,
+                    "year": 2021
+                },
+                "end_date": null
+            },
+            {
+                "title": "Bilingual Finance Specialist",
+                "company": "Premier Tech",
+                "company_public_id": "premier-tech",
+                "description": "As an Accounting & Finance Analyst, I monitored different indicators such as profitability, liquidity, and solvency, and research financial information which further is made available to executives to make the best business decisions. My Essential responsibilities included: gathering and analyzing financial data, making financial predictions, finding ways to improve financial performance, monitoring financial trends, and influencing strategic decisions making. Also, performing full cycle accounting duties, month end closure, account reconciliations, passing journal entries and financial reporting.\n\nPrimary Duties:\n\uf0a7\tPreparation of annual/operational budget, financial reports and other ad hoc reporting for management\n\uf0a7\tReviewed Financial statements, analyze sales revenue, costs, expenses for business units\n\uf0a7\tPartnered with top management in building and implementing cost and inventory control systems for better reporting strategy, including monthly financial reporting\n\uf0a7\tCost Accounting, KPI Analysis for various product lines and business unit reporting\n\uf0a7\tMonitored cost control activities and Product cycle progress\n\uf0a7\tCalculating product cost and negotiating price with vendors and subcontractors\n\uf0a7\tSupported external auditors with the necessary information needed in the timely management of preliminary and year-end audit processes.",
+                "start_date": {
+                    "month": 8,
+                    "year": 2019
+                },
+                "end_date": {
+                    "month": 3,
+                    "year": 2021
+                }
+            },
+            {
+                "title": "Senior Finance Consultant - Project Management",
+                "company": "ZS",
+                "company_public_id": "zs-associates",
+                "description": "In this role, I served as as CFM reporting directly to PMO on tracking the project financials beginning from engagement startup to closure (pricing, Project setup, billing the client, monitoring the cost on time and expenses. Monitored and analyzed financial, statistical and operational data trend Analyzes and solved problems by completing tasks including modeling, reconciliations and reporting conducted analysis on billed and unbilled receivables performing various functions including budgeting, budget forecasts, and assisting Project Manger in developing monthly in developing reviewing and compiling all financial information, includes Labor hours, materials, other direct costs and travel applicable to the program examining budget estimates for completeness, accuracy and conformance with procedures. Master validation against forecast, ensuring that invoice rate, hours and projects worth over $2M+  monthly basis.\n\nPrimary Duties:\n\uf0a7 Prepared budgets and forecasts to project and track financial metrics such as revenue, expense\n\uf0a7 Primarily involved in handing large client projects with analysis on financial status and outlook \n\uf0a7 Managing revenue recognition, completion estimates, write-offs and margins\n\uf0a7 Engaging with project teams and clients to identify and resolve any financial issues\n\uf0a7 Proficient in project management, financial software tools MSWord, Excel and Oracle\n\uf0a7 Project Accounting and month end closing support in SAP and other systems\n\uf0a7 Preparation of Monthly and Annual consolidated financials\n\uf0a7 Developed work breakdown structures for all assigned programs to the fourth level of indenture to include cost, resources\n\uf0a7 Support on preparation of Quarterly Business Reviews, Rolling Forecasts, anticipate future financial performance and provide analytical advise to business partners",
+                "start_date": {
+                    "month": 6,
+                    "year": 2018
+                },
+                "end_date": {
+                    "month": 7,
+                    "year": 2019
+                }
+            },
+            {
+                "title": "Project Controller Analyst",
+                "company": "Deloitte Consulting",
+                "company_public_id": "deloitte",
+                "description": "As a Project Controller Analyst, I performed Project analysis, reconciliation on budgets and forecasts for Fixed and T&M Audit projects. Supported PMO on Blackstone, .\n\nDutites:\n\n\uf0a7 Supported Project planning, initiation, resourcing and execution to monitoring, control and completion \n\uf0a7 Maintained cost and schedule by developing WBS financial infrastructure, also tracked the weekly project performance \n\uf0a7 Extensive support extended to leadership budget reporting, project financial performance for rapid decision making\n\uf0a7 Managed project closure activities by processing unbilled revenue adjustments and issuing final invoices",
+                "start_date": {
+                    "month": 6,
+                    "year": 2015
+                },
+                "end_date": {
+                    "month": 6,
+                    "year": 2016
+                }
+            }
+        ],
+        "education": [
+            {
+                "school": "Christ University, Bangalore",
+                "activities": null,
+                "grade": "8.25 CGPA",
+                "start_date": {
+                    "year": 2015
+                },
+                "end_date": {
+                    "year": 2017
+                }
+            },
+            {
+                "school": "Allaince francaise de Bengaluru",
+                "activities": null,
+                "grade": null,
+                "start_date": {
+                    "year": 2008
+                },
+                "end_date": {
+                    "year": 2015
+                }
+            },
+            {
+                "school": "DeVry University",
+                "activities": null,
+                "grade": "4 Credits",
+                "start_date": {
+                    "year": 2014
+                },
+                "end_date": {
+                    "year": 2014
+                }
+            }
+        ],
+        "skills": [
+            "Risk Management",
+            "Risk Analysis",
+            "Project Estimation",
+            "Project Delivery"
+        ],
+        "id": "umme-salma-su"
+    },
+    {
+        "personal": {
+            "first_name": "Tathagat",
+            "last_name": "Y.",
+            "headline": "Data Engineer, Finance-Sales-Revenue, Salesforce, Zuora RevPro, ERP, FinOps Certified",
+            "location": "Canada",
+            "city": "Toronto, Ontario",
+            "industry": "Information Technology & Services"
+        },
+        "experiences": [
+            {
+                "title": "Data Engineer, Finance  - Revenue , CFO Group",
+                "company": "VTS",
+                "company_public_id": "we-are-vts",
+                "description": "No description available",
+                "start_date": {
+                    "month": 10,
+                    "year": 2022
+                },
+                "end_date": {
+                    "month": 8,
+                    "year": 2023
+                }
+            },
+            {
+                "title": "Associate Director , Data Engineer - CFO Group",
+                "company": "RBC Capital Markets",
+                "company_public_id": "rbc-capital-markets",
+                "description": "Financial Modelling and Data Strategy team , Wholesales Finance , CFO group\n\nProduct Developed - FLAME/CFLA , DBF , Finance Platform \n\nProactively manage product roadmap, life cycle, backlog and writing user stories to drive software development  \n\nWorking closely with the executive to create simple end user computing and minimal maintenance tech infrastructure  \n\nInitiated/Enhancement of ML opportunity for reconciliation and sentiment analysis (NLP) for quarter end interaction with investor  \n\nData Governance like\u2013 Data Lineage, Technical, Metadata , SOX compliance and Data Transfer Control (DTC)",
+                "start_date": {
+                    "month": 6,
+                    "year": 2021
+                },
+                "end_date": {
+                    "month": 10,
+                    "year": 2022
+                }
+            },
+            {
+                "title": "Initiative Manager , Data Engineer ",
+                "company": "RBC",
+                "company_public_id": "rbc",
+                "description": "Product Owner for SmartStream TLM 3.0 reconciliation application\n\nManaged various technical and data modeling aspect for Domestic/Canadian, Caribbean and Insurance reconciliation  \n\nCreated proof of concept/framework to ingest semi-structured/unstructured files in the data pipeline to enhance the quality of data for reconciliation via python \n\nArchitected reporting for executives and reviewed IT team\u2019s work effort for various projects",
+                "start_date": {
+                    "month": 1,
+                    "year": 2018
+                },
+                "end_date": {
+                    "month": 2,
+                    "year": 2020
+                }
+            },
+            {
+                "title": "Teaching Assistant",
+                "company": "University of Waterloo",
+                "company_public_id": "uwaterloo",
+                "description": "MSCI 454 Technical Entrepreneurship",
+                "start_date": {
+                    "month": 1,
+                    "year": 2017
+                },
+                "end_date": {
+                    "month": 4,
+                    "year": 2017
+                }
+            },
+            {
+                "title": "Software Engineer",
+                "company": "Accenture",
+                "company_public_id": "accenture",
+                "description": "Python and shell script for ETL\nTransaction Lifecycle Management Rec Premium 2.4 Developer \nExecuted incremental build for new Account/Reconciliation onboarding \nParticipated in project planning, technical analysis, and issue identification/solution",
+                "start_date": {
+                    "month": 1,
+                    "year": 2016
+                },
+                "end_date": {
+                    "month": 7,
+                    "year": 2016
+                }
+            }
+        ],
+        "education": [
+            {
+                "school": "University of Waterloo",
+                "activities": null,
+                "grade": "82%",
+                "start_date": {
+                    "year": 2016
+                },
+                "end_date": {
+                    "year": 2018
+                }
+            },
+            {
+                "school": "Cochin University of Science and Technology",
+                "activities": null,
+                "grade": "73.4%",
+                "start_date": {
+                    "year": 2009
+                },
+                "end_date": {
+                    "year": 2013
+                }
+            }
+        ],
+        "skills": [
+            "Databricks Products",
+            "Snowflake",
+            "Zuora",
+            "Salesforce CPQ"
+        ],
+        "id": "tyash"
+    },
+    {
+        "personal": {
+            "first_name": "Jalal",
+            "last_name": "Ahmad",
+            "headline": "Strategic Finance @ Fullscript",
+            "location": "Canada",
+            "city": "Toronto, Ontario",
+            "industry": "Investment Banking"
+        },
+        "experiences": [
+            {
+                "title": "Strategic Finance",
+                "company": "Fullscript",
+                "company_public_id": "fullscript",
+                "description": "CorpDev / M&A, Strategy, and Planning for PE-backed HealthTech driving Integrative Medicine",
+                "start_date": {
+                    "month": 4,
+                    "year": 2024
+                },
+                "end_date": null
+            },
+            {
+                "title": "Strategic Finance",
+                "company": "Lightspeed Commerce",
+                "company_public_id": "lightspeedcommerce",
+                "description": "Led strategic initiatives to grow Payments and Capital offerings across global SaaS business\n\nProjects spanning new market launches, pricing, M&A integration, GTM modelling, and enterprise partnerships",
+                "start_date": {
+                    "month": 2,
+                    "year": 2022
+                },
+                "end_date": {
+                    "month": 4,
+                    "year": 2024
+                }
+            },
+            {
+                "title": "Technology Investment Banking",
+                "company": "BMO Capital Markets",
+                "company_public_id": "bmo-capital-markets",
+                "description": "Advised high-growth SaaS businesses on IPO / M&A transactions and corporate strategy",
+                "start_date": {
+                    "month": 2,
+                    "year": 2021
+                },
+                "end_date": {
+                    "month": 1,
+                    "year": 2022
+                }
+            },
+            {
+                "title": "Corporate Client Group",
+                "company": "RBC",
+                "company_public_id": "rbc",
+                "description": "Tech, Media, and Telecom (TMT)",
+                "start_date": {
+                    "year": 2019
+                },
+                "end_date": {
+                    "year": 2021
+                }
+            }
+        ],
+        "education": [
+            {
+                "school": "Queen's University",
+                "activities": null,
+                "grade": "First Class Honours",
+                "start_date": null,
+                "end_date": null
+            },
+            {
+                "school": "Bayes Business School",
+                "activities": null,
+                "grade": null,
+                "start_date": null,
+                "end_date": null
+            }
+        ],
+        "skills": [
+            "FactSet",
+            "Corporate Strategy",
+            "Stakeholder Management",
+            "Financial Analysis"
+        ],
+        "id": "jalal-ahmad"
+    },
+    {
+        "personal": {
+            "first_name": "Niki",
+            "last_name": "Shi",
+            "headline": "Strategic Finance at Dream Unlimited",
+            "location": "Canada",
+            "city": null,
+            "industry": "Real Estate"
+        },
+        "experiences": [
+            {
+                "title": "Senior Manager, Strategic Finance",
+                "company": "Dream",
+                "company_public_id": "dream-unlimited",
+                "description": "No description available",
+                "start_date": {
+                    "month": 9,
+                    "year": 2021
+                },
+                "end_date": {
+                    "month": 2,
+                    "year": 2023
+                }
+            },
+            {
+                "title": "Senior Associate, Real Estate",
+                "company": "RBC Capital Markets",
+                "company_public_id": "rbc-capital-markets",
+                "description": "No description available",
+                "start_date": {
+                    "month": 9,
+                    "year": 2018
+                },
+                "end_date": {
+                    "month": 11,
+                    "year": 2020
+                }
+            },
+            {
+                "title": "Summer Analyst",
+                "company": "RBC Capital Markets",
+                "company_public_id": "rbc-capital-markets",
+                "description": "No description available",
+                "start_date": {
+                    "month": 5,
+                    "year": 2015
+                },
+                "end_date": {
+                    "month": 8,
+                    "year": 2015
+                }
+            },
+            {
+                "title": "Summer Analyst, Finance",
+                "company": "RBC",
+                "company_public_id": "rbc",
+                "description": "No description available",
+                "start_date": {
+                    "month": 6,
+                    "year": 2014
+                },
+                "end_date": {
+                    "month": 8,
+                    "year": 2014
+                }
+            }
+        ],
+        "education": [
+            {
+                "school": "University of Toronto",
+                "activities": null,
+                "grade": null,
+                "start_date": null,
+                "end_date": {
+                    "year": 2016
+                }
+            }
+        ],
+        "skills": [],
+        "id": "nikishi"
+    },
+    {
+        "personal": {
+            "first_name": "Peter",
+            "last_name": "Ly, CFA, CPA",
+            "headline": "Strategic Finance at Bird",
+            "location": "Canada",
+            "city": "Greater Toronto Area, Canada",
+            "industry": "Computer Software"
+        },
+        "experiences": [
+            {
+                "title": "Sr. Strategic Finance Associate",
+                "company": "Bird",
+                "company_public_id": "birdapp",
+                "description": "No description available",
+                "start_date": {
+                    "month": 6,
+                    "year": 2023
+                },
+                "end_date": null
+            },
+            {
+                "title": "FP&A Analyst",
+                "company": "Super.com",
+                "company_public_id": "superdotcom",
+                "description": "Finance & Strategy Team",
+                "start_date": {
+                    "month": 1,
+                    "year": 2022
+                },
+                "end_date": {
+                    "month": 6,
+                    "year": 2023
+                }
+            },
+            {
+                "title": "Equity Research Associate",
+                "company": "BMO Capital Markets",
+                "company_public_id": "bmo-capital-markets",
+                "description": "Investment Strategy Group ",
+                "start_date": {
+                    "month": 3,
+                    "year": 2017
+                },
+                "end_date": {
+                    "month": 12,
+                    "year": 2021
+                }
+            },
+            {
+                "title": "Equity Research Associate",
+                "company": "Gluskin Sheff + Associates Inc.",
+                "company_public_id": "gluskin-sheff---associates",
+                "description": "Investment Management Team",
+                "start_date": {
+                    "month": 8,
+                    "year": 2015
+                },
+                "end_date": {
+                    "month": 12,
+                    "year": 2015
+                }
+            },
+            {
+                "title": "Equity Analyst",
+                "company": "CI Global Asset Management",
+                "company_public_id": "ci-global-asset-management",
+                "description": "Global Consumer Staples & Discretionary",
+                "start_date": {
+                    "month": 1,
+                    "year": 2015
+                },
+                "end_date": {
+                    "month": 5,
+                    "year": 2015
+                }
+            }
+        ],
+        "education": [
+            {
+                "school": "University of Waterloo",
+                "activities": null,
+                "grade": null,
+                "start_date": null,
+                "end_date": {
+                    "year": 2016
+                }
+            },
+            {
+                "school": "Wilfrid Laurier University",
+                "activities": null,
+                "grade": null,
+                "start_date": null,
+                "end_date": {
+                    "year": 2016
+                }
+            }
+        ],
+        "skills": [
+            "Data Analysis",
+            "Access",
+            "Analysis",
+            "SQL"
+        ],
+        "id": "lypeter"
+    },
+    {
+        "personal": {
+            "first_name": "Kevin",
+            "last_name": "Yu",
+            "headline": "Strategic Finance at Tailscale",
+            "location": "Canada",
+            "city": "Toronto, Ontario",
+            "industry": "Computer Software"
+        },
+        "experiences": [
+            {
+                "title": "Strategic Finance",
+                "company": "Tailscale",
+                "company_public_id": "tailscale",
+                "description": "No description available",
+                "start_date": {
+                    "month": 11,
+                    "year": 2023
+                },
+                "end_date": null
+            },
+            {
+                "title": "Strategic Finance",
+                "company": "Brex",
+                "company_public_id": "brexhq",
+                "description": "No description available",
+                "start_date": {
+                    "year": 2022
+                },
+                "end_date": {
+                    "month": 11,
+                    "year": 2023
+                }
+            },
+            {
+                "title": "Private Equity",
+                "company": "Altas Partners",
+                "company_public_id": "altaspartners",
+                "description": "No description available",
+                "start_date": {
+                    "year": 2018
+                },
+                "end_date": {
+                    "year": 2021
+                }
+            },
+            {
+                "title": "Investment Banking",
+                "company": "Lazard",
+                "company_public_id": "lazard",
+                "description": "No description available",
+                "start_date": {
+                    "year": 2017
+                },
+                "end_date": {
+                    "year": 2018
+                }
+            },
+            {
+                "title": "Investment Banking",
+                "company": "BMO Capital Markets",
+                "company_public_id": "bmo-capital-markets",
+                "description": "No description available",
+                "start_date": {
+                    "year": 2016
+                },
+                "end_date": {
+                    "year": 2017
+                }
+            }
+        ],
+        "education": [
+            {
+                "school": "University of Waterloo",
+                "activities": null,
+                "grade": null,
+                "start_date": null,
+                "end_date": null
+            }
+        ],
+        "skills": [
+            "Financial Analysis",
+            "Financial Modeling",
+            "Problem Solving",
+            "Mergers & Acquisitions (M&A)"
+        ],
+        "id": "kevin-yu"
+    },
+    {
+        "personal": {
+            "first_name": "Mark",
+            "last_name": "J.",
+            "headline": "Strategic Finance & FP&A @ IonQ",
+            "location": "Canada",
+            "city": "Toronto, Ontario",
+            "industry": "Consumer Electronics"
+        },
+        "experiences": [
+            {
+                "title": "Strategic Finance & FP&A",
+                "company": "IonQ",
+                "company_public_id": "ionq-co",
+                "description": "No description available",
+                "start_date": {
+                    "month": 8,
+                    "year": 2023
+                },
+                "end_date": null
+            },
+            {
+                "title": "Corporate Development",
+                "company": "Apryse",
+                "company_public_id": "aprysesolutions",
+                "description": "No description available",
+                "start_date": {
+                    "month": 10,
+                    "year": 2022
+                },
+                "end_date": {
+                    "month": 8,
+                    "year": 2023
+                }
+            },
+            {
+                "title": "Investment Banking Analyst",
+                "company": "Canaccord Genuity- Global Capital Markets",
+                "company_public_id": "canaccord-genuity-global-capital-markets",
+                "description": "Diversified Investment Banking Division\n",
+                "start_date": {
+                    "month": 9,
+                    "year": 2021
+                },
+                "end_date": {
+                    "month": 10,
+                    "year": 2022
+                }
+            },
+            {
+                "title": "Investment Banking Summer Analyst",
+                "company": "Canaccord Genuity - Global Capital Markets",
+                "company_public_id": "canaccord-genuity-global-capital-markets",
+                "description": "Diversified Investment Banking Division\n",
+                "start_date": {
+                    "month": 5,
+                    "year": 2020
+                },
+                "end_date": {
+                    "month": 9,
+                    "year": 2020
+                }
+            },
+            {
+                "title": "Summer Analyst",
+                "company": "Slate Asset Management",
+                "company_public_id": "slateam",
+                "description": "Commercial Real Estate Private Equity and Asset Management",
+                "start_date": {
+                    "year": 2019
+                },
+                "end_date": {
+                    "year": 2019
+                }
+            }
+        ],
+        "education": [
+            {
+                "school": "Ivey Business School at Western University",
+                "activities": "Ivey Real Estate Club",
+                "grade": null,
+                "start_date": null,
+                "end_date": null
+            },
+            {
+                "school": "Western University",
+                "activities": null,
+                "grade": null,
+                "start_date": null,
+                "end_date": null
+            }
+        ],
+        "skills": [
+            "Financial Modeling",
+            "Mergers & Acquisitions (M&A)",
+            "Financial Analysis",
+            "SQL"
+        ],
+        "id": "markjoe"
+    },
+    {
+        "personal": {
+            "first_name": "Jashan",
+            "last_name": "Kaur",
+            "headline": "Senior Manager @ RBCx (Ventures) | Strategic Finance @ Replit (AI + SaaS) | Investment Banking @ JP Morgan",
+            "location": "Canada",
+            "city": "Toronto, Ontario",
+            "industry": "Computer Software"
+        },
+        "experiences": [
+            {
+                "title": "Senior Manager",
+                "company": "RBCx",
+                "company_public_id": "rbcx",
+                "description": "No description available",
+                "start_date": {
+                    "month": 8,
+                    "year": 2024
+                },
+                "end_date": null
+            },
+            {
+                "title": "Strategic Finance",
+                "company": "Replit",
+                "company_public_id": "repl-it",
+                "description": "Revenue analytics, Financial Modelling, SaaS metrics (ARR, LTV, Retention), GTM RevOps",
+                "start_date": {
+                    "month": 7,
+                    "year": 2023
+                },
+                "end_date": {
+                    "month": 7,
+                    "year": 2024
+                }
+            },
+            {
+                "title": "Finance Manager",
+                "company": "Procter & Gamble",
+                "company_public_id": "procter-and-gamble",
+                "description": "Awards: \n1. Platinum Award  - Recognized leadership & resilience in enabling the team to finish the year +16pts vs. target\n2. Gold Award - Recognized leadership & growth in successfully executing pricing strategy & leading the Business Planning for FY2223",
+                "start_date": {
+                    "month": 6,
+                    "year": 2021
+                },
+                "end_date": {
+                    "month": 7,
+                    "year": 2023
+                }
+            },
+            {
+                "title": "Business Analyst",
+                "company": "BOMBARDIER",
+                "company_public_id": "bombardier",
+                "description": "No description available",
+                "start_date": {
+                    "month": 12,
+                    "year": 2019
+                },
+                "end_date": {
+                    "month": 5,
+                    "year": 2020
+                }
+            },
+            {
+                "title": "Investment Banking Analyst",
+                "company": "J.P. Morgan",
+                "company_public_id": "jpmorgan",
+                "description": "Diversified Industrials and Transportation Coverage, Investment Banking Division\n\n- Prepared pitchbooks for 30+ clients by assessing potential M&A targets, highlighting industry trends, conducting interloper analysis, developing financial valuations, and performing pro-forma analysis\n- Key valuation analysis performed: DCF, SOTP, trading and transaction comps\n- Developed functional expertise in the airline industry and was the partner of choice projects in this sector\n\nKey deals:\n\u2022 Developed financial valuations and management decks for a successful IPO of a US-based landscaping services firm (~$650MM)\n\u2022 Conducted trading/transaction comps analysis and generated industry insights for a successful IPO of a US-based waste-water processing firm (~$600MM)\n\u2022 Deal team member for execution of IPO of one of the largest airlines in the US with $2.1B revenue",
+                "start_date": {
+                    "month": 7,
+                    "year": 2017
+                },
+                "end_date": {
+                    "month": 8,
+                    "year": 2019
+                }
+            }
+        ],
+        "education": [
+            {
+                "school": "McGill University - Desautels Faculty of Management",
+                "activities": null,
+                "grade": "3.9/4.0",
+                "start_date": null,
+                "end_date": null
+            },
+            {
+                "school": "PEC University of Technology, Chandigarh",
+                "activities": null,
+                "grade": null,
+                "start_date": null,
+                "end_date": null
+            }
+        ],
+        "skills": [
+            "M&A analysis",
+            "M&A Modeling",
+            "Valuation",
+            "Mergers & Acquisitions (M&A)"
+        ],
+        "id": "jashan-kaur"
+    },
+    {
+        "personal": {
+            "first_name": "Vinay",
+            "last_name": "Kambli",
+            "headline": "Strategic Planning, Finance, Business Analytics and Global Operations Leadership",
+            "location": "Canada",
+            "city": "Toronto, Ontario",
+            "industry": "Venture Capital & Private Equity"
+        },
+        "experiences": [
+            {
+                "title": "Head of Finance Operations",
+                "company": "RBCx",
+                "company_public_id": "rbcx",
+                "description": "Developing a high-impact team and together creating a finance operations platform that provides early stage businesses security, scale, and insights.",
+                "start_date": {
+                    "month": 7,
+                    "year": 2022
+                },
+                "end_date": null
+            },
+            {
+                "title": "On Deck Fellow",
+                "company": "On Deck",
+                "company_public_id": "'odf'",
+                "description": "No description available",
+                "start_date": {
+                    "month": 2,
+                    "year": 2022
+                },
+                "end_date": {
+                    "month": 7,
+                    "year": 2022
+                }
+            },
+            {
+                "title": "Senior Manager, Strategic Planning and Operations",
+                "company": "RBC",
+                "company_public_id": "rbc",
+                "description": "Led strategic initiatives across technology teams powering payment & core credit products, working closely with engineering, product and delivery leaders to continuously improve 'how we ship', and codify best practices to drive impact from agile delivery, devops, risk mgmt., and performance reporting.",
+                "start_date": {
+                    "month": 1,
+                    "year": 2021
+                },
+                "end_date": {
+                    "month": 6,
+                    "year": 2022
+                }
+            },
+            {
+                "title": "Senior Manager, Financial Planning & Analysis",
+                "company": "RBC",
+                "company_public_id": "rbc",
+                "description": "Head of Financial Planning & Analysis, and on leadership team responsible for setting and executing on the technology strategy for core credit products.",
+                "start_date": {
+                    "month": 1,
+                    "year": 2019
+                },
+                "end_date": {
+                    "month": 12,
+                    "year": 2019
+                }
+            },
+            {
+                "title": "Manager, Workforce Strategy and Performance",
+                "company": "RBC",
+                "company_public_id": "rbc",
+                "description": "Owned workforce planning, optimization & performance management for a 2,000+ FTE global banking operations group.",
+                "start_date": {
+                    "year": 2017
+                },
+                "end_date": {
+                    "year": 2018
+                }
+            }
+        ],
+        "education": [
+            {
+                "school": "IE Business School",
+                "activities": null,
+                "grade": null,
+                "start_date": null,
+                "end_date": null
+            },
+            {
+                "school": "University of Ottawa / Universit\u00e9 d'Ottawa",
+                "activities": null,
+                "grade": null,
+                "start_date": null,
+                "end_date": null
+            }
+        ],
+        "skills": [
+            "Market Research",
+            "Analytics",
+            "Economics",
+            "Project Management"
+        ],
+        "id": "vinaykambli"
+    },
+    {
+        "personal": {
+            "first_name": "Salik",
+            "last_name": "Gilani",
+            "headline": "Senior Manager - Financial Planning & Analysis | Scotiabank",
+            "location": "Canada",
+            "city": "Toronto, Ontario",
+            "industry": "Banking"
+        },
+        "experiences": [
+            {
+                "title": "Senior Manager, Financial Management - Business & Performance Management",
+                "company": "Scotiabank - Global Banking and Markets",
+                "company_public_id": "scotiabank-gbm",
+                "description": "No description available",
+                "start_date": {
+                    "month": 1,
+                    "year": 2023
+                },
+                "end_date": null
+            },
+            {
+                "title": "Associate - Financial Planning & Analysis, Business Management",
+                "company": "RBC Capital Markets",
+                "company_public_id": "rbc-capital-markets",
+                "description": "No description available",
+                "start_date": {
+                    "month": 2,
+                    "year": 2019
+                },
+                "end_date": {
+                    "month": 11,
+                    "year": 2021
+                }
+            },
+            {
+                "title": "Financial Modeling Analyst",
+                "company": "divvyDOSE",
+                "company_public_id": "divvydose",
+                "description": "No description available",
+                "start_date": {
+                    "month": 3,
+                    "year": 2017
+                },
+                "end_date": {
+                    "month": 12,
+                    "year": 2017
+                }
+            },
+            {
+                "title": "Corporate Strategy Intern",
+                "company": "Chamberlain Group (CGI)",
+                "company_public_id": "chamberlain-group-llc",
+                "description": "No description available",
+                "start_date": {
+                    "month": 6,
+                    "year": 2016
+                },
+                "end_date": {
+                    "month": 8,
+                    "year": 2016
+                }
+            },
+            {
+                "title": "Business Consultant",
+                "company": "Chevron",
+                "company_public_id": "chevron",
+                "description": "No description available",
+                "start_date": {
+                    "month": 10,
+                    "year": 2012
+                },
+                "end_date": {
+                    "month": 6,
+                    "year": 2015
+                }
+            }
+        ],
+        "education": [
+            {
+                "school": "University of Iowa - Henry B. Tippie College of Business",
+                "activities": null,
+                "grade": "3.80",
+                "start_date": {
+                    "year": 2015
+                },
+                "end_date": {
+                    "year": 2017
+                }
+            },
+            {
+                "school": "Lahore University of Management Sciences",
+                "activities": null,
+                "grade": null,
+                "start_date": {
+                    "year": 2008
+                },
+                "end_date": {
+                    "year": 2012
+                }
+            }
+        ],
+        "skills": [
+            "International Financial Reporting Standards (IFRS)",
+            "Financial Statements",
+            "Resource Planning",
+            "Financial Performance"
+        ],
+        "id": "salikgilani"
+    },
+    {
+        "personal": {
+            "first_name": "Dawn",
+            "last_name": "Elias PFP\u00ae",
+            "headline": "Senior Regional Manager at TD Wealth Financial Planning",
+            "location": "Canada",
+            "city": "Toronto, Ontario",
+            "industry": "Financial Services"
+        },
+        "experiences": [
+            {
+                "title": "Senior Regional Manager at TD Wealth Financial Planning",
+                "company": "TD",
+                "company_public_id": "td",
+                "description": "No description available",
+                "start_date": {
+                    "month": 8,
+                    "year": 2022
+                },
+                "end_date": null
+            },
+            {
+                "title": "Director, Practice Management, CU Wealth",
+                "company": "Aviso Wealth",
+                "company_public_id": "aviso",
+                "description": "I contributed to our partners\u2019 success by helping them optimize their business through portfolio management, segmentation, and service model enhancements. \nI provided investment advisors with a detailed analysis of their book of business. Through engagement and mutual collaboration, I helped them uncover opportunities to enhance, advance and transform their practice.  \nAreas of support:\n\u2022\tBrand and marketing strategy, including value proposition \n\u2022\tSegmentation and service models\n\u2022\tBusiness Intelligence insight analysis to identify areas of opportunities\n\u2022\tPortfolio management process through several in-house programs",
+                "start_date": {
+                    "month": 6,
+                    "year": 2021
+                },
+                "end_date": {
+                    "month": 8,
+                    "year": 2022
+                }
+            },
+            {
+                "title": "General Manager",
+                "company": "CIBC",
+                "company_public_id": "cibc",
+                "description": "No description available",
+                "start_date": {
+                    "month": 4,
+                    "year": 2015
+                },
+                "end_date": {
+                    "month": 10,
+                    "year": 2015
+                }
+            }
+        ],
+        "education": [],
+        "skills": [
+            "Leadership",
+            "Coaching",
+            "Driving Results",
+            "Performance Management"
+        ],
+        "id": "dawn-elias"
+    },
+    {
+        "personal": {
+            "first_name": "Michael",
+            "last_name": "Trklja BA, CFP, CIM, FCSI",
+            "headline": "Experienced Financial Planner and Relationship Manager",
+            "location": "Canada",
+            "city": null,
+            "industry": "Financial Services"
+        },
+        "experiences": [
+            {
+                "title": "Senior Wealth Manager",
+                "company": "Rapport Credit Union",
+                "company_public_id": "rapport-credit-union",
+                "description": "Helping people make smart decisions about their money by constructing customized financial plans and investment management solutions to help clients achieve their goals in confidence.",
+                "start_date": {
+                    "month": 2,
+                    "year": 2022
+                },
+                "end_date": {
+                    "month": 1,
+                    "year": 2023
+                }
+            },
+            {
+                "title": "Instructor",
+                "company": "Conestoga College",
+                "company_public_id": "conestoga-college-institute-of-technology-and-advanced-learning",
+                "description": "No description available",
+                "start_date": {
+                    "month": 12,
+                    "year": 2021
+                },
+                "end_date": null
+            },
+            {
+                "title": "Financial Planning Specialist - CIBC Private Wealth Management",
+                "company": "CIBC ",
+                "company_public_id": "cibc",
+                "description": "Supporting CIBC Wood Gundy, Private Investment Counsel and Private Banking  Advisors in working with their clients to construct and review complex financial planning strategies involving personal and corporate assets at all client life stages to help deepen and strengthen the relationship with the respective business channel involved. ",
+                "start_date": {
+                    "month": 4,
+                    "year": 2020
+                },
+                "end_date": {
+                    "month": 2,
+                    "year": 2021
+                }
+            },
+            {
+                "title": "Client Service Advisor (contract position)",
+                "company": "OPB (Ontario Pension Board)",
+                "company_public_id": "ontario-pension-board",
+                "description": "As a Client Service Advisor, my role is to help members make smart decisions about their money no matter where they are in their career or their position within the public service of Ontario. Integrating their pension plan with their complimentary personal assets, I review, with the member, their particular unique financial situation and provide suggestions and strategies to help them successfully achieve their goals for retirement.  As an ambassador of the plan and our unique service, this allows me to present to members and participate in workshops across the province highlighting the importance of financial planning and strategies which may benefit them both now and in the future.",
+                "start_date": {
+                    "month": 12,
+                    "year": 2018
+                },
+                "end_date": {
+                    "month": 4,
+                    "year": 2020
+                }
+            },
+            {
+                "title": "Senior Wealth Advisor",
+                "company": "TriDelta Financial",
+                "company_public_id": "tridelta-financial",
+                "description": "Provided complex financial planning and discretionary investment solutions for clients primarily from the medical profession with a main focus on Dentists, Dental Professionals and their families.  With a client centered focus, Starting with a financial plan, I adopted a discretionary investment management approach using traditional investment products, I also complimented these with  proprietary investment pools combined as well as some of the leading alternative investment funds available where appropriate.  In addition to consolidating and monitoring client investments, I also wrote articles and conducted presentations to targeted groups.\n",
+                "start_date": {
+                    "month": 9,
+                    "year": 2017
+                },
+                "end_date": {
+                    "month": 6,
+                    "year": 2018
+                }
+            }
+        ],
+        "education": [
+            {
+                "school": "York University",
+                "activities": null,
+                "grade": null,
+                "start_date": {
+                    "year": 1984
+                },
+                "end_date": {
+                    "year": 1988
+                }
+            },
+            {
+                "school": "George Brown College",
+                "activities": null,
+                "grade": null,
+                "start_date": {
+                    "year": 1989
+                },
+                "end_date": {
+                    "year": 1990
+                }
+            },
+            {
+                "school": "Canadian Securities Institute",
+                "activities": null,
+                "grade": null,
+                "start_date": {
+                    "year": 2017
+                },
+                "end_date": null
+            }
+        ],
+        "skills": [
+            "Strategic Financial Planning",
+            "Wealth Management",
+            "Retirement Planning",
+            "Portfolio Management"
+        ],
+        "id": "michaeltrklja"
+    },
+    {
+        "personal": {
+            "first_name": "Jason",
+            "last_name": "Patterson, B.A.,CPA candidate",
+            "headline": "Senior Associate/Finance Controller at KPMG International - Global Finance | Finance Business Partner and Controller Division | Global Chief Administrative Office",
+            "location": "Canada",
+            "city": "Toronto, Ontario",
+            "industry": "Financial Services"
+        },
+        "experiences": [
+            {
+                "title": "Finance Business Partner/Controller, KPMGI Global Finance (interim/backfilled open role)",
+                "company": "KPMG Canada",
+                "company_public_id": "kpmg-canada",
+                "description": "\u2022 Manage budgets/forecasting of the supported budget areas, including monthly, quarterly and annual close procedures, adjustments, accruals and reporting.\n\u2022 Prepare reports of financial results, including analysis of expenditures, recharges and other KPIs specific to the budget area.\n\u2022  Collaborate with Leadership of the supported function/budget area, contributing to the business planning process and all finance related activities of the controlling function.\n\u2022  Act as subject matter expert on accounting principles, internal policies, and governance application. Provide guidance and monitor adherence to KPMG International finance policies and procedures.\n\u2022 Manage invoice processing, including tracking AR for stakeholders.\n\u2022 Provide support to other Finance Business Partners within other Global Finance portfolios with ad hoc projects, controlling and/or analytical tasks.\n\u2022 Manage processing of recharges for optional services\n\u2022Monitor and resolve Accounts Receivable or Accounts Payable issues, with escalation to offshore personnel, as appropriate.\n\u2022Assist the newly hired Senior Finance Manager throughout the onboarding process.",
+                "start_date": {
+                    "month": 8,
+                    "year": 2024
+                },
+                "end_date": {
+                    "month": 12,
+                    "year": 2024
+                }
+            },
+            {
+                "title": "Financial Analyst/Accountant- Corporate Reporting, Planning and Analysis",
+                "company": "Redmond Distributing Inc",
+                "company_public_id": "redmond-williams",
+                "description": "\u2022\tPrepare monthly income statements, balance sheets, and cashflow financial statements in accordance with GAAP for all Holding and Operating companies.  Consolidated statements presented to Internal and External stakeholders. \n\u2022\tParticipate in creating and presenting the company\u2019s annual budget and quarterly forecasting.\n\u2022\tComplete daily banking reporting and cash forecasting (Cash management, Borrowing Base and \n        Covenant preparation and submissions).\n\u2022\tAnalyze pricing and product line profitability (Margins analysis, strategy and financial modelling).\n\u2022\tFull cycle accounting. Rebate accounting.  Payroll accounting.  A/P and A/R functions. F/X accounting.  Manage fixed assets/depreciation and prepaid expense amortization schedules. Process financial entries to ensure proper recording of all business transactions.  Ensure the ERP system is up to date with accurate inventory and financial data (Data management).\n\u2022      Create monthly Commissions and Sales reports and submit to senior leaders and sales reps.\n\u2022\tConduct monthly GL account analysis and reconciliations.  P&L analysis.\n\u2022\tTax Compliance - Corporate. Prepare monthly/quarterly filing of government returns (i.e- HST, QST)\n\u2022\tAssist with the preparation of the annual audit schedules.\n\u2022\tWorking Capital and Inventory level analysis.\n\u2022\tFinancial modelling, Weekly Operational KPI reporting (Sales, Inventory, Customer acquisitions)\n\nERP Platform: Oracle NetSuite",
+                "start_date": {
+                    "month": 3,
+                    "year": 2022
+                },
+                "end_date": {
+                    "month": 12,
+                    "year": 2023
+                }
+            },
+            {
+                "title": "Cost Accountant",
+                "company": "Commercial Bakeries Corp.",
+                "company_public_id": "commercial-bakeries-corporation",
+                "description": "\u2022 Report costs of day-to-day manufacturing operations/food production (i.e- cost of ingredients, packaging, labour, fixed and variable overhead).\n\u2022 Generate and submit various reports to the CFO for review and provide analysis on a daily basis.\n\u2022 Responsible for allocating cost to cost objects related to food production.\n\u2022 Responsible for inventory control/management and valuation; internal controls compliance; general ledger analysis and reconciliation; accruals; accounts payable; sales reporting and gross margins analysis for all product lines; fixed asset reporting; foreign exchange accounting; working capital analysis; month/year end reporting.\n\u2022 Prepare budgets, forecasts, and monitor expenditures.\n\u2022 Determine standard costs and investigate variances with actual costs vs standard costs.\n\u2022 Coordinate with cross-functional department leaders (operations, purchasing/procurement) in analyzing data, and formulate strategies, i.e - demand forecasting, inventory level mngt.\n\u2022 Other duties and ad hoc analysis as required.\n\nERP Platform: Sage 100",
+                "start_date": {
+                    "month": 7,
+                    "year": 2020
+                },
+                "end_date": {
+                    "month": 3,
+                    "year": 2022
+                }
+            },
+            {
+                "title": "Financial Analyst, Finance and Accounting (FP&A) | Supply Chain",
+                "company": "Pet Valu",
+                "company_public_id": "pet-valu",
+                "description": "\u2022\tPrepare monthly warehouse and logistic accruals\n\u2022\tMonth-end analysis, reporting and journal entry preparation\n\u2022\tInter-company profit and excess inventory analysis\n\u2022\tReconcile  general ledger inventory to sub ledger at period end\n\u2022\tProcess and monitor capital expenditures\n\u2022\tPrepare and monitor monthly warehouse key performance indicators\n\u2022\tParticipate in annual budgets\n\u2022\tPrepare ad hoc analysis\n\u2022\tProcess warehouse and logistic invoices\n\u2022\tExposure to Enterprise Resource Planning (ERP) systems\n\u2022\tWork closely with an experienced management team and cross-functional departments\n\u2022\tWork with Accounts Payable on monthly accruals to ensure warehouse/transportation expense \n        accuracy.  Review / code accounts payable transactions based on invoices and other approved \n        documents presented in workflow and distribute expenses to the general ledger.\n\nERP Platform: Microsoft Dynamics GP",
+                "start_date": {
+                    "month": 8,
+                    "year": 2016
+                },
+                "end_date": {
+                    "month": 11,
+                    "year": 2017
+                }
+            }
+        ],
+        "education": [
+            {
+                "school": "CPA Ontario",
+                "activities": null,
+                "grade": null,
+                "start_date": {
+                    "month": 7,
+                    "year": 2022
+                },
+                "end_date": {
+                    "month": 9,
+                    "year": 2025
+                }
+            },
+            {
+                "school": "General Assembly Canada",
+                "activities": null,
+                "grade": null,
+                "start_date": {
+                    "month": 10,
+                    "year": 2021
+                },
+                "end_date": {
+                    "month": 5,
+                    "year": 2022
+                }
+            },
+            {
+                "school": "Corporate Finance Institute\u00ae (CFI)",
+                "activities": null,
+                "grade": null,
+                "start_date": {
+                    "year": 2019
+                },
+                "end_date": {
+                    "year": 2020
+                }
+            }
+        ],
+        "skills": [
+            "Corporate Governance",
+            "Cost Center Management",
+            "Strategic Leadership",
+            "Strategic Communications"
+        ],
+        "id": "jason-patterson-b-a-cpa-candidate-b9b91930"
+    }
+]

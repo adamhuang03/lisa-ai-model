@@ -1,0 +1,39 @@
+ # Load cookies from .jr file using CookieRepository
+            # try:
+            #     cookie_file = os.path.join(cookie_dir, f"{os.getenv('LINKEDIN_USER')}.jr")
+            #     logger.info(f"Looking for cookie file at: {cookie_file}")
+            #     logger.info(f"Current working directory: {os.getcwd()}")
+                
+            #     # Check if directory exists
+            #     if os.path.exists(cookie_dir):
+            #         logger.info(f"Directory {cookie_dir} exists")
+            #         files = os.listdir(cookie_dir)
+            #         logger.info(f"Files in {cookie_dir}: {files}")
+            #     else:
+            #         logger.error(f"Directory {cookie_dir} does not exist")
+            #         # List contents of current directory
+            #         files = os.listdir('.')
+            #         logger.info(f"Files in current directory: {files}")
+
+            #     # Check if file exists
+            #     if os.path.exists(cookie_file):
+            #         logger.info(f"Cookie file found at {cookie_file}")
+            #         file_size = os.path.getsize(cookie_file)
+            #         logger.info(f"Cookie file size: {file_size} bytes")
+            #     else:
+            #         logger.error(f"Cookie file not found at {cookie_file}")
+
+            #     cookie_repo = CookieRepository(cookies_dir=cookie_dir)
+            #     cookies = cookie_repo.get(os.getenv("LINKEDIN_USER"))
+            #     if cookies and isinstance(cookies, RequestsCookieJar):
+            #         logger.info("Successfully loaded cookies from repository")
+            #         logger.info(f"Cookie names: {[cookie.name for cookie in cookies]}")
+            #     else:
+            #         logger.warning("No valid cookies found in repository")
+            #         cookies = None
+            # except Exception as e:
+            #     logger.error(f"Error loading cookies: {str(e)}")
+            #     logger.error(f"Error type: {type(e)}")
+            #     import traceback
+            #     logger.error(f"Traceback: {traceback.format_exc()}")
+            #     cookies = None

@@ -1,0 +1,121 @@
+{
+    "personal": {
+        "first_name": "Dan Bi",
+        "last_name": "Park",
+        "headline": "Strategic Finance at Homebase",
+        "location": "Canada",
+        "city": null,
+        "industry": "Computer Software"
+    },
+    "experiences": [
+        {
+            "title": "Strategic Finance",
+            "company": "Homebase",
+            "company_public_id": "homebase-app",
+            "description": "No description available",
+            "start_date": {
+                "month": 11,
+                "year": 2023
+            },
+            "end_date": null
+        },
+        {
+            "title": "Investment Banking Analyst",
+            "company": "Goldman Sachs",
+            "company_public_id": "goldman-sachs",
+            "description": "IBD | Cross Markets Group",
+            "start_date": {
+                "month": 7,
+                "year": 2020
+            },
+            "end_date": {
+                "month": 8,
+                "year": 2022
+            }
+        },
+        {
+            "title": "Investment Banking Junior Analyst",
+            "company": "Goldman Sachs",
+            "company_public_id": "goldman-sachs",
+            "description": "IBD | Andean Region Coverage",
+            "start_date": {
+                "month": 7,
+                "year": 2019
+            },
+            "end_date": {
+                "month": 1,
+                "year": 2020
+            }
+        },
+        {
+            "title": "Investment Banking Summer Analyst",
+            "company": "Goldman Sachs",
+            "company_public_id": "goldman-sachs",
+            "description": "IBD | Andean Region Coverage",
+            "start_date": {
+                "month": 12,
+                "year": 2018
+            },
+            "end_date": {
+                "month": 2,
+                "year": 2019
+            }
+        },
+        {
+            "title": "Summer Financial Management Trainee",
+            "company": "AIA Singapore",
+            "company_public_id": "aia-singapore",
+            "description": "No description available",
+            "start_date": {
+                "month": 6,
+                "year": 2018
+            },
+            "end_date": {
+                "month": 8,
+                "year": 2018
+            }
+        }
+    ],
+    "education": [
+        {
+            "school": "ESSEC Business School",
+            "activities": null,
+            "grade": null,
+            "start_date": {
+                "year": 2016
+            },
+            "end_date": {
+                "year": 2020
+            }
+        },
+        {
+            "school": "Facultad de Econom\u00eda y Negocios - Universidad de Chile",
+            "activities": null,
+            "grade": null,
+            "start_date": {
+                "year": 2019
+            },
+            "end_date": {
+                "year": 2019
+            }
+        },
+        {
+            "school": "Christian Academy of Guatemala",
+            "activities": null,
+            "grade": null,
+            "start_date": {
+                "year": 2012
+            },
+            "end_date": {
+                "year": 2016
+            }
+        }
+    ],
+    "skills": [
+        "Microsoft Excel",
+        "Visual Basic for Applications (VBA)",
+        "Microsoft Office",
+        "Public Speaking"
+    ],
+    "id": "danbipark"
+}

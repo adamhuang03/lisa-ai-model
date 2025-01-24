@@ -1,0 +1,560 @@
+[
+    {
+        "profile_id": "jashan-kaur",
+        "score": 1.0,
+        "score_details": {
+            "score_current": {
+                "score_details": {
+                    "score": 1,
+                    "description": "The candidate's role as a Senior Manager indicates a level of leadership and management experience, which is relevant to the strategic aspects of the ideal profile in Strategic Finance. However, the candidate's company, focused on innovation and large-scale initiatives, diverges from the ideal profile's emphasis on small business support. Additionally, the candidate's company size significantly exceeds the ideal profile's range, which may indicate a different operational scale and focus. This results in a moderate similarity score."
+                }
+            },
+            "score_past": {
+                "score_details": {
+                    "score": 1,
+                    "description": "The candidate has relevant experience as an Investment Banking Analyst, which aligns with the ideal profile's requirement for investment banking roles. However, the majority of the candidate's other positions, such as Finance Manager and Strategic Finance, focus more on financial management and analytics rather than direct investment banking experience. This indicates some alignment in skills, particularly in finance, but there are significant gaps in direct investment banking roles and specific industry focus compared to the ideal profile."
+                }
+            }
+        }
+    },
+    {
+        "profile_id": "alex-chow-cpa-83275360",
+        "score": 1.0,
+        "score_details": {
+            "score_current": {
+                "score_details": {
+                    "score": 1,
+                    "description": "The candidate has experience in finance management, particularly in FP&A, which aligns with the strategic finance role. However, the candidate's current company focuses on social media and marketing, which is quite different from the small business environment and mission of the ideal company, Homebase. The candidate's skill set may not fully translate to the specific needs of the ideal profile's industry."
+                }
+            },
+            "score_past": {
+                "score_details": {
+                    "score": 1,
+                    "description": "The candidate has relevant financial experience, including roles as a Financial Analyst and Fund Accountant, which align with investment banking skills. However, the candidate lacks specific investment banking titles such as Analyst or Junior Analyst, and their recent experience is more focused on strategic finance and auditing rather than direct investment banking, leading to a moderate similarity score."
+                }
+            }
+        }
+    },
+    {
+        "profile_id": "nikishi",
+        "score": 1.0,
+        "score_details": {
+            "score_current": {
+                "score_details": {
+                    "score": 1,
+                    "description": "The candidate holds a relevant title (Senior Manager, Strategic Finance) which aligns well with the ideal title (Strategic Finance). However, the candidate's company operates in real estate asset management, while the ideal profile is focused on small business solutions. The staff count range also differs, with the candidate's company being larger. This indicates some alignment in skills but a significant gap in industry focus."
+                }
+            },
+            "score_past": {
+                "score_details": {
+                    "score": 1,
+                    "description": "The candidate has experience in finance and investment roles, which aligns with the ideal profile's focus on investment banking. However, the candidate's recent role as a Senior Associate in Real Estate and the lack of specific investment banking titles similar to those in the ideal profile suggest a gap in direct relevance. While there are some overlapping skills in finance, the connection to investment banking specifically is not strong enough to score higher."
+                }
+            }
+        }
+    },
+    {
+        "profile_id": "kthomassachin",
+        "score": 1.0,
+        "score_details": {
+            "score_current": {
+                "score_details": {
+                    "score": 1,
+                    "description": "The candidate's title of 'Finance and Payroll Officer' indicates some alignment with the finance aspect of the ideal profile's 'Strategic Finance' title. However, the candidate's company focuses on social development for Black youth, which differs significantly from the ideal company's emphasis on supporting small business teams. The gap in target audience and organizational mission suggests a moderate level of similarity."
+                }
+            },
+            "score_past": {
+                "score_details": {
+                    "score": 1,
+                    "description": "The candidate has relevant experience at Goldman Sachs as a Senior Financial Analyst, which aligns well with the ideal profile's roles in investment banking. However, the other roles, such as Client Services Representative and Audit Associate, focus on different functions and industries, showing a lack of direct investment banking experience. Overall, there is some relevant overlap, but significant gaps in direct investment banking positions."
+                }
+            }
+        }
+    },
+    {
+        "profile_id": "vinaykambli",
+        "score": 1.0,
+        "score_details": {
+            "score_current": {
+                "score_details": {
+                    "score": 1,
+                    "description": "The candidate's title as 'Head of Finance Operations' indicates a strong leadership role in finance, which aligns somewhat with the 'Strategic Finance' title of the ideal profile. However, the candidate's focus on developing finance operations for early-stage businesses suggests a different context from the ideal profile's emphasis on supporting small business teams. Additionally, the ideal company, Homebase, has a staff count of 201-500, while the candidate's company has over 10,000 employees, indicating a significant difference in company scale and mission focus. Overall, there are relevant skills, but the context and scale differ, leading to a moderate similarity score."
+                }
+            },
+            "score_past": {
+                "score_details": {
+                    "score": 1,
+                    "description": "The candidate has experience in strategic planning and operations within a major financial institution, which aligns with the investment banking focus of the ideal profile. However, the candidate's roles are more managerial and operational rather than directly in investment banking or analysis, representing a gap in specific investment banking experience. The candidate's current role as an On Deck Fellow does not relate to the financial sector, further contributing to the lower score."
+                }
+            }
+        }
+    },
+    {
+        "profile_id": "dbtavakoli",
+        "score": 1.0,
+        "score_details": {
+            "score_current": {
+                "score_details": {
+                    "score": 1,
+                    "description": "The candidate's title of 'Senior Manager, Strategic Finance' aligns well with the ideal title of 'Strategic Finance', indicating a relevant skill set. However, the candidate's company, Instacart, operates in a different industry (grocery technology) compared to the ideal profile's focus on small business solutions. This difference in industry context suggests some gaps in sector-specific experience, leading to a moderate similarity score."
+                }
+            },
+            "score_past": {
+                "score_details": {
+                    "score": 1,
+                    "description": "The candidate has extensive experience as a financial analyst and private equity fund analyst, which aligns with the financial skills sought in the ideal profile. However, the candidate lacks direct experience in investment banking roles, specifically at a major investment bank like Goldman Sachs, which is a key aspect of the ideal profile. The candidate's experience is strong in finance and analysis, but there is a notable gap in investment banking specific roles and environments."
+                }
+            }
+        }
+    },
+    {
+        "profile_id": "alleyliang",
+        "score": 1.0,
+        "score_details": {
+            "score_current": {
+                "score_details": {
+                    "score": 1,
+                    "description": "The candidate holds a similar title in Strategic Finance, which aligns well with the ideal profile. However, the candidate's company, Public Goods, has a significantly smaller staff count compared to Homebase, which may indicate less exposure to the scale and complexity of operations that the ideal profile suggests. Additionally, the candidate's experience in a different industry (sustainability and consumer goods) may not fully align with the small business focus of the ideal profile, creating a gap in industry-specific experience."
+                }
+            },
+            "score_past": {
+                "score_details": {
+                    "score": 1,
+                    "description": "The candidate has experience in finance-related roles, such as Equity Research Associate, which aligns somewhat with the investment banking focus of the ideal profile. However, the candidate's roles mainly center around consulting and technology rather than pure investment banking, resulting in a lower similarity score. The candidate's skills in strategy and finance could be relevant but do not directly match the investment banking positions required in the ideal profile."
+                }
+            }
+        }
+    },
+    {
+        "profile_id": "kthomassachin",
+        "score": 1.0,
+        "score_details": {
+            "score_current": {
+                "score_details": {
+                    "score": 1,
+                    "description": "The candidate's title as a Finance and Payroll Officer indicates some overlap with the ideal profile's focus on Strategic Finance. However, the candidate's company, which centers on economic issues affecting Black youth, does not align closely with the mission of Homebase, which targets small business teams. The candidate's experience may provide a foundational understanding of finance, but lacks the specific strategic aspect and scale of operations relevant to the ideal profile, resulting in a moderate similarity score."
+                }
+            },
+            "score_past": {
+                "score_details": {
+                    "score": 1,
+                    "description": "The candidate has relevant experience as a Senior Financial Analyst at Goldman Sachs, which is closely aligned with investment banking roles. However, other experiences such as Client Services Representative and Audit Associate do not directly correlate with the investment banking field, which limits the overall similarity. The candidate shows a strong foundation in financial analysis, but lacks direct roles in investment banking, impacting the score."
+                }
+            }
+        }
+    },
+    {
+        "profile_id": "alex-chow-cpa-83275360",
+        "score": 1.0,
+        "score_details": {
+            "score_current": {
+                "score_details": {
+                    "score": 1,
+                    "description": "The candidate's title as 'Senior Finance Manager - FP&A' indicates a strong finance background, which is relevant to the ideal profile's focus on 'Strategic Finance.' However, the candidate's company, Viral Nation, operates in a different industry (social media and marketing), which may limit direct applicability of financial strategies to the mission of Homebase, aimed at supporting small businesses. Both profiles have similar staff size, but the gap in industry focus results in a lower score."
+                }
+            },
+            "score_past": {
+                "score_details": {
+                    "score": 1,
+                    "description": "The candidate has relevant finance experience, particularly as a Financial Analyst and Fund Accountant, which aligns with the analytical skills required in investment banking. However, the candidate's roles do not specifically include investment banking positions, and the focus on strategic finance and internal audit diverges from the direct investment banking experience outlined in the ideal profile. This leads to a moderate similarity score."
+                }
+            }
+        }
+    },
+    {
+        "profile_id": "andreachacko",
+        "score": 1.0,
+        "score_details": {
+            "score_current": {
+                "score_details": {
+                    "score": 1,
+                    "description": "The candidate holds a position as a Senior Financial Analyst, which aligns with the financial focus of the ideal profile in Strategic Finance. However, the candidate's experience is with a larger organization (Fidelity Canada) compared to the ideal profile's small business focus (Homebase). This difference in company size and mission creates a gap in the alignment of their skill sets, leading to a score of 1."
+                }
+            },
+            "score_past": {
+                "score_details": {
+                    "score": 1,
+                    "description": "The candidate has relevant experience as a Senior Financial Analyst and Financial Analyst, which aligns with the financial analysis aspect of the ideal profile. However, the candidate's roles are more generalized and do not specifically match the investment banking focus of the ideal profile. The candidate lacks direct experience in investment banking roles as seen in the ideal profile, which affects the overall similarity."
+                }
+            }
+        }
+    },
+    {
+        "profile_id": "justin-areias-cpa-mba-8257ab95",
+        "score": 1.0,
+        "score_details": {
+            "score_current": {
+                "score_details": {
+                    "score": 1,
+                    "description": "The candidate's title of 'Finance Manager' shows some alignment with the ideal profile's 'Strategic Finance' role, indicating a focus on finance. However, the candidate's company operates in a different sector (software acquisitions) compared to the ideal company's focus on small business services, which may limit direct skill applicability. Additionally, the candidate's company has a larger staff count, suggesting a different operational scale. Overall, there are some relevant skills, but significant gaps in industry alignment and company type."
+                }
+            },
+            "score_past": {
+                "score_details": {
+                    "score": 1,
+                    "description": "The candidate has relevant experience in financial analysis and compliance, which aligns with the investment banking context of the ideal profile. However, the candidate's roles are primarily in financial management and analysis rather than direct investment banking positions. The candidate's experience lacks specific investment banking titles and direct involvement in investment banking activities, which results in a moderate similarity score."
+                }
+            }
+        }
+    },
+    {
+        "profile_id": "chantellepompili",
+        "score": 0.0,
+        "score_details": {
+            "score_current": {
+                "score_details": {
+                    "score": 0,
+                    "description": "The candidate's title as 'Senior Accountant' does not align with the ideal profile's focus on 'Strategic Finance.' Additionally, the candidate's company, which operates in the investing sector, differs significantly from the ideal company's emphasis on supporting small businesses. The staff count range also indicates a larger organization compared to the ideal profile's smaller team environment, further contributing to the lack of similarity."
+                }
+            },
+            "score_past": {
+                "score_details": {
+                    "score": 0,
+                    "description": "The candidate's profile primarily features accounting and customer service roles, which are not aligned with the investment banking and financial analysis positions in the ideal profile. There is a complete lack of relevant investment banking experience, which is a significant gap. Therefore, the overall skill set is not similar."
+                }
+            }
+        }
+    },
+    {
+        "profile_id": "isabelladiez057",
+        "score": 0.0,
+        "score_details": {
+            "score_current": {
+                "score_details": {
+                    "score": 0,
+                    "description": "The candidate's profile focuses on customer experience and service roles, which are not aligned with the strategic finance role of the ideal profile. Additionally, the candidate's company operates in retail and customer service, while the ideal company is in finance technology for small businesses. There is a significant gap in both the title and the industry, leading to a score of 0."
+                }
+            },
+            "score_past": {
+                "score_details": {
+                    "score": 0,
+                    "description": "The candidate's experience is focused on operations, marketing, and education, which is quite different from the investment banking roles in the ideal profile. There are no direct overlaps in titles or industry focus, indicating a significant gap in relevant experience for an investment banking position."
+                }
+            }
+        }
+    },
+    {
+        "profile_id": "jacky-o-54949676",
+        "score": 0.0,
+        "score_details": {
+            "score_current": {
+                "score_details": {
+                    "score": 0,
+                    "description": "The candidate's title of 'Programmatic Strategist' does not align with the 'Strategic Finance' focus of the ideal profile. Additionally, the company details indicate that the candidate works for a large organization (over 10,000 staff) while the ideal profile is for a mid-sized company (201-500 staff) focused on small business teams. There is a significant gap in both the specific role and the company context."
+                }
+            },
+            "score_past": {
+                "score_details": {
+                    "score": 0,
+                    "description": "The candidate's experience is primarily focused on marketing, customer service, and retail banking, with roles such as Campaign Manager and Wealth Specialist. In contrast, the ideal profile is heavily concentrated on investment banking roles, such as Investment Banking Analyst and Junior Analyst. There is no overlap in industry or skill set relevant to investment banking, resulting in a low similarity score."
+                }
+            }
+        }
+    },
+    {
+        "profile_id": "jasonhuynguyen",
+        "score": 1.0,
+        "score_details": {
+            "score_current": {
+                "score_details": {
+                    "score": 1,
+                    "description": "The candidate's role as an Associate Strategist (Quantitative) involves quantitative analysis, which is a valuable skill in finance. However, the ideal profile focuses on strategic finance within a small business context, while the candidate's experience is rooted in a larger asset management firm. This difference in company size and focus area limits the alignment, resulting in a moderate similarity score."
+                }
+            },
+            "score_past": {
+                "score_details": {
+                    "score": 1,
+                    "description": "The candidate has relevant experience in investment analysis and financial management, particularly as a Senior Investment Analyst and Quantitative Research Associate. However, while they possess a strong analytical skill set, their roles are more focused on quantitative analysis and portfolio management rather than direct investment banking, which is the primary focus of the ideal profile. The candidate's experiences are valuable but do not entirely align with the investment banking roles specified in the ideal profile."
+                }
+            }
+        }
+    },
+    {
+        "profile_id": "yash-kapil-a170b6221",
+        "score": 1.0,
+        "score_details": {
+            "score_current": {
+                "score_details": {
+                    "score": 1,
+                    "description": "The candidate's title as 'Team Lead, Project Management' presents some alignment with the ideal profile's focus on 'Strategic Finance,' suggesting leadership and project oversight skills. However, the candidate's experience is in a much larger company (Deloitte) compared to the smaller business focus of the ideal profile (Homebase). This discrepancy in company size and mission indicates a gap in direct relevance to the ideal role, leading to a score of 1 for moderate similarity."
+                }
+            },
+            "score_past": {
+                "score_details": {
+                    "score": 1,
+                    "description": "The candidate has a managerial role in finance at RBC Capital Markets, which is related to investment banking, a key focus of the ideal profile. However, the candidate's position is more senior and less specialized than the roles listed in the ideal profile, which primarily focus on analyst positions within investment banking. While there is a relevant connection to the finance and banking industry, the lack of direct analyst experience in investment banking roles marks a gap in direct alignment with the ideal candidate's experience."
+                }
+            }
+        }
+    },
+    {
+        "profile_id": "brian-wu-cpa-ca-cfa",
+        "score": 0.5,
+        "score_details": {
+            "score_current": {
+                "score_details": {
+                    "score": 1,
+                    "description": "The candidate holds a senior financial position as a Chief Financial Officer, which indicates strong financial expertise. However, the ideal profile focuses on strategic finance within a small business context, while the candidate's experience is in a med-tech startup with a significantly different industry focus. This gap in industry alignment, along with different company sizes, contributes to a lower similarity score."
+                }
+            },
+            "score_past": {
+                "score_details": {
+                    "score": 0,
+                    "description": "The candidate's profile shows a significant divergence from the ideal profile, which is heavily focused on investment banking roles. The candidate has held executive finance positions and an academic role, which do not align with the specific investment banking titles and experiences listed in the ideal profile. Therefore, there is no relevant similarity in skill sets based on the experiences provided."
+                }
+            }
+        }
+    },
+    {
+        "profile_id": "shobith-j-098392126",
+        "score": 0.5,
+        "score_details": {
+            "score_current": {
+                "score_details": {
+                    "score": 1,
+                    "description": "The candidate's role in 'Manager Analytics & Strategy' involves pricing and strategy, which aligns with the strategic finance aspect of the ideal profile. However, the candidate's experience is primarily in the quick service restaurant industry, which differs from the ideal profile's focus on small business support in finance. The candidates' company size is larger than the ideal profile's expected range, indicating a potential gap in familiarity with smaller business dynamics."
+                }
+            },
+            "score_past": {
+                "score_details": {
+                    "score": 0,
+                    "description": "The candidate's profile primarily focuses on data management, analytics, and governance within the restaurant and banking sectors, which is significantly different from the investment banking roles in the ideal profile. There are no direct parallels in titles or specific investment banking experience, resulting in a low similarity score."
+                }
+            }
+        }
+    },
+    {
+        "profile_id": "umme-salma-su",
+        "score": 1.0,
+        "score_details": {
+            "score_current": {
+                "score_details": {
+                    "score": 1,
+                    "description": "The candidate's experience in project management and financial analysis shows some alignment with the strategic finance focus of the ideal profile. However, the candidate's current role is heavily centered on project management within the aerospace industry, which differs significantly from the small business focus of the ideal profile at Homebase. Additionally, the candidate's company has a much larger staff count, indicating a different organizational structure and likely different financial strategies. Overall, while there are relevant skills, the differences in industry focus and company size limit the overall similarity."
+                }
+            },
+            "score_past": {
+                "score_details": {
+                    "score": 1,
+                    "description": "The candidate has a strong finance background with roles in project management and financial consulting, which aligns with the analytical and financial skills required in investment banking. However, the candidate's titles and specific focus areas differ from the investment banking roles in the ideal profile. The experiences in project financial analysis and consulting provide relevant skills, but the lack of direct investment banking experience limits the overall similarity."
+                }
+            }
+        }
+    },
+    {
+        "profile_id": "tyash",
+        "score": 0.5,
+        "score_details": {
+            "score_current": {
+                "score_details": {
+                    "score": 1,
+                    "description": "The candidate has a title related to finance, specifically in a data engineering role within the CFO group, which aligns with the strategic finance focus of the ideal profile. However, the candidate's company operates in the commercial real estate sector, which is quite different from the small business focus of Homebase. The candidate's experience in data engineering may not fully translate to the strategic finance skills expected in a small business context, leading to a score of 1 for partial alignment."
+                }
+            },
+            "score_past": {
+                "score_details": {
+                    "score": 0,
+                    "description": "The candidate's profile primarily focuses on data engineering and software development roles within financial institutions, whereas the ideal profile is centered around investment banking roles. There are no overlapping titles or relevant experiences that align with investment banking, indicating a significant gap in the skill set related to the ideal profile."
+                }
+            }
+        }
+    },
+    {
+        "profile_id": "jalal-ahmad",
+        "score": 1.0,
+        "score_details": {
+            "score_current": {
+                "score_details": {
+                    "score": 1,
+                    "description": "The candidate and the ideal profile share the same title of 'Strategic Finance', indicating a foundational similarity in their roles. However, the candidate's experience in CorpDev / M&A and work within a HealthTech context differs significantly from the ideal profile's focus on small business support and employee management. Additionally, the candidate's company has a larger staff count, which may imply different operational scales and challenges. Overall, while there is a commonality in title, the specific industry and context lead to a moderate similarity score."
+                }
+            },
+            "score_past": {
+                "score_details": {
+                    "score": 1,
+                    "description": "The candidate has relevant experience in investment banking, particularly in technology-focused roles, which aligns with the ideal profile's investment banking positions. However, the candidate's roles primarily emphasize strategic finance and corporate client engagements rather than traditional investment banking functions. The candidate lacks specific titles like 'Investment Banking Analyst' or 'Junior Analyst' that are present in the ideal profile, indicating a gap in conventional investment banking experience."
+                }
+            }
+        }
+    },
+    {
+        "profile_id": "nikishi",
+        "score": 1.0,
+        "score_details": {
+            "score_current": {
+                "score_details": {
+                    "score": 1,
+                    "description": "The candidate holds a position as a Senior Manager in Strategic Finance, which aligns well with the ideal profile's title. However, the candidate's company operates in real estate, whereas the ideal profile is focused on small business solutions and employee management, indicating a gap in industry relevance. Additionally, the candidate's company has a larger staff count, suggesting a different scale of operations compared to the ideal profile's target company size."
+                }
+            },
+            "score_past": {
+                "score_details": {
+                    "score": 1,
+                    "description": "The candidate has relevant experience in investment banking and finance, specifically as a Summer Analyst and a Senior Associate at RBC Capital Markets, which aligns with the ideal profile's focus on investment banking roles. However, the candidate's experience is more concentrated in real estate and finance rather than specifically investment banking, leading to a moderate similarity score. The lack of direct roles in investment banking such as Analyst positions reduces the overall alignment with the ideal profile."
+                }
+            }
+        }
+    },
+    {
+        "profile_id": "lypeter",
+        "score": 1.5,
+        "score_details": {
+            "score_current": {
+                "score_details": {
+                    "score": 2,
+                    "description": "The candidate's title of 'Sr. Strategic Finance Associate' closely aligns with the ideal profile's title of 'Strategic Finance'. Both profiles are from companies with similar staff size, indicating a comparable level of experience and responsibility. The candidate's role and the ideal profile's focus on strategic finance suggest a strong match in skill set, particularly in financial strategy and analysis within organizations of similar scale."
+                }
+            },
+            "score_past": {
+                "score_details": {
+                    "score": 1,
+                    "description": "The candidate has relevant experience in finance through roles such as FP&A Analyst and Equity Research Associate, indicating a strong foundation in financial analysis. However, the candidate's roles focus more on equity research and financial strategy rather than investment banking specifically. While there are some overlapping skills, particularly in financial analysis and strategy, the lack of direct investment banking experience results in a moderate similarity score."
+                }
+            }
+        }
+    },
+    {
+        "profile_id": "kevin-yu",
+        "score": 1.0,
+        "score_details": {
+            "score_current": {
+                "score_details": {
+                    "score": 1,
+                    "description": "The candidate's title matches the ideal profile's title, indicating a shared focus in Strategic Finance. However, the company details show a significant difference in industry and company size, with the ideal profile being in a small business support sector and the candidate's in network security. This gap in industry relevance affects the overall skill set alignment."
+                }
+            },
+            "score_past": {
+                "score_details": {
+                    "score": 1,
+                    "description": "The candidate has relevant experience in investment banking, which aligns with the ideal profile's focus on investment banking roles. However, the candidate's roles are less specific in terms of the investment banking sector compared to the ideal profile's detailed positions at Goldman Sachs. Additionally, the candidate's experience includes roles in strategic finance and private equity, which, while related, do not directly match the primary investment banking focus of the ideal profile."
+                }
+            }
+        }
+    },
+    {
+        "profile_id": "markjoe",
+        "score": 1.5,
+        "score_details": {
+            "score_current": {
+                "score_details": {
+                    "score": 1,
+                    "description": "The candidate's title 'Strategic Finance & FP&A' aligns closely with the ideal title 'Strategic Finance', indicating a strong focus on finance roles. However, the candidate's company, IonQ, operates in the quantum computing sector, which is significantly different from the small business focus of Homebase. This gap in industry context affects the overall similarity score, leading to a score of 1 due to the relevant title but differing company missions."
+                }
+            },
+            "score_past": {
+                "score_details": {
+                    "score": 2,
+                    "description": "The candidate has strong alignment with the ideal profile, featuring roles such as 'Investment Banking Analyst' and 'Investment Banking Summer Analyst' that match the titles and focus areas of the ideal profile. While there is one role in Corporate Development that diverges from the investment banking focus, the majority of the candidate's experiences are directly relevant to the ideal profile's requirements, demonstrating a robust skill set in investment banking."
+                }
+            }
+        }
+    },
+    {
+        "profile_id": "jashan-kaur",
+        "score": 1.0,
+        "score_details": {
+            "score_current": {
+                "score_details": {
+                    "score": 1,
+                    "description": "The candidate's title as Senior Manager suggests a level of seniority, but it does not directly align with the Strategic Finance focus of the ideal profile. The company size and nature of the candidate's company (RBC) differ significantly from the ideal company's emphasis on small business support. While there may be some transferable skills in management and innovation, the lack of specific finance-related experience limits the overall similarity."
+                }
+            },
+            "score_past": {
+                "score_details": {
+                    "score": 1,
+                    "description": "The candidate has relevant experience as an Investment Banking Analyst, which aligns closely with the ideal profile's roles in investment banking. However, the candidate's other experiences in Strategic Finance, Finance Manager, and Business Analyst deviate significantly from the specific investment banking focus in the ideal profile. While the candidate displays valuable financial skills, the lack of depth in investment banking roles limits the overall similarity."
+                }
+            }
+        }
+    },
+    {
+        "profile_id": "vinaykambli",
+        "score": 1.0,
+        "score_details": {
+            "score_current": {
+                "score_details": {
+                    "score": 1,
+                    "description": "The candidate's title 'Head of Finance Operations' suggests a strong leadership role in finance, which is relevant to the ideal profile's focus on 'Strategic Finance.' However, the candidate's company operates at a much larger scale with over 10,000 employees, while the ideal profile is for a company with 201-500 staff. This difference in company size may indicate a gap in experience with small business operations that the ideal profile emphasizes. Overall, there is some alignment in finance roles, but the context of the candidate's experience may not fully match the ideal profile's requirements."
+                }
+            },
+            "score_past": {
+                "score_details": {
+                    "score": 1,
+                    "description": "The candidate's profile displays a strong background in strategic planning and financial analysis within a major financial institution (Royal Bank of Canada), which aligns with the investment banking focus of the ideal profile. However, the candidate's roles, including 'On Deck Fellow' and senior management positions, do not directly correspond to the investment banking analyst positions in the ideal profile, indicating a gap in specific investment banking experience. Thus, while there are relevant skills and experiences, they lack the direct titles and focus on investment banking present in the ideal profile."
+                }
+            }
+        }
+    },
+    {
+        "profile_id": "salikgilani",
+        "score": 1.0,
+        "score_details": {
+            "score_current": {
+                "score_details": {
+                    "score": 1,
+                    "description": "The candidate has experience in financial management, which aligns with the strategic finance focus of the ideal profile. However, the candidate's current position is in a much larger organization (over 10,000 staff) compared to the ideal profile's smaller company environment (201-500 staff). This difference in company size and type may indicate a gap in the candidate's exposure to the unique challenges faced by small businesses, affecting overall fit."
+                }
+            },
+            "score_past": {
+                "score_details": {
+                    "score": 1,
+                    "description": "The candidate has experience in financial analysis and consulting roles, which aligns somewhat with the investment banking focus of the ideal profile. However, the specific titles and sectors differ, particularly in the absence of direct investment banking roles like 'Investment Banking Analyst' or 'Junior Analyst'. The candidate's experience at RBC Capital Markets shows exposure to investment-related work, but overall, the similarity is limited."
+                }
+            }
+        }
+    },
+    {
+        "profile_id": "dawn-elias",
+        "score": 0.5,
+        "score_details": {
+            "score_current": {
+                "score_details": {
+                    "score": 1,
+                    "description": "The candidate's role as a Senior Regional Manager at TD Wealth Financial Planning indicates a strong background in finance, which aligns somewhat with the ideal profile's focus on Strategic Finance. However, the candidate's experience is in a significantly larger organization (TD Bank Group) compared to the ideal profile, which is geared towards small businesses. This difference in company size and target market suggests a gap in direct relevance to the ideal profile's emphasis on small business support."
+                }
+            },
+            "score_past": {
+                "score_details": {
+                    "score": 0,
+                    "description": "The candidate's experience as a Director in Practice Management and General Manager does not align with the ideal profile focused on Investment Banking roles. The candidate's skills in wealth management and portfolio analysis differ significantly from the investment banking focus of the ideal profile, which emphasizes roles such as Investment Banking Analyst and Junior Analyst. Overall, there is a lack of relevant experience in the investment banking sector."
+                }
+            }
+        }
+    },
+    {
+        "profile_id": "michaeltrklja",
+        "score": 0.5,
+        "score_details": {
+            "score_current": {
+                "score_details": {
+                    "score": 0,
+                    "description": "The candidate's profile as a Senior Wealth Manager focuses on personal financial planning and investment management, which differs significantly from the Strategic Finance role in the ideal profile that emphasizes team empowerment and operational efficiency for small businesses. There is little overlap in skills and company mission between the two profiles, leading to a score of 0."
+                }
+            },
+            "score_past": {
+                "score_details": {
+                    "score": 1,
+                    "description": "The candidate has some relevant experience in financial planning and wealth management, particularly in roles such as Financial Planning Specialist and Senior Wealth Advisor. However, they lack direct experience in investment banking roles, which are critical to the ideal profile. The candidate's positions mainly focus on client advisory and financial planning rather than the investment banking sector, which limits their alignment with the ideal candidate's skill set."
+                }
+            }
+        }
+    },
+    {
+        "profile_id": "jason-patterson-b-a-cpa-candidate-b9b91930",
+        "score": 0.5,
+        "score_details": {
+            "score_current": {
+                "score_details": {
+                    "score": 1,
+                    "description": "The candidate's profile shows relevant experience in finance management and collaboration with leadership, which aligns with the strategic finance focus of the ideal profile. However, the candidate's role as a Finance Business Partner/Controller at KPMG, a large firm, contrasts with the ideal profile's emphasis on working in a small business environment. This gap in company size and type limits the overall similarity."
+                }
+            },
+            "score_past": {
+                "score_details": {
+                    "score": 0,
+                    "description": "The candidate's profile demonstrates strong financial analysis and accounting skills, but lacks direct experience in investment banking roles, which is central to the ideal profile. The ideal profile emphasizes specific investment banking titles and experiences, while the candidate's background is more focused on financial reporting and analysis within corporate environments. This results in a significant gap in relevant experience and industry alignment."
+                }
+            }
+        }
+    }
+]

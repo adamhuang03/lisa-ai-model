@@ -1,0 +1,667 @@
+[
+    {
+        "personal": {
+            "first_name": "Jashan",
+            "last_name": "Kaur",
+            "headline": "Senior Manager @ RBCx (Ventures) | Strategic Finance @ Replit (AI + SaaS) | Investment Banking @ JP Morgan",
+            "location": "Canada",
+            "city": "Toronto, Ontario",
+            "industry": "Computer Software"
+        },
+        "experiences": [
+            {
+                "title": "Senior Manager",
+                "company": "RBCx",
+                "company_public_id": "rbcx",
+                "description": "No description available",
+                "start_date": {
+                    "month": 8,
+                    "year": 2024
+                },
+                "end_date": null,
+                "company_details": {
+                    "description": "Backer of Canada\u2019s most daring innovators and idea generators. We power bold. #RBCxPowersBold / Nous nous faisons les alli\u00e9s des innovateurs et des g\u00e9n\u00e9rateurs d\u2019id\u00e9es les plus audacieux du Canada. Nous propulsons les id\u00e9es audacieuses. #RBCxPropulsedesId\u00e9esAudacieuses",
+                    "staffCountRange": {
+                        "start": 10001
+                    }
+                }
+            },
+            {
+                "title": "Strategic Finance",
+                "company": "Replit",
+                "company_public_id": "repl-it",
+                "description": "Revenue analytics, Financial Modelling, SaaS metrics (ARR, LTV, Retention), GTM RevOps",
+                "start_date": {
+                    "month": 7,
+                    "year": 2023
+                },
+                "end_date": {
+                    "month": 7,
+                    "year": 2024
+                },
+                "company_details": {
+                    "description": "Idea to app, fast. Create beautiful, modern web applications at the speed of thought with the power of Replit's AI Agent.",
+                    "staffCountRange": {
+                        "start": 51,
+                        "end": 200
+                    }
+                }
+            },
+            {
+                "title": "Finance Manager",
+                "company": "Procter & Gamble",
+                "company_public_id": "procter-and-gamble",
+                "description": "Awards: \n1. Platinum Award  - Recognized leadership & resilience in enabling the team to finish the year +16pts vs. target\n2. Gold Award - Recognized leadership & growth in successfully executing pricing strategy & leading the Business Planning for FY2223",
+                "start_date": {
+                    "month": 6,
+                    "year": 2021
+                },
+                "end_date": {
+                    "month": 7,
+                    "year": 2023
+                },
+                "company_details": {
+                    "description": "P&G was founded more than 185 years ago as a soap and candle company. Today, we\u2019re one of the world\u2019s largest consumer goods companies and home to iconic, trusted brands, including Always\u00ae, Charmin\u00ae, Braun\u00ae, Fairy\u00ae, Febreze\u00ae, Gillette\u00ae, Head & Shoulders\u00ae, Oral B\u00ae, Pantene\u00ae, Pampers\u00ae, Tide\u00ae, and Vicks\u00ae. \n \nThe design, development, growth and success of these products\u2014and many more\u2014is thanks to the innovative and insightful minds of our people. From Day 1, you\u2019ll help make everyday life easier for our 5 billion consumers. \n \nThere is no single equation for success at P&G, because no two P&G people or careers are alike. Just as we strive to deliver a superior consumer experience, we aim to deliver a superior employee value equation as well. With our large global footprint, there are many opportunities to work with P&G in multiple locations. We offer opportunities in approximately 70 countries and continually aim to attract, reward and advance the finest people in the world. \n \nHere, we want you to get your career off to a fast start. That's why we don't have any rotational development programs or gradual ramping-up periods: you\u2019ll be able\u2014and encouraged\u2014to dive right in from Day 1. Join us and help make life better through meaningful work that makes an impact from Day 1.",
+                    "staffCountRange": {
+                        "start": 10001
+                    }
+                }
+            },
+            {
+                "title": "Business Analyst",
+                "company": "BOMBARDIER",
+                "company_public_id": "bombardier",
+                "description": "No description available",
+                "start_date": {
+                    "month": 12,
+                    "year": 2019
+                },
+                "end_date": {
+                    "month": 5,
+                    "year": 2020
+                },
+                "company_details": {
+                    "description": "Bombardier is a global leader in aviation, focused on designing, manufacturing, and servicing the world's most exceptional business jets. Bombardier\u2019s Challenger and Global aircraft families are renowned for their cutting-edge innovation, cabin design, performance, and reliability. Bombardier has a worldwide fleet of approximately 5,000 aircraft in service with a wide variety of multinational corporations, charter and fractional ownership providers, governments, and private individuals. Bombardier aircraft are also trusted around the world in government and military special-mission roles leveraging Bombardier Defense\u2019s proven expertise.\u202f\u202f \n\nHeadquartered in Greater Montr\u00e9al, Qu\u00e9bec, Bombardier operates aerostructure, assembly and completion facilities in Canada, the United States and Mexico. The company\u2019s robust customer support network services the Learjet, Challenger and Global families of aircraft, and includes facilities in strategic locations in the United States and Canada, as well as in the United Kingdom, Germany, France, Switzerland, Italy, Austria, the UAE, Singapore, China and Australia.\u202f\u202f \n\nFor corporate news and information, including Bombardier\u2019s Environmental, Social and Governance report, as well as the company\u2019s plans to cover all its flight operations with Sustainable Aviation Fuel (SAF) utilizing the Book and Claim system visit bombardier.com. Learn more about Bombardier\u2019s industry-leading products and customer service network at businessaircraft.bombardier.com. Follow us on Twitter @Bombardier.\u202f\u202f\u202f",
+                    "staffCountRange": {
+                        "start": 10001
+                    }
+                }
+            },
+            {
+                "title": "Investment Banking Analyst",
+                "company": "J.P. Morgan",
+                "company_public_id": "jpmorgan",
+                "description": "Diversified Industrials and Transportation Coverage, Investment Banking Division\n\n- Prepared pitchbooks for 30+ clients by assessing potential M&A targets, highlighting industry trends, conducting interloper analysis, developing financial valuations, and performing pro-forma analysis\n- Key valuation analysis performed: DCF, SOTP, trading and transaction comps\n- Developed functional expertise in the airline industry and was the partner of choice projects in this sector\n\nKey deals:\n\u2022 Developed financial valuations and management decks for a successful IPO of a US-based landscaping services firm (~$650MM)\n\u2022 Conducted trading/transaction comps analysis and generated industry insights for a successful IPO of a US-based waste-water processing firm (~$600MM)\n\u2022 Deal team member for execution of IPO of one of the largest airlines in the US with $2.1B revenue",
+                "start_date": {
+                    "month": 7,
+                    "year": 2017
+                },
+                "end_date": {
+                    "month": 8,
+                    "year": 2019
+                },
+                "company_details": {
+                    "description": "J.P. Morgan is a leader in financial services, offering solutions to clients in more than 100 countries with one of the most comprehensive global product platforms available. We have been helping our clients to do business and manage their wealth for more than 200 years. Our business has been built upon our core principle of putting our clients'\u200b interests first.\n\nJ.P. Morgan is part of JPMorgan Chase & Co. (NYSE: JPM), a global financial services firm.\n\nSocial Media Terms and Conditions: https://bit.ly/JPMCSocialTerms\n\n\u00a9 2017 JPMorgan Chase & Co.  JPMorgan Chase is an equal opportunity and affirmative action employer Disability/Veteran.",
+                    "staffCountRange": {
+                        "start": 10001
+                    }
+                }
+            }
+        ],
+        "education": [
+            {
+                "school": "McGill University - Desautels Faculty of Management",
+                "activities": null,
+                "grade": "3.9/4.0",
+                "start_date": null,
+                "end_date": null
+            },
+            {
+                "school": "PEC University of Technology, Chandigarh",
+                "activities": null,
+                "grade": null,
+                "start_date": null,
+                "end_date": null
+            }
+        ],
+        "skills": [
+            "M&A analysis",
+            "M&A Modeling",
+            "Valuation",
+            "Mergers & Acquisitions (M&A)"
+        ],
+        "id": "jashan-kaur"
+    },
+    {
+        "personal": {
+            "first_name": "Jashan",
+            "last_name": "Kaur",
+            "headline": "Senior Manager @ RBCx (Ventures) | Strategic Finance @ Replit (AI + SaaS) | Investment Banking @ JP Morgan",
+            "location": "Canada",
+            "city": "Toronto, Ontario",
+            "industry": "Computer Software"
+        },
+        "experiences": [
+            {
+                "title": "Senior Manager",
+                "company": "RBCx",
+                "company_public_id": "rbcx",
+                "description": "No description available",
+                "start_date": {
+                    "month": 8,
+                    "year": 2024
+                },
+                "end_date": null,
+                "company_details": {
+                    "description": "Backer of Canada\u2019s most daring innovators and idea generators. We power bold. #RBCxPowersBold / Nous nous faisons les alli\u00e9s des innovateurs et des g\u00e9n\u00e9rateurs d\u2019id\u00e9es les plus audacieux du Canada. Nous propulsons les id\u00e9es audacieuses. #RBCxPropulsedesId\u00e9esAudacieuses",
+                    "staffCountRange": {
+                        "start": 10001
+                    }
+                }
+            },
+            {
+                "title": "Strategic Finance",
+                "company": "Replit",
+                "company_public_id": "repl-it",
+                "description": "Revenue analytics, Financial Modelling, SaaS metrics (ARR, LTV, Retention), GTM RevOps",
+                "start_date": {
+                    "month": 7,
+                    "year": 2023
+                },
+                "end_date": {
+                    "month": 7,
+                    "year": 2024
+                },
+                "company_details": {
+                    "description": "Idea to app, fast. Create beautiful, modern web applications at the speed of thought with the power of Replit's AI Agent.",
+                    "staffCountRange": {
+                        "start": 51,
+                        "end": 200
+                    }
+                }
+            },
+            {
+                "title": "Finance Manager",
+                "company": "Procter & Gamble",
+                "company_public_id": "procter-and-gamble",
+                "description": "Awards: \n1. Platinum Award  - Recognized leadership & resilience in enabling the team to finish the year +16pts vs. target\n2. Gold Award - Recognized leadership & growth in successfully executing pricing strategy & leading the Business Planning for FY2223",
+                "start_date": {
+                    "month": 6,
+                    "year": 2021
+                },
+                "end_date": {
+                    "month": 7,
+                    "year": 2023
+                },
+                "company_details": {
+                    "description": "P&G was founded more than 185 years ago as a soap and candle company. Today, we\u2019re one of the world\u2019s largest consumer goods companies and home to iconic, trusted brands, including Always\u00ae, Charmin\u00ae, Braun\u00ae, Fairy\u00ae, Febreze\u00ae, Gillette\u00ae, Head & Shoulders\u00ae, Oral B\u00ae, Pantene\u00ae, Pampers\u00ae, Tide\u00ae, and Vicks\u00ae. \n \nThe design, development, growth and success of these products\u2014and many more\u2014is thanks to the innovative and insightful minds of our people. From Day 1, you\u2019ll help make everyday life easier for our 5 billion consumers. \n \nThere is no single equation for success at P&G, because no two P&G people or careers are alike. Just as we strive to deliver a superior consumer experience, we aim to deliver a superior employee value equation as well. With our large global footprint, there are many opportunities to work with P&G in multiple locations. We offer opportunities in approximately 70 countries and continually aim to attract, reward and advance the finest people in the world. \n \nHere, we want you to get your career off to a fast start. That's why we don't have any rotational development programs or gradual ramping-up periods: you\u2019ll be able\u2014and encouraged\u2014to dive right in from Day 1. Join us and help make life better through meaningful work that makes an impact from Day 1.",
+                    "staffCountRange": {
+                        "start": 10001
+                    }
+                }
+            },
+            {
+                "title": "Business Analyst",
+                "company": "BOMBARDIER",
+                "company_public_id": "bombardier",
+                "description": "No description available",
+                "start_date": {
+                    "month": 12,
+                    "year": 2019
+                },
+                "end_date": {
+                    "month": 5,
+                    "year": 2020
+                },
+                "company_details": {
+                    "description": "Bombardier is a global leader in aviation, focused on designing, manufacturing, and servicing the world's most exceptional business jets. Bombardier\u2019s Challenger and Global aircraft families are renowned for their cutting-edge innovation, cabin design, performance, and reliability. Bombardier has a worldwide fleet of approximately 5,000 aircraft in service with a wide variety of multinational corporations, charter and fractional ownership providers, governments, and private individuals. Bombardier aircraft are also trusted around the world in government and military special-mission roles leveraging Bombardier Defense\u2019s proven expertise.\u202f\u202f \n\nHeadquartered in Greater Montr\u00e9al, Qu\u00e9bec, Bombardier operates aerostructure, assembly and completion facilities in Canada, the United States and Mexico. The company\u2019s robust customer support network services the Learjet, Challenger and Global families of aircraft, and includes facilities in strategic locations in the United States and Canada, as well as in the United Kingdom, Germany, France, Switzerland, Italy, Austria, the UAE, Singapore, China and Australia.\u202f\u202f \n\nFor corporate news and information, including Bombardier\u2019s Environmental, Social and Governance report, as well as the company\u2019s plans to cover all its flight operations with Sustainable Aviation Fuel (SAF) utilizing the Book and Claim system visit bombardier.com. Learn more about Bombardier\u2019s industry-leading products and customer service network at businessaircraft.bombardier.com. Follow us on Twitter @Bombardier.\u202f\u202f\u202f",
+                    "staffCountRange": {
+                        "start": 10001
+                    }
+                }
+            },
+            {
+                "title": "Investment Banking Analyst",
+                "company": "J.P. Morgan",
+                "company_public_id": "jpmorgan",
+                "description": "Diversified Industrials and Transportation Coverage, Investment Banking Division\n\n- Prepared pitchbooks for 30+ clients by assessing potential M&A targets, highlighting industry trends, conducting interloper analysis, developing financial valuations, and performing pro-forma analysis\n- Key valuation analysis performed: DCF, SOTP, trading and transaction comps\n- Developed functional expertise in the airline industry and was the partner of choice projects in this sector\n\nKey deals:\n\u2022 Developed financial valuations and management decks for a successful IPO of a US-based landscaping services firm (~$650MM)\n\u2022 Conducted trading/transaction comps analysis and generated industry insights for a successful IPO of a US-based waste-water processing firm (~$600MM)\n\u2022 Deal team member for execution of IPO of one of the largest airlines in the US with $2.1B revenue",
+                "start_date": {
+                    "month": 7,
+                    "year": 2017
+                },
+                "end_date": {
+                    "month": 8,
+                    "year": 2019
+                },
+                "company_details": {
+                    "description": "J.P. Morgan is a leader in financial services, offering solutions to clients in more than 100 countries with one of the most comprehensive global product platforms available. We have been helping our clients to do business and manage their wealth for more than 200 years. Our business has been built upon our core principle of putting our clients'\u200b interests first.\n\nJ.P. Morgan is part of JPMorgan Chase & Co. (NYSE: JPM), a global financial services firm.\n\nSocial Media Terms and Conditions: https://bit.ly/JPMCSocialTerms\n\n\u00a9 2017 JPMorgan Chase & Co.  JPMorgan Chase is an equal opportunity and affirmative action employer Disability/Veteran.",
+                    "staffCountRange": {
+                        "start": 10001
+                    }
+                }
+            }
+        ],
+        "education": [
+            {
+                "school": "McGill University - Desautels Faculty of Management",
+                "activities": null,
+                "grade": "3.9/4.0",
+                "start_date": null,
+                "end_date": null
+            },
+            {
+                "school": "PEC University of Technology, Chandigarh",
+                "activities": null,
+                "grade": null,
+                "start_date": null,
+                "end_date": null
+            }
+        ],
+        "skills": [
+            "M&A analysis",
+            "M&A Modeling",
+            "Valuation",
+            "Mergers & Acquisitions (M&A)"
+        ],
+        "id": "jashan-kaur"
+    },
+    {
+        "personal": {
+            "first_name": "Jashan",
+            "last_name": "Kaur",
+            "headline": "Senior Manager @ RBCx (Ventures) | Strategic Finance @ Replit (AI + SaaS) | Investment Banking @ JP Morgan",
+            "location": "Canada",
+            "city": "Toronto, Ontario",
+            "industry": "Computer Software"
+        },
+        "experiences": [
+            {
+                "title": "Senior Manager",
+                "company": "RBCx",
+                "company_public_id": "rbcx",
+                "description": "No description available",
+                "start_date": {
+                    "month": 8,
+                    "year": 2024
+                },
+                "end_date": null,
+                "company_details": {
+                    "description": "Backer of Canada\u2019s most daring innovators and idea generators. We power bold. #RBCxPowersBold / Nous nous faisons les alli\u00e9s des innovateurs et des g\u00e9n\u00e9rateurs d\u2019id\u00e9es les plus audacieux du Canada. Nous propulsons les id\u00e9es audacieuses. #RBCxPropulsedesId\u00e9esAudacieuses",
+                    "staffCountRange": {
+                        "start": 10001
+                    }
+                }
+            },
+            {
+                "title": "Strategic Finance",
+                "company": "Replit",
+                "company_public_id": "repl-it",
+                "description": "Revenue analytics, Financial Modelling, SaaS metrics (ARR, LTV, Retention), GTM RevOps",
+                "start_date": {
+                    "month": 7,
+                    "year": 2023
+                },
+                "end_date": {
+                    "month": 7,
+                    "year": 2024
+                },
+                "company_details": {
+                    "description": "Idea to app, fast. Create beautiful, modern web applications at the speed of thought with the power of Replit's AI Agent.",
+                    "staffCountRange": {
+                        "start": 51,
+                        "end": 200
+                    }
+                }
+            },
+            {
+                "title": "Finance Manager",
+                "company": "Procter & Gamble",
+                "company_public_id": "procter-and-gamble",
+                "description": "Awards: \n1. Platinum Award  - Recognized leadership & resilience in enabling the team to finish the year +16pts vs. target\n2. Gold Award - Recognized leadership & growth in successfully executing pricing strategy & leading the Business Planning for FY2223",
+                "start_date": {
+                    "month": 6,
+                    "year": 2021
+                },
+                "end_date": {
+                    "month": 7,
+                    "year": 2023
+                },
+                "company_details": {
+                    "description": "P&G was founded more than 185 years ago as a soap and candle company. Today, we\u2019re one of the world\u2019s largest consumer goods companies and home to iconic, trusted brands, including Always\u00ae, Charmin\u00ae, Braun\u00ae, Fairy\u00ae, Febreze\u00ae, Gillette\u00ae, Head & Shoulders\u00ae, Oral B\u00ae, Pantene\u00ae, Pampers\u00ae, Tide\u00ae, and Vicks\u00ae. \n \nThe design, development, growth and success of these products\u2014and many more\u2014is thanks to the innovative and insightful minds of our people. From Day 1, you\u2019ll help make everyday life easier for our 5 billion consumers. \n \nThere is no single equation for success at P&G, because no two P&G people or careers are alike. Just as we strive to deliver a superior consumer experience, we aim to deliver a superior employee value equation as well. With our large global footprint, there are many opportunities to work with P&G in multiple locations. We offer opportunities in approximately 70 countries and continually aim to attract, reward and advance the finest people in the world. \n \nHere, we want you to get your career off to a fast start. That's why we don't have any rotational development programs or gradual ramping-up periods: you\u2019ll be able\u2014and encouraged\u2014to dive right in from Day 1. Join us and help make life better through meaningful work that makes an impact from Day 1.",
+                    "staffCountRange": {
+                        "start": 10001
+                    }
+                }
+            },
+            {
+                "title": "Business Analyst",
+                "company": "BOMBARDIER",
+                "company_public_id": "bombardier",
+                "description": "No description available",
+                "start_date": {
+                    "month": 12,
+                    "year": 2019
+                },
+                "end_date": {
+                    "month": 5,
+                    "year": 2020
+                },
+                "company_details": {
+                    "description": "Bombardier is a global leader in aviation, focused on designing, manufacturing, and servicing the world's most exceptional business jets. Bombardier\u2019s Challenger and Global aircraft families are renowned for their cutting-edge innovation, cabin design, performance, and reliability. Bombardier has a worldwide fleet of approximately 5,000 aircraft in service with a wide variety of multinational corporations, charter and fractional ownership providers, governments, and private individuals. Bombardier aircraft are also trusted around the world in government and military special-mission roles leveraging Bombardier Defense\u2019s proven expertise.\u202f\u202f \n\nHeadquartered in Greater Montr\u00e9al, Qu\u00e9bec, Bombardier operates aerostructure, assembly and completion facilities in Canada, the United States and Mexico. The company\u2019s robust customer support network services the Learjet, Challenger and Global families of aircraft, and includes facilities in strategic locations in the United States and Canada, as well as in the United Kingdom, Germany, France, Switzerland, Italy, Austria, the UAE, Singapore, China and Australia.\u202f\u202f \n\nFor corporate news and information, including Bombardier\u2019s Environmental, Social and Governance report, as well as the company\u2019s plans to cover all its flight operations with Sustainable Aviation Fuel (SAF) utilizing the Book and Claim system visit bombardier.com. Learn more about Bombardier\u2019s industry-leading products and customer service network at businessaircraft.bombardier.com. Follow us on Twitter @Bombardier.\u202f\u202f\u202f",
+                    "staffCountRange": {
+                        "start": 10001
+                    }
+                }
+            },
+            {
+                "title": "Investment Banking Analyst",
+                "company": "J.P. Morgan",
+                "company_public_id": "jpmorgan",
+                "description": "Diversified Industrials and Transportation Coverage, Investment Banking Division\n\n- Prepared pitchbooks for 30+ clients by assessing potential M&A targets, highlighting industry trends, conducting interloper analysis, developing financial valuations, and performing pro-forma analysis\n- Key valuation analysis performed: DCF, SOTP, trading and transaction comps\n- Developed functional expertise in the airline industry and was the partner of choice projects in this sector\n\nKey deals:\n\u2022 Developed financial valuations and management decks for a successful IPO of a US-based landscaping services firm (~$650MM)\n\u2022 Conducted trading/transaction comps analysis and generated industry insights for a successful IPO of a US-based waste-water processing firm (~$600MM)\n\u2022 Deal team member for execution of IPO of one of the largest airlines in the US with $2.1B revenue",
+                "start_date": {
+                    "month": 7,
+                    "year": 2017
+                },
+                "end_date": {
+                    "month": 8,
+                    "year": 2019
+                },
+                "company_details": {
+                    "description": "J.P. Morgan is a leader in financial services, offering solutions to clients in more than 100 countries with one of the most comprehensive global product platforms available. We have been helping our clients to do business and manage their wealth for more than 200 years. Our business has been built upon our core principle of putting our clients'\u200b interests first.\n\nJ.P. Morgan is part of JPMorgan Chase & Co. (NYSE: JPM), a global financial services firm.\n\nSocial Media Terms and Conditions: https://bit.ly/JPMCSocialTerms\n\n\u00a9 2017 JPMorgan Chase & Co.  JPMorgan Chase is an equal opportunity and affirmative action employer Disability/Veteran.",
+                    "staffCountRange": {
+                        "start": 10001
+                    }
+                }
+            }
+        ],
+        "education": [
+            {
+                "school": "McGill University - Desautels Faculty of Management",
+                "activities": null,
+                "grade": "3.9/4.0",
+                "start_date": null,
+                "end_date": null
+            },
+            {
+                "school": "PEC University of Technology, Chandigarh",
+                "activities": null,
+                "grade": null,
+                "start_date": null,
+                "end_date": null
+            }
+        ],
+        "skills": [
+            "M&A analysis",
+            "M&A Modeling",
+            "Valuation",
+            "Mergers & Acquisitions (M&A)"
+        ],
+        "id": "jashan-kaur"
+    },
+    {
+        "personal": {
+            "first_name": "Jashan",
+            "last_name": "Kaur",
+            "headline": "Senior Manager @ RBCx (Ventures) | Strategic Finance @ Replit (AI + SaaS) | Investment Banking @ JP Morgan",
+            "location": "Canada",
+            "city": "Toronto, Ontario",
+            "industry": "Computer Software"
+        },
+        "experiences": [
+            {
+                "title": "Senior Manager",
+                "company": "RBCx",
+                "company_public_id": "rbcx",
+                "description": "No description available",
+                "start_date": {
+                    "month": 8,
+                    "year": 2024
+                },
+                "end_date": null,
+                "company_details": {
+                    "description": "Backer of Canada\u2019s most daring innovators and idea generators. We power bold. #RBCxPowersBold / Nous nous faisons les alli\u00e9s des innovateurs et des g\u00e9n\u00e9rateurs d\u2019id\u00e9es les plus audacieux du Canada. Nous propulsons les id\u00e9es audacieuses. #RBCxPropulsedesId\u00e9esAudacieuses",
+                    "staffCountRange": {
+                        "start": 10001
+                    }
+                }
+            },
+            {
+                "title": "Strategic Finance",
+                "company": "Replit",
+                "company_public_id": "repl-it",
+                "description": "Revenue analytics, Financial Modelling, SaaS metrics (ARR, LTV, Retention), GTM RevOps",
+                "start_date": {
+                    "month": 7,
+                    "year": 2023
+                },
+                "end_date": {
+                    "month": 7,
+                    "year": 2024
+                },
+                "company_details": {
+                    "description": "Idea to app, fast. Create beautiful, modern web applications at the speed of thought with the power of Replit's AI Agent.",
+                    "staffCountRange": {
+                        "start": 51,
+                        "end": 200
+                    }
+                }
+            },
+            {
+                "title": "Finance Manager",
+                "company": "Procter & Gamble",
+                "company_public_id": "procter-and-gamble",
+                "description": "Awards: \n1. Platinum Award  - Recognized leadership & resilience in enabling the team to finish the year +16pts vs. target\n2. Gold Award - Recognized leadership & growth in successfully executing pricing strategy & leading the Business Planning for FY2223",
+                "start_date": {
+                    "month": 6,
+                    "year": 2021
+                },
+                "end_date": {
+                    "month": 7,
+                    "year": 2023
+                },
+                "company_details": {
+                    "description": "P&G was founded more than 185 years ago as a soap and candle company. Today, we\u2019re one of the world\u2019s largest consumer goods companies and home to iconic, trusted brands, including Always\u00ae, Charmin\u00ae, Braun\u00ae, Fairy\u00ae, Febreze\u00ae, Gillette\u00ae, Head & Shoulders\u00ae, Oral B\u00ae, Pantene\u00ae, Pampers\u00ae, Tide\u00ae, and Vicks\u00ae. \n \nThe design, development, growth and success of these products\u2014and many more\u2014is thanks to the innovative and insightful minds of our people. From Day 1, you\u2019ll help make everyday life easier for our 5 billion consumers. \n \nThere is no single equation for success at P&G, because no two P&G people or careers are alike. Just as we strive to deliver a superior consumer experience, we aim to deliver a superior employee value equation as well. With our large global footprint, there are many opportunities to work with P&G in multiple locations. We offer opportunities in approximately 70 countries and continually aim to attract, reward and advance the finest people in the world. \n \nHere, we want you to get your career off to a fast start. That's why we don't have any rotational development programs or gradual ramping-up periods: you\u2019ll be able\u2014and encouraged\u2014to dive right in from Day 1. Join us and help make life better through meaningful work that makes an impact from Day 1.",
+                    "staffCountRange": {
+                        "start": 10001
+                    }
+                }
+            },
+            {
+                "title": "Business Analyst",
+                "company": "BOMBARDIER",
+                "company_public_id": "bombardier",
+                "description": "No description available",
+                "start_date": {
+                    "month": 12,
+                    "year": 2019
+                },
+                "end_date": {
+                    "month": 5,
+                    "year": 2020
+                },
+                "company_details": {
+                    "description": "Bombardier is a global leader in aviation, focused on designing, manufacturing, and servicing the world's most exceptional business jets. Bombardier\u2019s Challenger and Global aircraft families are renowned for their cutting-edge innovation, cabin design, performance, and reliability. Bombardier has a worldwide fleet of approximately 5,000 aircraft in service with a wide variety of multinational corporations, charter and fractional ownership providers, governments, and private individuals. Bombardier aircraft are also trusted around the world in government and military special-mission roles leveraging Bombardier Defense\u2019s proven expertise.\u202f\u202f \n\nHeadquartered in Greater Montr\u00e9al, Qu\u00e9bec, Bombardier operates aerostructure, assembly and completion facilities in Canada, the United States and Mexico. The company\u2019s robust customer support network services the Learjet, Challenger and Global families of aircraft, and includes facilities in strategic locations in the United States and Canada, as well as in the United Kingdom, Germany, France, Switzerland, Italy, Austria, the UAE, Singapore, China and Australia.\u202f\u202f \n\nFor corporate news and information, including Bombardier\u2019s Environmental, Social and Governance report, as well as the company\u2019s plans to cover all its flight operations with Sustainable Aviation Fuel (SAF) utilizing the Book and Claim system visit bombardier.com. Learn more about Bombardier\u2019s industry-leading products and customer service network at businessaircraft.bombardier.com. Follow us on Twitter @Bombardier.\u202f\u202f\u202f",
+                    "staffCountRange": {
+                        "start": 10001
+                    }
+                }
+            },
+            {
+                "title": "Investment Banking Analyst",
+                "company": "J.P. Morgan",
+                "company_public_id": "jpmorgan",
+                "description": "Diversified Industrials and Transportation Coverage, Investment Banking Division\n\n- Prepared pitchbooks for 30+ clients by assessing potential M&A targets, highlighting industry trends, conducting interloper analysis, developing financial valuations, and performing pro-forma analysis\n- Key valuation analysis performed: DCF, SOTP, trading and transaction comps\n- Developed functional expertise in the airline industry and was the partner of choice projects in this sector\n\nKey deals:\n\u2022 Developed financial valuations and management decks for a successful IPO of a US-based landscaping services firm (~$650MM)\n\u2022 Conducted trading/transaction comps analysis and generated industry insights for a successful IPO of a US-based waste-water processing firm (~$600MM)\n\u2022 Deal team member for execution of IPO of one of the largest airlines in the US with $2.1B revenue",
+                "start_date": {
+                    "month": 7,
+                    "year": 2017
+                },
+                "end_date": {
+                    "month": 8,
+                    "year": 2019
+                },
+                "company_details": {
+                    "description": "J.P. Morgan is a leader in financial services, offering solutions to clients in more than 100 countries with one of the most comprehensive global product platforms available. We have been helping our clients to do business and manage their wealth for more than 200 years. Our business has been built upon our core principle of putting our clients'\u200b interests first.\n\nJ.P. Morgan is part of JPMorgan Chase & Co. (NYSE: JPM), a global financial services firm.\n\nSocial Media Terms and Conditions: https://bit.ly/JPMCSocialTerms\n\n\u00a9 2017 JPMorgan Chase & Co.  JPMorgan Chase is an equal opportunity and affirmative action employer Disability/Veteran.",
+                    "staffCountRange": {
+                        "start": 10001
+                    }
+                }
+            }
+        ],
+        "education": [
+            {
+                "school": "McGill University - Desautels Faculty of Management",
+                "activities": null,
+                "grade": "3.9/4.0",
+                "start_date": null,
+                "end_date": null
+            },
+            {
+                "school": "PEC University of Technology, Chandigarh",
+                "activities": null,
+                "grade": null,
+                "start_date": null,
+                "end_date": null
+            }
+        ],
+        "skills": [
+            "M&A analysis",
+            "M&A Modeling",
+            "Valuation",
+            "Mergers & Acquisitions (M&A)"
+        ],
+        "id": "jashan-kaur"
+    },
+    {
+        "personal": {
+            "first_name": "Jashan",
+            "last_name": "Kaur",
+            "headline": "Senior Manager @ RBCx (Ventures) | Strategic Finance @ Replit (AI + SaaS) | Investment Banking @ JP Morgan",
+            "location": "Canada",
+            "city": "Toronto, Ontario",
+            "industry": "Computer Software"
+        },
+        "experiences": [
+            {
+                "title": "Senior Manager",
+                "company": "RBCx",
+                "company_public_id": "rbcx",
+                "description": "No description available",
+                "start_date": {
+                    "month": 8,
+                    "year": 2024
+                },
+                "end_date": null,
+                "company_details": {
+                    "description": "Backer of Canada\u2019s most daring innovators and idea generators. We power bold. #RBCxPowersBold / Nous nous faisons les alli\u00e9s des innovateurs et des g\u00e9n\u00e9rateurs d\u2019id\u00e9es les plus audacieux du Canada. Nous propulsons les id\u00e9es audacieuses. #RBCxPropulsedesId\u00e9esAudacieuses",
+                    "staffCountRange": {
+                        "start": 10001
+                    }
+                }
+            },
+            {
+                "title": "Strategic Finance",
+                "company": "Replit",
+                "company_public_id": "repl-it",
+                "description": "Revenue analytics, Financial Modelling, SaaS metrics (ARR, LTV, Retention), GTM RevOps",
+                "start_date": {
+                    "month": 7,
+                    "year": 2023
+                },
+                "end_date": {
+                    "month": 7,
+                    "year": 2024
+                },
+                "company_details": {
+                    "description": "Idea to app, fast. Create beautiful, modern web applications at the speed of thought with the power of Replit's AI Agent.",
+                    "staffCountRange": {
+                        "start": 51,
+                        "end": 200
+                    }
+                }
+            },
+            {
+                "title": "Finance Manager",
+                "company": "Procter & Gamble",
+                "company_public_id": "procter-and-gamble",
+                "description": "Awards: \n1. Platinum Award  - Recognized leadership & resilience in enabling the team to finish the year +16pts vs. target\n2. Gold Award - Recognized leadership & growth in successfully executing pricing strategy & leading the Business Planning for FY2223",
+                "start_date": {
+                    "month": 6,
+                    "year": 2021
+                },
+                "end_date": {
+                    "month": 7,
+                    "year": 2023
+                },
+                "company_details": {
+                    "description": "P&G was founded more than 185 years ago as a soap and candle company. Today, we\u2019re one of the world\u2019s largest consumer goods companies and home to iconic, trusted brands, including Always\u00ae, Charmin\u00ae, Braun\u00ae, Fairy\u00ae, Febreze\u00ae, Gillette\u00ae, Head & Shoulders\u00ae, Oral B\u00ae, Pantene\u00ae, Pampers\u00ae, Tide\u00ae, and Vicks\u00ae. \n \nThe design, development, growth and success of these products\u2014and many more\u2014is thanks to the innovative and insightful minds of our people. From Day 1, you\u2019ll help make everyday life easier for our 5 billion consumers. \n \nThere is no single equation for success at P&G, because no two P&G people or careers are alike. Just as we strive to deliver a superior consumer experience, we aim to deliver a superior employee value equation as well. With our large global footprint, there are many opportunities to work with P&G in multiple locations. We offer opportunities in approximately 70 countries and continually aim to attract, reward and advance the finest people in the world. \n \nHere, we want you to get your career off to a fast start. That's why we don't have any rotational development programs or gradual ramping-up periods: you\u2019ll be able\u2014and encouraged\u2014to dive right in from Day 1. Join us and help make life better through meaningful work that makes an impact from Day 1.",
+                    "staffCountRange": {
+                        "start": 10001
+                    }
+                }
+            },
+            {
+                "title": "Business Analyst",
+                "company": "BOMBARDIER",
+                "company_public_id": "bombardier",
+                "description": "No description available",
+                "start_date": {
+                    "month": 12,
+                    "year": 2019
+                },
+                "end_date": {
+                    "month": 5,
+                    "year": 2020
+                },
+                "company_details": {
+                    "description": "Bombardier is a global leader in aviation, focused on designing, manufacturing, and servicing the world's most exceptional business jets. Bombardier\u2019s Challenger and Global aircraft families are renowned for their cutting-edge innovation, cabin design, performance, and reliability. Bombardier has a worldwide fleet of approximately 5,000 aircraft in service with a wide variety of multinational corporations, charter and fractional ownership providers, governments, and private individuals. Bombardier aircraft are also trusted around the world in government and military special-mission roles leveraging Bombardier Defense\u2019s proven expertise.\u202f\u202f \n\nHeadquartered in Greater Montr\u00e9al, Qu\u00e9bec, Bombardier operates aerostructure, assembly and completion facilities in Canada, the United States and Mexico. The company\u2019s robust customer support network services the Learjet, Challenger and Global families of aircraft, and includes facilities in strategic locations in the United States and Canada, as well as in the United Kingdom, Germany, France, Switzerland, Italy, Austria, the UAE, Singapore, China and Australia.\u202f\u202f \n\nFor corporate news and information, including Bombardier\u2019s Environmental, Social and Governance report, as well as the company\u2019s plans to cover all its flight operations with Sustainable Aviation Fuel (SAF) utilizing the Book and Claim system visit bombardier.com. Learn more about Bombardier\u2019s industry-leading products and customer service network at businessaircraft.bombardier.com. Follow us on Twitter @Bombardier.\u202f\u202f\u202f",
+                    "staffCountRange": {
+                        "start": 10001
+                    }
+                }
+            },
+            {
+                "title": "Investment Banking Analyst",
+                "company": "J.P. Morgan",
+                "company_public_id": "jpmorgan",
+                "description": "Diversified Industrials and Transportation Coverage, Investment Banking Division\n\n- Prepared pitchbooks for 30+ clients by assessing potential M&A targets, highlighting industry trends, conducting interloper analysis, developing financial valuations, and performing pro-forma analysis\n- Key valuation analysis performed: DCF, SOTP, trading and transaction comps\n- Developed functional expertise in the airline industry and was the partner of choice projects in this sector\n\nKey deals:\n\u2022 Developed financial valuations and management decks for a successful IPO of a US-based landscaping services firm (~$650MM)\n\u2022 Conducted trading/transaction comps analysis and generated industry insights for a successful IPO of a US-based waste-water processing firm (~$600MM)\n\u2022 Deal team member for execution of IPO of one of the largest airlines in the US with $2.1B revenue",
+                "start_date": {
+                    "month": 7,
+                    "year": 2017
+                },
+                "end_date": {
+                    "month": 8,
+                    "year": 2019
+                },
+                "company_details": {
+                    "description": "J.P. Morgan is a leader in financial services, offering solutions to clients in more than 100 countries with one of the most comprehensive global product platforms available. We have been helping our clients to do business and manage their wealth for more than 200 years. Our business has been built upon our core principle of putting our clients'\u200b interests first.\n\nJ.P. Morgan is part of JPMorgan Chase & Co. (NYSE: JPM), a global financial services firm.\n\nSocial Media Terms and Conditions: https://bit.ly/JPMCSocialTerms\n\n\u00a9 2017 JPMorgan Chase & Co.  JPMorgan Chase is an equal opportunity and affirmative action employer Disability/Veteran.",
+                    "staffCountRange": {
+                        "start": 10001
+                    }
+                }
+            }
+        ],
+        "education": [
+            {
+                "school": "McGill University - Desautels Faculty of Management",
+                "activities": null,
+                "grade": "3.9/4.0",
+                "start_date": null,
+                "end_date": null
+            },
+            {
+                "school": "PEC University of Technology, Chandigarh",
+                "activities": null,
+                "grade": null,
+                "start_date": null,
+                "end_date": null
+            }
+        ],
+        "skills": [
+            "M&A analysis",
+            "M&A Modeling",
+            "Valuation",
+            "Mergers & Acquisitions (M&A)"
+        ],
+        "id": "jashan-kaur"
+    }
+]

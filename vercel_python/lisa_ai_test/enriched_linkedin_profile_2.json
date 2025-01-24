@@ -1,0 +1,141 @@
+{
+    "personal": {
+        "first_name": "Dan Bi",
+        "last_name": "Park",
+        "headline": "Strategic Finance at Homebase",
+        "location": "Canada",
+        "city": null,
+        "industry": "Computer Software"
+    },
+    "experiences": [
+        {
+            "title": "Strategic Finance",
+            "company": "Homebase",
+            "company_public_id": "homebase-app",
+            "description": "No description available",
+            "start_date": {
+                "month": 11,
+                "year": 2023
+            },
+            "end_date": null,
+            "company_details": {
+                "description": "Our mission is to make small business teams unstoppable. \n\nHomebase is the everything app for hourly teams, with employee scheduling, time clocks, payroll, team communication, and HR. More than 100,000 small (but mighty) businesses rely on Homebase to make work radically easy and superpower their teams. \n\nBest Time Clock 2023 - The Motley Fool\nBest Scheduling 2023 - Investopedia\nBest HR & Employee App 2023 - The Webby Awards\nBest employee communication tool ever! - Theresa Fouquette, Owner, Bliss Small Batch Creamery\n\nAmerica's Best Startup Employers 2024 - Forbes",
+                "staffCountRange": {
+                    "start": 201,
+                    "end": 500
+                }
+            }
+        },
+        {
+            "title": "Investment Banking Analyst",
+            "company": "Goldman Sachs",
+            "company_public_id": "goldman-sachs",
+            "description": "IBD | Cross Markets Group",
+            "start_date": {
+                "month": 7,
+                "year": 2020
+            },
+            "end_date": {
+                "month": 8,
+                "year": 2022
+            },
+            "company_details": {
+                "description": "At Goldman Sachs, we believe progress is everyone\u2019s business. That\u2019s why we commit our people, capital and ideas to help our clients, shareholders and the communities we serve to grow.\nFounded in 1869, Goldman Sachs is a leading global investment banking, securities and investment management firm. Headquartered in New York, we maintain offices in all major financial centers around the world. \n\nMore about our company can be found at www.goldmansachs.com\n\nFor insights on developments currently shaping markets, industries and the global economy, subscribe to BRIEFINGS, a weekly email from Goldman Sachs. Copy and paste this link into your browser to sign up: http://link.gs.com/Qxf3\n\ngs.com/social-media-disclosures",
+                "staffCountRange": {
+                    "start": 10001
+                }
+            }
+        },
+        {
+            "title": "Investment Banking Junior Analyst",
+            "company": "Goldman Sachs",
+            "company_public_id": "goldman-sachs",
+            "description": "IBD | Andean Region Coverage",
+            "start_date": {
+                "month": 7,
+                "year": 2019
+            },
+            "end_date": {
+                "month": 1,
+                "year": 2020
+            }
+        },
+        {
+            "title": "Investment Banking Summer Analyst",
+            "company": "Goldman Sachs",
+            "company_public_id": "goldman-sachs",
+            "description": "IBD | Andean Region Coverage",
+            "start_date": {
+                "month": 12,
+                "year": 2018
+            },
+            "end_date": {
+                "month": 2,
+                "year": 2019
+            }
+        },
+        {
+            "title": "Summer Financial Management Trainee",
+            "company": "AIA Singapore",
+            "company_public_id": "aia-singapore",
+            "description": "No description available",
+            "start_date": {
+                "month": 6,
+                "year": 2018
+            },
+            "end_date": {
+                "month": 8,
+                "year": 2018
+            },
+            "company_details": {
+                "description": "AIA Singapore is part of the AIA Group, which is the largest independent publicly listed pan-Asian life insurance group in the world and the second largest life insurance company in the world by market capitalisation. \n\nAs a leading company in Singapore, AIA Singapore takes a leadership role in contributing to the nation\u2019s social and economic progress by enabling families to live healthier, longer, better lives. Together with one of Singapore\u2019s biggest and most committed team of AIA Financial Services Consultants, our dedicated staff are united in continually pursuing this goal.  \n\nWith a focus on providing excellent service to our customers, we partner with individuals, families and corporates in Singapore for a brighter and more prosperous future for all. \n\nCommitted to the vision of being the pre-eminent life insurer in the country, admired for excellent service and best practices, AIA Singapore conducts our business according to an operating philosophy of \u201cDoing the Right Thing, in the Right Way, with the Right People.\"\u200b\n\nAny personal information supplied by you in connection with your use of this social media platform may be collected, stored, handled, used and deleted in accordance with the AIA Singapore Privacy Policy available at http://www.aia.com.sg/en/index/personal-data-policy.html",
+                "staffCountRange": {
+                    "start": 1001,
+                    "end": 5000
+                }
+            }
+        }
+    ],
+    "education": [
+        {
+            "school": "ESSEC Business School",
+            "activities": null,
+            "grade": null,
+            "start_date": {
+                "year": 2016
+            },
+            "end_date": {
+                "year": 2020
+            }
+        },
+        {
+            "school": "Facultad de Econom\u00eda y Negocios - Universidad de Chile",
+            "activities": null,
+            "grade": null,
+            "start_date": {
+                "year": 2019
+            },
+            "end_date": {
+                "year": 2019
+            }
+        },
+        {
+            "school": "Christian Academy of Guatemala",
+            "activities": null,
+            "grade": null,
+            "start_date": {
+                "year": 2012
+            },
+            "end_date": {
+                "year": 2016
+            }
+        }
+    ],
+    "skills": [
+        "Microsoft Excel",
+        "Visual Basic for Applications (VBA)",
+        "Microsoft Office",
+        "Public Speaking"
+    ],
+    "id": "danbipark"
+}

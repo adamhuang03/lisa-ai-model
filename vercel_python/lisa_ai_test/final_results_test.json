@@ -1,0 +1,97 @@
+[
+    {
+        "profile_id": "jashan-kaur",
+        "score": 1.5,
+        "score_details": {
+            "score_current": {
+                "score": 1,
+                "description": "The candidate's title as 'Senior Manager' indicates a level of responsibility that may align with strategic roles, but lacks direct relevance to the 'Strategic Finance' title. The company details show that the candidate is involved with a much larger organization focused on innovation rather than small business solutions, which is the focus of the ideal profile. This creates a gap in specific industry experience and the type of financial strategy emphasized."
+            },
+            "score_past": {
+                "score": 2,
+                "description": "The candidate's experience includes a relevant position as an Investment Banking Analyst, which directly aligns with the ideal profile. Additionally, the candidate has a strong background in finance, including roles such as Finance Manager and Business Analyst, which demonstrate financial analytical skills. Although the candidate's other roles in strategic finance and consumer goods are not directly related to investment banking, the core financial skills and analytical expertise are present, contributing to a high level of similarity."
+            }
+        },
+        "profile_details": {
+            "name": "Jashan Kaur",
+            "headline": "Senior Manager @ RBCx (Ventures) | Strategic Finance @ Replit (AI + SaaS) | Investment Banking @ JP Morgan",
+            "city": "Toronto, Ontario"
+        }
+    },
+    {
+        "profile_id": "jashan-kaur",
+        "score": 1.5,
+        "score_details": {
+            "score_current": {
+                "score": 1,
+                "description": "The candidate's title as 'Senior Manager' suggests a level of leadership and strategic thinking, which is somewhat aligned with the 'Strategic Finance' role of the ideal profile. However, the candidate's company is a much larger organization (over 10,001 staff) compared to the ideal company's range (201-500 staff), indicating a potential gap in experience with smaller teams and businesses. This difference in company size and focus on small businesses contributes to a lower similarity score."
+            },
+            "score_past": {
+                "score": 2,
+                "description": "The candidate's profile includes a direct experience as an Investment Banking Analyst, which aligns perfectly with the ideal profile's primary role. Additionally, the candidate has worked in diverse financial roles such as Finance Manager and Business Analyst in reputable companies like J.P. Morgan and P&G, showcasing a strong financial background. Despite a lack of similar junior roles or summer analyst positions, the candidate's relevant skills and experiences significantly match the ideal profile, justifying the high similarity score."
+            }
+        },
+        "profile_details": {
+            "name": "Jashan Kaur",
+            "headline": "Senior Manager @ RBCx (Ventures) | Strategic Finance @ Replit (AI + SaaS) | Investment Banking @ JP Morgan",
+            "city": "Toronto, Ontario"
+        }
+    },
+    {
+        "profile_id": "jashan-kaur",
+        "score": 1.0,
+        "score_details": {
+            "score_current": {
+                "score": 1,
+                "description": "The candidate's title as a Senior Manager suggests a level of experience, but it does not directly align with the Strategic Finance role. The company details indicate a focus on innovation and support for bold ideas at a much larger organization, contrasting with the small business focus of the ideal profile. While there is some managerial experience, gaps exist in industry-specific skills relevant to strategic finance."
+            },
+            "score_past": {
+                "score": 1,
+                "description": "The candidate has relevant experience as an Investment Banking Analyst, which aligns closely with the ideal profile's roles in investment banking. However, the candidate's additional roles in Strategic Finance and Finance Manager, while valuable, introduce a focus on broader financial management rather than pure investment banking, resulting in moderate similarity overall."
+            }
+        },
+        "profile_details": {
+            "name": "Jashan Kaur",
+            "headline": "Senior Manager @ RBCx (Ventures) | Strategic Finance @ Replit (AI + SaaS) | Investment Banking @ JP Morgan",
+            "city": "Toronto, Ontario"
+        }
+    },
+    {
+        "profile_id": "jashan-kaur",
+        "score": 1.0,
+        "score_details": {
+            "score_current": {
+                "score": 1,
+                "description": "The candidate's profile as a Senior Manager indicates a level of leadership experience, which is relevant to the Strategic Finance role. However, the candidate's company operates on a much larger scale (over 10,000 employees) compared to the ideal company's focus on small businesses (201-500 employees). The differences in company size and mission suggest a gap in direct relevance to the ideal profile's context, leading to a score of 1."
+            },
+            "score_past": {
+                "score": 1,
+                "description": "The candidate has relevant experience as an Investment Banking Analyst, which aligns closely with the ideal profile's requirement for investment banking roles. However, the majority of the candidate's other roles are focused on finance and analytics in different sectors (SaaS, consumer goods, and aviation), indicating a gap in direct investment banking experience compared to the ideal profile. Overall, the candidate shows some transferable skills but lacks the deep focus on investment banking seen in the ideal profile."
+            }
+        },
+        "profile_details": {
+            "name": "Jashan Kaur",
+            "headline": "Senior Manager @ RBCx (Ventures) | Strategic Finance @ Replit (AI + SaaS) | Investment Banking @ JP Morgan",
+            "city": "Toronto, Ontario"
+        }
+    },
+    {
+        "profile_id": "jashan-kaur",
+        "score": 1.5,
+        "score_details": {
+            "score_current": {
+                "score": 1,
+                "description": "The candidate's title as Senior Manager indicates a level of leadership, but it does not align closely with the Strategic Finance role of the ideal profile. Additionally, the candidate's company, which supports innovators, is significantly larger in scale compared to the small business focus of Homebase. There is a gap in the specific financial skills and industry focus needed for the ideal profile, though both profiles involve management roles."
+            },
+            "score_past": {
+                "score": 2,
+                "description": "The candidate has relevant experience as an Investment Banking Analyst, which aligns perfectly with the ideal profile's Investment Banking roles. Both profiles emphasize similar responsibilities in financial analysis and deal execution. Although the candidate has additional experience in finance and business analysis, the core investment banking experience matches well, leading to a high similarity score."
+            }
+        },
+        "profile_details": {
+            "name": "Jashan Kaur",
+            "headline": "Senior Manager @ RBCx (Ventures) | Strategic Finance @ Replit (AI + SaaS) | Investment Banking @ JP Morgan",
+            "city": "Toronto, Ontario"
+        }
+    }
+]
