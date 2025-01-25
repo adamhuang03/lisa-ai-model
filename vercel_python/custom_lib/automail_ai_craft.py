@@ -265,6 +265,7 @@ def enrich_person_more(
         logger.info("Added profile_urn to profile")
     
     logger.info("Successfully enriched profile data")
+    return cleaned_person
 
 
 if __name__ == "__main__":
