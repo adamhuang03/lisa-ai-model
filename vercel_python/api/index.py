@@ -438,6 +438,8 @@ async def enrich_profile_more(request: EnrichProfileRequest) -> dict:
             url_value=True
         )
 
+        logger.info(f"Successfully enriched person: {result}")
+
         # Your existing logic here using linkedin_client
         return JSONResponse(content={
             "result": result
@@ -921,4 +923,4 @@ async def process_data(request: ProcessDataRequest):
 
 @app.get("/")
 async def root():
-    return {"message": "AutoMail AI API is running"}
+    return {"message": "Lisa AI Model is running"}
