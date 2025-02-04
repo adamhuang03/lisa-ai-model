@@ -176,6 +176,7 @@ class SearchPeopleRequest(BaseModel):
     keywords: str
     past_companies: list
     or_past_companies: bool
+    regions: list = []
     limit: int
     offset: int
     cookies: List[Dict[str, Any]]
@@ -312,6 +313,7 @@ async def get_search_people(request: SearchPeopleRequest) -> dict:
             keywords=request.keywords,
             past_companies=request.past_companies,
             or_past_companies=request.or_past_companies,
+            regions=request.regions,
             limit=request.limit,
             offset=request.offset
         )
