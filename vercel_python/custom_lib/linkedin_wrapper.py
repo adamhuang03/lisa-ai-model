@@ -26,9 +26,9 @@ class LinkedinWrapper(BaseLinkedin):
         res = self._fetch(uri, headers={"accept": "application/vnd.linkedin.normalized+json+2.1"})
         data = res.json()
 
-        with open('test.json', 'w') as f:
-            import json
-            json.dump(data, f, indent=4)
+        # with open('test.json', 'w') as f:
+        #     import json
+        #     json.dump(data, f, indent=4)
         
         if "included" not in data:
             return []
@@ -55,6 +55,7 @@ class LinkedinWrapper(BaseLinkedin):
         nonprofit_interests: Optional[List[str]] = None,
         profile_languages: Optional[List[str]] = None,
         regions: Optional[List[str]] = None,
+        or_regions: bool = False,
         industries: Optional[List[str]] = None,
         schools: Optional[List[str]] = None,
         or_schools: bool = False,
@@ -86,6 +87,8 @@ class LinkedinWrapper(BaseLinkedin):
         :type or_past_companies: bool, optional
         :param regions: A list of geo URN IDs (str)
         :type regions: list, optional
+        :param or_regions: Boolean to determine if you want to search for profiles with any of the regions in the list
+        :type or_regions: bool, optional
         :param industries: A list of industry URN IDs (str)
         :type industries: list, optional
         :param schools: A list of school URN IDs (str)
@@ -131,7 +134,10 @@ class LinkedinWrapper(BaseLinkedin):
         elif network_depth:
             filters.append(f"(key:network,value:List({network_depth}))")
         if regions:
-            stringify = " | ".join(regions)
+            if or_regions:
+                stringify = ",".join(regions)
+            else:
+                stringify = " | ".join(regions)
             filters.append(f"(key:geoUrn,value:List({stringify}))")
         if industries:
             stringify = " | ".join(industries)

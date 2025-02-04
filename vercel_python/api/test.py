@@ -1,6 +1,8 @@
 import sys
 import os
+
 sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
+from custom_lib.cookies_extractor_async import cookie_extractor_from_json
 from custom_lib.automail_ai_craft import LinkedinWrapper, enrich_person_more
 from custom_lib.automail_ai_search_v2 import search_people
 from dotenv import load_dotenv
@@ -8,7 +10,10 @@ import json
 
 load_dotenv()
 
-linkedin = LinkedinWrapper(os.getenv("LINKEDIN_USER"), os.getenv("LINKEDIN_PASS"), debug=True)
+with open('multi_cookies/cookies_C5.json', 'r') as f:
+    cookies_C5 = json.load(f)
+cookies_jar = cookie_extractor_from_json(cookies_C5)
+linkedin = LinkedinWrapper(os.getenv("LINKEDIN_USER_1"), os.getenv("LINKEDIN_PASS_1"), cookies=cookies_jar, debug=True)
 
 # result = enrich_person_more(
 #         linkedin=linkedin,
@@ -16,11 +21,18 @@ linkedin = LinkedinWrapper(os.getenv("LINKEDIN_USER"), os.getenv("LINKEDIN_PASS"
 #         url_value=True
 #     )
 
-result = linkedin.search_people(
-    keywords="investment banking",
+# result = linkedin.search_people(
+#     keywords="investment banking",
+#     limit=10,
+#     offset=0
+# )
+
+result = linkedin.search_geo(
+    keywords="new york",
     limit=10,
     offset=0
 )
+
 
 # result = linkedin.add_connection(
 #     profile_public_id="hasan-raza-",
