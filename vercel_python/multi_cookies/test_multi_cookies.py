@@ -13,16 +13,16 @@ import asyncio
 import time
 
 # Get cookies =========================================================================
-url = 'http://localhost:3000/chat/api/playwright-local'
-# url_main = 'http://trylisa.vercel.app/chat/api/playwright'
+# url = 'http://localhost:3000/chat/api/playwright-local'
+url_main = 'http://trylisa.vercel.app/chat/api/playwright'
 
 res = requests.get(
-        url +
-        f'?email={os.getenv("LINKEDIN_USER_OG")}&password={os.getenv("LINKEDIN_PASS_OG")}',
+        url_main +
+        f'?email={os.getenv("LINKEDIN_USER_1")}&password={os.getenv("LINKEDIN_PASS_1")}',
     )
 
 json_data = res.json()
-with open('multi_cookies/cookies_OG.json', 'w') as f:
+with open('multi_cookies/cookies_A1.json', 'w') as f:
     json.dump(json_data['cookies'], f, indent=4)
 
 # Test search =========================================================================

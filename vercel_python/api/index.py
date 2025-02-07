@@ -542,7 +542,8 @@ async def send_connection_request(request: SendConnectionRequest) -> dict:
 
             if result:
                 return JSONResponse(content={
-                    "result": 'Request has already been sent'
+                    "result": 'Request has already been sent or spam to much'
+                    # blasted more than 25 in a row on one day
                 }, media_type="application/json")
             else:
                 return JSONResponse(content={
