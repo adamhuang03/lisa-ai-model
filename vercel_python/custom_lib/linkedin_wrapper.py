@@ -301,23 +301,23 @@ class LinkedinWrapper(BaseLinkedin):
                         "endDate": None
                     }
                 
-                # Extract dates     
-                time_period = position.get("timePeriod", {})
-                if "startDate" in time_period:
-                    experience_entry["startDate"] = time_period["startDate"]
-                if "endDate" in time_period:
-                    experience_entry["endDate"] = time_period["endDate"]
-                    
-                # Get company logo if available
-                if "company" in position and "miniCompany" in position["company"]:
-                    if "logo" in position["company"]["miniCompany"]:
-                        logo = position["company"]["miniCompany"]["logo"].get(
-                            "com.linkedin.common.VectorImage"
-                        )
-                        if logo:
-                            experience_entry["companyLogoUrl"] = logo["rootUrl"]
-                    
-                processed_experience.append(experience_entry)
+                    # Extract dates     
+                    time_period = position.get("timePeriod", {})
+                    if "startDate" in time_period:
+                        experience_entry["startDate"] = time_period["startDate"]
+                    if "endDate" in time_period:
+                        experience_entry["endDate"] = time_period["endDate"]
+                        
+                    # Get company logo if available
+                    if "company" in position and "miniCompany" in position["company"]:
+                        if "logo" in position["company"]["miniCompany"]:
+                            logo = position["company"]["miniCompany"]["logo"].get(
+                                "com.linkedin.common.VectorImage"
+                            )
+                            if logo:
+                                experience_entry["companyLogoUrl"] = logo["rootUrl"]
+                        
+                    processed_experience.append(experience_entry)
         
         profile["experience"] = processed_experience
 

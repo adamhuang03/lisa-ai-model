@@ -1,0 +1,264 @@
+{
+    "industryName": "Financial Services",
+    "lastName": "Menhorn",
+    "locationName": "United States",
+    "student": false,
+    "geoCountryName": "United States",
+    "geoCountryUrn": "urn:li:fs_geo:103644278",
+    "geoLocationBackfilled": false,
+    "elt": false,
+    "industryUrn": "urn:li:fs_industry:43",
+    "firstName": "Steven",
+    "entityUrn": "urn:li:fs_profile:ACoAABJA3gUBZB6f2uhQFB6wT-BwVx0THNV6Gew",
+    "geoLocation": {
+        "geoUrn": "urn:li:fs_geo:102571732"
+    },
+    "geoLocationName": "New York, New York",
+    "location": {
+        "basicLocation": {
+            "countryCode": "us"
+        }
+    },
+    "headline": "Sr Strategic Finance Manager",
+    "displayPictureUrl": "https://media.licdn.com/dms/image/v2/C4E03AQEAD1TkVjrCBw/profile-displayphoto-shrink_",
+    "img_100_100": "100_100/profile-displayphoto-shrink_100_100/0/1580840330604?e=1744243200&v=beta&t=NGnp3-mlWl2QaL5M_mGrpGqatncfmvdFt6k6aoYfd3I",
+    "img_200_200": "200_200/profile-displayphoto-shrink_200_200/0/1580840330548?e=1744243200&v=beta&t=uG8tX1U7w_8NM8ZYXOnmSIsRMhUWirIooR5MU12cWak",
+    "img_400_400": "400_400/profile-displayphoto-shrink_400_400/0/1580840330673?e=1744243200&v=beta&t=I0f6U4qgd2R_PmXea_ADwu-Iuc6qSMskMUUgEFL2i6I",
+    "img_534_534": "800_800/profile-displayphoto-shrink_800_800/0/1580840330702?e=1744243200&v=beta&t=UnFikT-9RgJgFdFSUX4UltoKuwlMgDh-88vEDDJdb7A",
+    "profile_id": "ACoAABJA3gUBZB6f2uhQFB6wT-BwVx0THNV6Gew",
+    "profile_urn": "urn:li:fs_miniProfile:ACoAABJA3gUBZB6f2uhQFB6wT-BwVx0THNV6Gew",
+    "member_urn": "urn:li:member:306241029",
+    "public_id": "steven-menhorn",
+    "experience": [
+        {
+            "title": "Sr. Strategic Finance Manager",
+            "companyName": "InvestCloud, Inc.",
+            "companyPublicId": "investcloud",
+            "description": "No description available",
+            "startDate": {
+                "month": 4,
+                "year": 2024
+            },
+            "endDate": null,
+            "companyLogoUrl": "https://media.licdn.com/dms/image/v2/D4D0BAQFS8ZvNesexjQ/company-logo_"
+        },
+        {
+            "title": "Senior Finance Manager",
+            "companyName": "Fiserv",
+            "companyPublicId": "fiserv",
+            "description": "No description available",
+            "startDate": {
+                "month": 5,
+                "year": 2022
+            },
+            "endDate": {
+                "month": 10,
+                "year": 2023
+            },
+            "companyLogoUrl": "https://media.licdn.com/dms/image/v2/D4E0BAQFY7GLD59Mrkg/company-logo_"
+        },
+        {
+            "title": "Summer Associate, Corporate Strategy",
+            "companyName": "Fiserv",
+            "companyPublicId": "fiserv",
+            "description": "No description available",
+            "startDate": {
+                "month": 5,
+                "year": 2019
+            },
+            "endDate": {
+                "month": 8,
+                "year": 2019
+            },
+            "companyLogoUrl": "https://media.licdn.com/dms/image/v2/D4E0BAQFY7GLD59Mrkg/company-logo_"
+        },
+        {
+            "title": "CSG Custody",
+            "companyName": "Brown Brothers Harriman",
+            "companyPublicId": "brown-brothers-harriman",
+            "description": "No description available",
+            "startDate": {
+                "month": 2,
+                "year": 2016
+            },
+            "endDate": {
+                "month": 2,
+                "year": 2017
+            },
+            "companyLogoUrl": "https://media.licdn.com/dms/image/v2/D4E0BAQGf602sHjhATA/company-logo_"
+        },
+        {
+            "title": "Analyst",
+            "companyName": "Morgan Stanley",
+            "companyPublicId": "morgan-stanley",
+            "description": "No description available",
+            "startDate": {
+                "month": 7,
+                "year": 2012
+            },
+            "endDate": {
+                "month": 1,
+                "year": 2015
+            },
+            "companyLogoUrl": "https://media.licdn.com/dms/image/v2/C560BAQFtDpMvYgbIwA/company-logo_"
+        }
+    ],
+    "education": [
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAABJA3gUBZB6f2uhQFB6wT-BwVx0THNV6Gew,505716394)",
+            "school": {
+                "objectUrn": "urn:li:school:18192",
+                "entityUrn": "urn:li:fs_miniSchool:18192",
+                "active": true,
+                "schoolName": "University of Georgia - Terry College of Business",
+                "trackingId": "79I8UHozR1CeBNhFHpcH4Q==",
+                "logoUrl": "https://media.licdn.com/dms/image/v2/C560BAQGbhuBZtDA0Nw/company-logo_"
+            },
+            "activities": "Leadership Fellows",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2020
+                },
+                "startDate": {
+                    "year": 2018
+                }
+            },
+            "degreeName": "Master of Business Administration - MBA",
+            "schoolName": "University of Georgia - Terry College of Business",
+            "fieldOfStudy": "Finance, Strategy, & Social Innovation",
+            "degreeUrn": "urn:li:fs_degree:700",
+            "schoolUrn": "urn:li:fs_miniSchool:18192"
+        },
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAABJA3gUBZB6f2uhQFB6wT-BwVx0THNV6Gew,195643138)",
+            "school": {
+                "objectUrn": "urn:li:school:18167",
+                "entityUrn": "urn:li:fs_miniSchool:18167",
+                "active": true,
+                "schoolName": "Kennesaw State University",
+                "trackingId": "6NxDYnlIREG/p5bX02P9pA==",
+                "logoUrl": "https://media.licdn.com/dms/image/v2/C4D0BAQHuTnl1ITbe5Q/company-logo_"
+            },
+            "timePeriod": {
+                "endDate": {
+                    "year": 2012
+                },
+                "startDate": {
+                    "year": 2008
+                }
+            },
+            "degreeName": "Bachelor of Business Administration - BBA",
+            "schoolName": "Kennesaw State University",
+            "fieldOfStudy": "Finance, General",
+            "degreeUrn": "urn:li:fs_degree:450",
+            "schoolUrn": "urn:li:fs_miniSchool:18167"
+        }
+    ],
+    "languages": [],
+    "publications": [],
+    "certifications": [
+        {
+            "authority": "Acuity Knowledge Partners",
+            "name": "Six Sigma Black Belt Certification \u2013 Level I",
+            "company": {
+                "objectUrn": "urn:li:company:30242966",
+                "entityUrn": "urn:li:fs_miniCompany:30242966",
+                "name": "Acuity Knowledge Partners",
+                "showcase": false,
+                "active": true,
+                "logo": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "https://media.licdn.com/dms/image/v2/D560BAQGbqJnR_U4NAA/img-crop_100/img-crop_100/0/1720182388705?e=1747267200&v=beta&t=wZGoFW6C9osm7wrIzOX5SjTZX8Yx5sRkblfgPdC68YE",
+                                "expiresAt": 1747267200000,
+                                "height": 100
+                            }
+                        ],
+                        "rootUrl": ""
+                    }
+                },
+                "universalName": "acuity-knowledge-partners",
+                "dashCompanyUrn": "urn:li:fsd_company:30242966",
+                "trackingId": "jFHKIyH2QY+pj7q+EFy6JA=="
+            },
+            "companyUrn": "urn:li:fs_miniCompany:30242966"
+        }
+    ],
+    "volunteer": [
+        {
+            "role": "Habitate for Humanity",
+            "companyName": "Habitat for Humanity International",
+            "company": {
+                "miniCompany": {
+                    "objectUrn": "urn:li:company:7680",
+                    "entityUrn": "urn:li:fs_miniCompany:7680",
+                    "name": "Habitat for Humanity International",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1631333285363?e=1747267200&v=beta&t=UF9Oa4qNKucJwI5SZEoAqzGg2-y3zV1PTpaWloFBKUc",
+                                    "expiresAt": 1747267200000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1631333285363?e=1747267200&v=beta&t=FCuOVTZdGvnndVbuNzl2aJXNnct37TprLOtVDsn1HmM",
+                                    "expiresAt": 1747267200000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1631333285363?e=1747267200&v=beta&t=Fh-AC2jW8pQCUfhDAeRhvI9eG0vXD7FxkvVF8_0Fqek",
+                                    "expiresAt": 1747267200000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media.licdn.com/dms/image/v2/C4E0BAQHLbIDCpKBUfA/company-logo_"
+                        }
+                    },
+                    "universalName": "habitat-for-humanity-international",
+                    "dashCompanyUrn": "urn:li:fsd_company:7680",
+                    "trackingId": "r11B4pdXQIiynXurXtZRKw=="
+                }
+            },
+            "companyUrn": "urn:li:fs_miniCompany:7680"
+        },
+        {
+            "role": "Teacher of English",
+            "companyName": "English Open Doors",
+            "timePeriod": {
+                "endDate": {
+                    "month": 7,
+                    "year": 2018
+                },
+                "startDate": {
+                    "month": 2,
+                    "year": 2018
+                }
+            }
+        }
+    ],
+    "honors": [],
+    "projects": [],
+    "skills": [
+        {
+            "name": "Financial Analysis"
+        },
+        {
+            "name": "Corporate Finance"
+        },
+        {
+            "name": "Microsoft Excel"
+        },
+        {
+            "name": "Six Sigma Black Belt"
+        }
+    ],
+    "urn_id": "ACoAABJA3gUBZB6f2uhQFB6wT-BwVx0THNV6Gew"
+}

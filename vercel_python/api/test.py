@@ -10,16 +10,14 @@ import json
 
 load_dotenv()
 
-with open('multi_cookies/cookies_C5.json', 'r') as f:
+with open('multi_cookies/cookies_A1.json', 'r') as f:
     cookies_C5 = json.load(f)
 cookies_jar = cookie_extractor_from_json(cookies_C5)
 linkedin = LinkedinWrapper(os.getenv("LINKEDIN_USER_1"), os.getenv("LINKEDIN_PASS_1"), cookies=cookies_jar, debug=True)
 
-# result = enrich_person_more(
-#         linkedin=linkedin,
-#         value="https://www.linkedin.com/in/ryan-hui-cfa-323a6529/",
-#         url_value=True
-#     )
+result = linkedin.get_profile(
+        public_id="steven-menhorn",
+    )
 
 # result = linkedin.search_people(
 #     keywords="investment banking",
@@ -27,11 +25,11 @@ linkedin = LinkedinWrapper(os.getenv("LINKEDIN_USER_1"), os.getenv("LINKEDIN_PAS
 #     offset=0
 # )
 
-result = linkedin.search_geo(
-    keywords="new york",
-    limit=10,
-    offset=0
-)
+# result = linkedin.search_geo(
+#     keywords="new york",
+#     limit=10,
+#     offset=0
+# )
 
 
 # result = linkedin.add_connection(
@@ -40,3 +38,7 @@ result = linkedin.search_geo(
 # )
 
 print(json.dumps(result, indent=4))
+
+with open('save.json', 'w') as f:
+    import json
+    json.dump(result, f, indent=4)

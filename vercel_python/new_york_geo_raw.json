@@ -1,0 +1,1136 @@
+{
+    "data": {
+        "data": {
+            "searchDashReusableTypeaheadByType": {
+                "metadata": {
+                    "searchId": "046fa426-be1b-4a26-9a1c-15df27a76592",
+                    "$recipeTypes": [
+                        "com.linkedin.289f4b8f323759287d13be1c4bd0e5d2"
+                    ],
+                    "$type": "com.linkedin.voyager.dash.search.typeahead.TypeaheadMetadata"
+                },
+                "paging": {
+                    "count": 20,
+                    "start": 0,
+                    "total": 0,
+                    "$recipeTypes": [
+                        "com.linkedin.53f46303402bb1f2fc7e82160a1bd6bb"
+                    ],
+                    "$type": "com.linkedin.restli.common.CollectionMetadata"
+                },
+                "$recipeTypes": [
+                    "com.linkedin.58d963cdff02f3d71da23dd4f307f1c6"
+                ],
+                "elements": [
+                    {
+                        "image": null,
+                        "trackingUrn": "urn:li:geo:105080838",
+                        "subtitle": null,
+                        "navigationUrl": null,
+                        "title": {
+                            "textDirection": "USER_LOCALE",
+                            "text": "New York, United States",
+                            "attributesV2": [],
+                            "accessibilityTextAttributesV2": [],
+                            "accessibilityText": null,
+                            "$recipeTypes": [
+                                "com.linkedin.fa372203df58872353caeba27eb380fc"
+                            ],
+                            "$type": "com.linkedin.voyager.dash.common.text.TextViewModel"
+                        },
+                        "$recipeTypes": [
+                            "com.linkedin.5b27c6455051fec110ab3849891e2251"
+                        ],
+                        "trackingId": "e\u0013\u0080\u0090X\u00aeG@\u00a3h\u00b0QH\u00b3\u0096\u00a6",
+                        "renderStyle": null,
+                        "target": {
+                            "address": null,
+                            "gender": null,
+                            "race": null,
+                            "profile": null,
+                            "segmentAttributeValue": null,
+                            "degree": null,
+                            "professionalEvent": null,
+                            "industry": null,
+                            "title": null,
+                            "profileSkill": null,
+                            "productCategory": null,
+                            "sexualOrientation": null,
+                            "industryV2": null,
+                            "jobFunction": null,
+                            "*geo": "urn:li:fsd_geo:105080838",
+                            "credential": null,
+                            "organizationProduct": null,
+                            "standardizedProduct": null,
+                            "skill": null,
+                            "company": null,
+                            "fieldOfStudy": null,
+                            "group": null,
+                            "hashtag": null
+                        },
+                        "$type": "com.linkedin.voyager.dash.search.typeahead.TypeaheadViewModel"
+                    },
+                    {
+                        "image": null,
+                        "trackingUrn": "urn:li:geo:102571732",
+                        "subtitle": null,
+                        "navigationUrl": null,
+                        "title": {
+                            "textDirection": "USER_LOCALE",
+                            "text": "New York, New York, United States",
+                            "attributesV2": [],
+                            "accessibilityTextAttributesV2": [],
+                            "accessibilityText": null,
+                            "$recipeTypes": [
+                                "com.linkedin.fa372203df58872353caeba27eb380fc"
+                            ],
+                            "$type": "com.linkedin.voyager.dash.common.text.TextViewModel"
+                        },
+                        "$recipeTypes": [
+                            "com.linkedin.5b27c6455051fec110ab3849891e2251"
+                        ],
+                        "trackingId": "Z\\EJ\u0094\u008eFn\u0099\u008aM\u0088\u00fb!d\u001a",
+                        "renderStyle": null,
+                        "target": {
+                            "address": null,
+                            "gender": null,
+                            "race": null,
+                            "profile": null,
+                            "segmentAttributeValue": null,
+                            "degree": null,
+                            "professionalEvent": null,
+                            "industry": null,
+                            "title": null,
+                            "profileSkill": null,
+                            "productCategory": null,
+                            "sexualOrientation": null,
+                            "industryV2": null,
+                            "jobFunction": null,
+                            "*geo": "urn:li:fsd_geo:102571732",
+                            "credential": null,
+                            "organizationProduct": null,
+                            "standardizedProduct": null,
+                            "skill": null,
+                            "company": null,
+                            "fieldOfStudy": null,
+                            "group": null,
+                            "hashtag": null
+                        },
+                        "$type": "com.linkedin.voyager.dash.search.typeahead.TypeaheadViewModel"
+                    },
+                    {
+                        "image": null,
+                        "trackingUrn": "urn:li:geo:90000070",
+                        "subtitle": null,
+                        "navigationUrl": null,
+                        "title": {
+                            "textDirection": "USER_LOCALE",
+                            "text": "New York City Metropolitan Area",
+                            "attributesV2": [],
+                            "accessibilityTextAttributesV2": [],
+                            "accessibilityText": null,
+                            "$recipeTypes": [
+                                "com.linkedin.fa372203df58872353caeba27eb380fc"
+                            ],
+                            "$type": "com.linkedin.voyager.dash.common.text.TextViewModel"
+                        },
+                        "$recipeTypes": [
+                            "com.linkedin.5b27c6455051fec110ab3849891e2251"
+                        ],
+                        "trackingId": "\u0000\u00b2U\u00ed\u007f*O<\u009b+\u000fr\u00b2d\u0093W",
+                        "renderStyle": null,
+                        "target": {
+                            "address": null,
+                            "gender": null,
+                            "race": null,
+                            "profile": null,
+                            "segmentAttributeValue": null,
+                            "degree": null,
+                            "professionalEvent": null,
+                            "industry": null,
+                            "title": null,
+                            "profileSkill": null,
+                            "productCategory": null,
+                            "sexualOrientation": null,
+                            "industryV2": null,
+                            "jobFunction": null,
+                            "*geo": "urn:li:fsd_geo:90000070",
+                            "credential": null,
+                            "organizationProduct": null,
+                            "standardizedProduct": null,
+                            "skill": null,
+                            "company": null,
+                            "fieldOfStudy": null,
+                            "group": null,
+                            "hashtag": null
+                        },
+                        "$type": "com.linkedin.voyager.dash.search.typeahead.TypeaheadViewModel"
+                    },
+                    {
+                        "image": null,
+                        "trackingUrn": "urn:li:geo:104361728",
+                        "subtitle": null,
+                        "navigationUrl": null,
+                        "title": {
+                            "textDirection": "USER_LOCALE",
+                            "text": "Brooklyn, New York, United States",
+                            "attributesV2": [],
+                            "accessibilityTextAttributesV2": [],
+                            "accessibilityText": null,
+                            "$recipeTypes": [
+                                "com.linkedin.fa372203df58872353caeba27eb380fc"
+                            ],
+                            "$type": "com.linkedin.voyager.dash.common.text.TextViewModel"
+                        },
+                        "$recipeTypes": [
+                            "com.linkedin.5b27c6455051fec110ab3849891e2251"
+                        ],
+                        "trackingId": "Xda\u00cb\u0002eN\u00fb\u00be\u0085\u000e\u00d1mX\u0018n",
+                        "renderStyle": null,
+                        "target": {
+                            "address": null,
+                            "gender": null,
+                            "race": null,
+                            "profile": null,
+                            "segmentAttributeValue": null,
+                            "degree": null,
+                            "professionalEvent": null,
+                            "industry": null,
+                            "title": null,
+                            "profileSkill": null,
+                            "productCategory": null,
+                            "sexualOrientation": null,
+                            "industryV2": null,
+                            "jobFunction": null,
+                            "*geo": "urn:li:fsd_geo:104361728",
+                            "credential": null,
+                            "organizationProduct": null,
+                            "standardizedProduct": null,
+                            "skill": null,
+                            "company": null,
+                            "fieldOfStudy": null,
+                            "group": null,
+                            "hashtag": null
+                        },
+                        "$type": "com.linkedin.voyager.dash.search.typeahead.TypeaheadViewModel"
+                    },
+                    {
+                        "image": null,
+                        "trackingUrn": "urn:li:geo:90000016",
+                        "subtitle": null,
+                        "navigationUrl": null,
+                        "title": {
+                            "textDirection": "USER_LOCALE",
+                            "text": "Albany, New York Metropolitan Area",
+                            "attributesV2": [],
+                            "accessibilityTextAttributesV2": [],
+                            "accessibilityText": null,
+                            "$recipeTypes": [
+                                "com.linkedin.fa372203df58872353caeba27eb380fc"
+                            ],
+                            "$type": "com.linkedin.voyager.dash.common.text.TextViewModel"
+                        },
+                        "$recipeTypes": [
+                            "com.linkedin.5b27c6455051fec110ab3849891e2251"
+                        ],
+                        "trackingId": "\n\u00e3`\u00ab\u00aayJ\u00dd\u008f\u000e\u00beL\u00fc\u00d3X_",
+                        "renderStyle": null,
+                        "target": {
+                            "address": null,
+                            "gender": null,
+                            "race": null,
+                            "profile": null,
+                            "segmentAttributeValue": null,
+                            "degree": null,
+                            "professionalEvent": null,
+                            "industry": null,
+                            "title": null,
+                            "profileSkill": null,
+                            "productCategory": null,
+                            "sexualOrientation": null,
+                            "industryV2": null,
+                            "jobFunction": null,
+                            "*geo": "urn:li:fsd_geo:90000016",
+                            "credential": null,
+                            "organizationProduct": null,
+                            "standardizedProduct": null,
+                            "skill": null,
+                            "company": null,
+                            "fieldOfStudy": null,
+                            "group": null,
+                            "hashtag": null
+                        },
+                        "$type": "com.linkedin.voyager.dash.search.typeahead.TypeaheadViewModel"
+                    },
+                    {
+                        "image": null,
+                        "trackingUrn": "urn:li:geo:90000684",
+                        "subtitle": null,
+                        "navigationUrl": null,
+                        "title": {
+                            "textDirection": "USER_LOCALE",
+                            "text": "Rochester, New York Metropolitan Area",
+                            "attributesV2": [],
+                            "accessibilityTextAttributesV2": [],
+                            "accessibilityText": null,
+                            "$recipeTypes": [
+                                "com.linkedin.fa372203df58872353caeba27eb380fc"
+                            ],
+                            "$type": "com.linkedin.voyager.dash.common.text.TextViewModel"
+                        },
+                        "$recipeTypes": [
+                            "com.linkedin.5b27c6455051fec110ab3849891e2251"
+                        ],
+                        "trackingId": "\u0085\u00b8\u00a3\u008084B\u00c0\u00a6\u00cf\u00a6\u00aa\u00baf\u00a6)",
+                        "renderStyle": null,
+                        "target": {
+                            "address": null,
+                            "gender": null,
+                            "race": null,
+                            "profile": null,
+                            "segmentAttributeValue": null,
+                            "degree": null,
+                            "professionalEvent": null,
+                            "industry": null,
+                            "title": null,
+                            "profileSkill": null,
+                            "productCategory": null,
+                            "sexualOrientation": null,
+                            "industryV2": null,
+                            "jobFunction": null,
+                            "*geo": "urn:li:fsd_geo:90000684",
+                            "credential": null,
+                            "organizationProduct": null,
+                            "standardizedProduct": null,
+                            "skill": null,
+                            "company": null,
+                            "fieldOfStudy": null,
+                            "group": null,
+                            "hashtag": null
+                        },
+                        "$type": "com.linkedin.voyager.dash.search.typeahead.TypeaheadViewModel"
+                    },
+                    {
+                        "image": null,
+                        "trackingUrn": "urn:li:geo:106081027",
+                        "subtitle": null,
+                        "navigationUrl": null,
+                        "title": {
+                            "textDirection": "USER_LOCALE",
+                            "text": "Bronx, New York, United States",
+                            "attributesV2": [],
+                            "accessibilityTextAttributesV2": [],
+                            "accessibilityText": null,
+                            "$recipeTypes": [
+                                "com.linkedin.fa372203df58872353caeba27eb380fc"
+                            ],
+                            "$type": "com.linkedin.voyager.dash.common.text.TextViewModel"
+                        },
+                        "$recipeTypes": [
+                            "com.linkedin.5b27c6455051fec110ab3849891e2251"
+                        ],
+                        "trackingId": "\u00e1@ocUuJR\u00a7\u00ea\u009b\u00a0\u00ed,e\u0099",
+                        "renderStyle": null,
+                        "target": {
+                            "address": null,
+                            "gender": null,
+                            "race": null,
+                            "profile": null,
+                            "segmentAttributeValue": null,
+                            "degree": null,
+                            "professionalEvent": null,
+                            "industry": null,
+                            "title": null,
+                            "profileSkill": null,
+                            "productCategory": null,
+                            "sexualOrientation": null,
+                            "industryV2": null,
+                            "jobFunction": null,
+                            "*geo": "urn:li:fsd_geo:106081027",
+                            "credential": null,
+                            "organizationProduct": null,
+                            "standardizedProduct": null,
+                            "skill": null,
+                            "company": null,
+                            "fieldOfStudy": null,
+                            "group": null,
+                            "hashtag": null
+                        },
+                        "$type": "com.linkedin.voyager.dash.search.typeahead.TypeaheadViewModel"
+                    },
+                    {
+                        "image": null,
+                        "trackingUrn": "urn:li:geo:106282048",
+                        "subtitle": null,
+                        "navigationUrl": null,
+                        "title": {
+                            "textDirection": "USER_LOCALE",
+                            "text": "Queens, New York, United States",
+                            "attributesV2": [],
+                            "accessibilityTextAttributesV2": [],
+                            "accessibilityText": null,
+                            "$recipeTypes": [
+                                "com.linkedin.fa372203df58872353caeba27eb380fc"
+                            ],
+                            "$type": "com.linkedin.voyager.dash.common.text.TextViewModel"
+                        },
+                        "$recipeTypes": [
+                            "com.linkedin.5b27c6455051fec110ab3849891e2251"
+                        ],
+                        "trackingId": "\u00d7\u00f3\u0084\u00a1\u0088(M\u00bd\u0092\u0095\u009b\u00e1\u00e5z\u00dd\u00b1",
+                        "renderStyle": null,
+                        "target": {
+                            "address": null,
+                            "gender": null,
+                            "race": null,
+                            "profile": null,
+                            "segmentAttributeValue": null,
+                            "degree": null,
+                            "professionalEvent": null,
+                            "industry": null,
+                            "title": null,
+                            "profileSkill": null,
+                            "productCategory": null,
+                            "sexualOrientation": null,
+                            "industryV2": null,
+                            "jobFunction": null,
+                            "*geo": "urn:li:fsd_geo:106282048",
+                            "credential": null,
+                            "organizationProduct": null,
+                            "standardizedProduct": null,
+                            "skill": null,
+                            "company": null,
+                            "fieldOfStudy": null,
+                            "group": null,
+                            "hashtag": null
+                        },
+                        "$type": "com.linkedin.voyager.dash.search.typeahead.TypeaheadViewModel"
+                    },
+                    {
+                        "image": null,
+                        "trackingUrn": "urn:li:geo:103676418",
+                        "subtitle": null,
+                        "navigationUrl": null,
+                        "title": {
+                            "textDirection": "USER_LOCALE",
+                            "text": "Buffalo, New York, United States",
+                            "attributesV2": [],
+                            "accessibilityTextAttributesV2": [],
+                            "accessibilityText": null,
+                            "$recipeTypes": [
+                                "com.linkedin.fa372203df58872353caeba27eb380fc"
+                            ],
+                            "$type": "com.linkedin.voyager.dash.common.text.TextViewModel"
+                        },
+                        "$recipeTypes": [
+                            "com.linkedin.5b27c6455051fec110ab3849891e2251"
+                        ],
+                        "trackingId": "_H\u0088\u00e1\u0003\u00deAr\u00b1\u00ca\u00be9\u00ae.\u000bA",
+                        "renderStyle": null,
+                        "target": {
+                            "address": null,
+                            "gender": null,
+                            "race": null,
+                            "profile": null,
+                            "segmentAttributeValue": null,
+                            "degree": null,
+                            "professionalEvent": null,
+                            "industry": null,
+                            "title": null,
+                            "profileSkill": null,
+                            "productCategory": null,
+                            "sexualOrientation": null,
+                            "industryV2": null,
+                            "jobFunction": null,
+                            "*geo": "urn:li:fsd_geo:103676418",
+                            "credential": null,
+                            "organizationProduct": null,
+                            "standardizedProduct": null,
+                            "skill": null,
+                            "company": null,
+                            "fieldOfStudy": null,
+                            "group": null,
+                            "hashtag": null
+                        },
+                        "$type": "com.linkedin.voyager.dash.search.typeahead.TypeaheadViewModel"
+                    },
+                    {
+                        "image": null,
+                        "trackingUrn": "urn:li:geo:106553046",
+                        "subtitle": null,
+                        "navigationUrl": null,
+                        "title": {
+                            "textDirection": "USER_LOCALE",
+                            "text": "Rochester, New York, United States",
+                            "attributesV2": [],
+                            "accessibilityTextAttributesV2": [],
+                            "accessibilityText": null,
+                            "$recipeTypes": [
+                                "com.linkedin.fa372203df58872353caeba27eb380fc"
+                            ],
+                            "$type": "com.linkedin.voyager.dash.common.text.TextViewModel"
+                        },
+                        "$recipeTypes": [
+                            "com.linkedin.5b27c6455051fec110ab3849891e2251"
+                        ],
+                        "trackingId": "/2\u0011\u00a9\u00b3\u001aI\\\u0097~\u00bf\u0006\u00e8}(\u00f8",
+                        "renderStyle": null,
+                        "target": {
+                            "address": null,
+                            "gender": null,
+                            "race": null,
+                            "profile": null,
+                            "segmentAttributeValue": null,
+                            "degree": null,
+                            "professionalEvent": null,
+                            "industry": null,
+                            "title": null,
+                            "profileSkill": null,
+                            "productCategory": null,
+                            "sexualOrientation": null,
+                            "industryV2": null,
+                            "jobFunction": null,
+                            "*geo": "urn:li:fsd_geo:106553046",
+                            "credential": null,
+                            "organizationProduct": null,
+                            "standardizedProduct": null,
+                            "skill": null,
+                            "company": null,
+                            "fieldOfStudy": null,
+                            "group": null,
+                            "hashtag": null
+                        },
+                        "$type": "com.linkedin.voyager.dash.search.typeahead.TypeaheadViewModel"
+                    },
+                    {
+                        "image": null,
+                        "trackingUrn": "urn:li:geo:103556916",
+                        "subtitle": null,
+                        "navigationUrl": null,
+                        "title": {
+                            "textDirection": "USER_LOCALE",
+                            "text": "Schenectady, New York, United States",
+                            "attributesV2": [],
+                            "accessibilityTextAttributesV2": [],
+                            "accessibilityText": null,
+                            "$recipeTypes": [
+                                "com.linkedin.fa372203df58872353caeba27eb380fc"
+                            ],
+                            "$type": "com.linkedin.voyager.dash.common.text.TextViewModel"
+                        },
+                        "$recipeTypes": [
+                            "com.linkedin.5b27c6455051fec110ab3849891e2251"
+                        ],
+                        "trackingId": "B\u0095\u00c14\u007f\u000eL\u00a3\u009c\u00a5Bh\u0089\u001c\u00e8\u00d4",
+                        "renderStyle": null,
+                        "target": {
+                            "address": null,
+                            "gender": null,
+                            "race": null,
+                            "profile": null,
+                            "segmentAttributeValue": null,
+                            "degree": null,
+                            "professionalEvent": null,
+                            "industry": null,
+                            "title": null,
+                            "profileSkill": null,
+                            "productCategory": null,
+                            "sexualOrientation": null,
+                            "industryV2": null,
+                            "jobFunction": null,
+                            "*geo": "urn:li:fsd_geo:103556916",
+                            "credential": null,
+                            "organizationProduct": null,
+                            "standardizedProduct": null,
+                            "skill": null,
+                            "company": null,
+                            "fieldOfStudy": null,
+                            "group": null,
+                            "hashtag": null
+                        },
+                        "$type": "com.linkedin.voyager.dash.search.typeahead.TypeaheadViewModel"
+                    },
+                    {
+                        "image": null,
+                        "trackingUrn": "urn:li:geo:107093877",
+                        "subtitle": null,
+                        "navigationUrl": null,
+                        "title": {
+                            "textDirection": "USER_LOCALE",
+                            "text": "Staten Island, New York, United States",
+                            "attributesV2": [],
+                            "accessibilityTextAttributesV2": [],
+                            "accessibilityText": null,
+                            "$recipeTypes": [
+                                "com.linkedin.fa372203df58872353caeba27eb380fc"
+                            ],
+                            "$type": "com.linkedin.voyager.dash.common.text.TextViewModel"
+                        },
+                        "$recipeTypes": [
+                            "com.linkedin.5b27c6455051fec110ab3849891e2251"
+                        ],
+                        "trackingId": "\u00c2\b\u001a\u00de'\u0084A4\u00b3\u00c1*\u0099\u0019W\u00d1J",
+                        "renderStyle": null,
+                        "target": {
+                            "address": null,
+                            "gender": null,
+                            "race": null,
+                            "profile": null,
+                            "segmentAttributeValue": null,
+                            "degree": null,
+                            "professionalEvent": null,
+                            "industry": null,
+                            "title": null,
+                            "profileSkill": null,
+                            "productCategory": null,
+                            "sexualOrientation": null,
+                            "industryV2": null,
+                            "jobFunction": null,
+                            "*geo": "urn:li:fsd_geo:107093877",
+                            "credential": null,
+                            "organizationProduct": null,
+                            "standardizedProduct": null,
+                            "skill": null,
+                            "company": null,
+                            "fieldOfStudy": null,
+                            "group": null,
+                            "hashtag": null
+                        },
+                        "$type": "com.linkedin.voyager.dash.search.typeahead.TypeaheadViewModel"
+                    },
+                    {
+                        "image": null,
+                        "trackingUrn": "urn:li:geo:101842255",
+                        "subtitle": null,
+                        "navigationUrl": null,
+                        "title": {
+                            "textDirection": "USER_LOCALE",
+                            "text": "Melrose, New York, United States",
+                            "attributesV2": [],
+                            "accessibilityTextAttributesV2": [],
+                            "accessibilityText": null,
+                            "$recipeTypes": [
+                                "com.linkedin.fa372203df58872353caeba27eb380fc"
+                            ],
+                            "$type": "com.linkedin.voyager.dash.common.text.TextViewModel"
+                        },
+                        "$recipeTypes": [
+                            "com.linkedin.5b27c6455051fec110ab3849891e2251"
+                        ],
+                        "trackingId": "\u0006\u00e4;\u00f4\u008f\u00f5O\u0083\u00a1\u00fa\u00daIh\b\u00e2x",
+                        "renderStyle": null,
+                        "target": {
+                            "address": null,
+                            "gender": null,
+                            "race": null,
+                            "profile": null,
+                            "segmentAttributeValue": null,
+                            "degree": null,
+                            "professionalEvent": null,
+                            "industry": null,
+                            "title": null,
+                            "profileSkill": null,
+                            "productCategory": null,
+                            "sexualOrientation": null,
+                            "industryV2": null,
+                            "jobFunction": null,
+                            "*geo": "urn:li:fsd_geo:101842255",
+                            "credential": null,
+                            "organizationProduct": null,
+                            "standardizedProduct": null,
+                            "skill": null,
+                            "company": null,
+                            "fieldOfStudy": null,
+                            "group": null,
+                            "hashtag": null
+                        },
+                        "$type": "com.linkedin.voyager.dash.search.typeahead.TypeaheadViewModel"
+                    },
+                    {
+                        "image": null,
+                        "trackingUrn": "urn:li:geo:100074394",
+                        "subtitle": null,
+                        "navigationUrl": null,
+                        "title": {
+                            "textDirection": "USER_LOCALE",
+                            "text": "Albany, New York, United States",
+                            "attributesV2": [],
+                            "accessibilityTextAttributesV2": [],
+                            "accessibilityText": null,
+                            "$recipeTypes": [
+                                "com.linkedin.fa372203df58872353caeba27eb380fc"
+                            ],
+                            "$type": "com.linkedin.voyager.dash.common.text.TextViewModel"
+                        },
+                        "$recipeTypes": [
+                            "com.linkedin.5b27c6455051fec110ab3849891e2251"
+                        ],
+                        "trackingId": "^\u00c2\u00fa\u00b8\u0004\u00a5J\u00d0\u00a0\u00e71\u00d9\u00d0Z\u00a8\\",
+                        "renderStyle": null,
+                        "target": {
+                            "address": null,
+                            "gender": null,
+                            "race": null,
+                            "profile": null,
+                            "segmentAttributeValue": null,
+                            "degree": null,
+                            "professionalEvent": null,
+                            "industry": null,
+                            "title": null,
+                            "profileSkill": null,
+                            "productCategory": null,
+                            "sexualOrientation": null,
+                            "industryV2": null,
+                            "jobFunction": null,
+                            "*geo": "urn:li:fsd_geo:100074394",
+                            "credential": null,
+                            "organizationProduct": null,
+                            "standardizedProduct": null,
+                            "skill": null,
+                            "company": null,
+                            "fieldOfStudy": null,
+                            "group": null,
+                            "hashtag": null
+                        },
+                        "$type": "com.linkedin.voyager.dash.search.typeahead.TypeaheadViewModel"
+                    },
+                    {
+                        "image": null,
+                        "trackingUrn": "urn:li:geo:103650796",
+                        "subtitle": null,
+                        "navigationUrl": null,
+                        "title": {
+                            "textDirection": "USER_LOCALE",
+                            "text": "Syracuse, New York, United States",
+                            "attributesV2": [],
+                            "accessibilityTextAttributesV2": [],
+                            "accessibilityText": null,
+                            "$recipeTypes": [
+                                "com.linkedin.fa372203df58872353caeba27eb380fc"
+                            ],
+                            "$type": "com.linkedin.voyager.dash.common.text.TextViewModel"
+                        },
+                        "$recipeTypes": [
+                            "com.linkedin.5b27c6455051fec110ab3849891e2251"
+                        ],
+                        "trackingId": "i\u00d0\u00e5V\u0088\u00d4NF\u00a7ce\u00a4\u00e9\u0018\u0089\u0080",
+                        "renderStyle": null,
+                        "target": {
+                            "address": null,
+                            "gender": null,
+                            "race": null,
+                            "profile": null,
+                            "segmentAttributeValue": null,
+                            "degree": null,
+                            "professionalEvent": null,
+                            "industry": null,
+                            "title": null,
+                            "profileSkill": null,
+                            "productCategory": null,
+                            "sexualOrientation": null,
+                            "industryV2": null,
+                            "jobFunction": null,
+                            "*geo": "urn:li:fsd_geo:103650796",
+                            "credential": null,
+                            "organizationProduct": null,
+                            "standardizedProduct": null,
+                            "skill": null,
+                            "company": null,
+                            "fieldOfStudy": null,
+                            "group": null,
+                            "hashtag": null
+                        },
+                        "$type": "com.linkedin.voyager.dash.search.typeahead.TypeaheadViewModel"
+                    },
+                    {
+                        "image": null,
+                        "trackingUrn": "urn:li:geo:104307373",
+                        "subtitle": null,
+                        "navigationUrl": null,
+                        "title": {
+                            "textDirection": "USER_LOCALE",
+                            "text": "New City, New York, United States",
+                            "attributesV2": [],
+                            "accessibilityTextAttributesV2": [],
+                            "accessibilityText": null,
+                            "$recipeTypes": [
+                                "com.linkedin.fa372203df58872353caeba27eb380fc"
+                            ],
+                            "$type": "com.linkedin.voyager.dash.common.text.TextViewModel"
+                        },
+                        "$recipeTypes": [
+                            "com.linkedin.5b27c6455051fec110ab3849891e2251"
+                        ],
+                        "trackingId": "\u00e6\u0098K\u00b1\u00ec\u0081D3\u008b00A\f\u00b0~s",
+                        "renderStyle": null,
+                        "target": {
+                            "address": null,
+                            "gender": null,
+                            "race": null,
+                            "profile": null,
+                            "segmentAttributeValue": null,
+                            "degree": null,
+                            "professionalEvent": null,
+                            "industry": null,
+                            "title": null,
+                            "profileSkill": null,
+                            "productCategory": null,
+                            "sexualOrientation": null,
+                            "industryV2": null,
+                            "jobFunction": null,
+                            "*geo": "urn:li:fsd_geo:104307373",
+                            "credential": null,
+                            "organizationProduct": null,
+                            "standardizedProduct": null,
+                            "skill": null,
+                            "company": null,
+                            "fieldOfStudy": null,
+                            "group": null,
+                            "hashtag": null
+                        },
+                        "$type": "com.linkedin.voyager.dash.search.typeahead.TypeaheadViewModel"
+                    },
+                    {
+                        "image": null,
+                        "trackingUrn": "urn:li:geo:100076283",
+                        "subtitle": null,
+                        "navigationUrl": null,
+                        "title": {
+                            "textDirection": "USER_LOCALE",
+                            "text": "Yonkers, New York, United States",
+                            "attributesV2": [],
+                            "accessibilityTextAttributesV2": [],
+                            "accessibilityText": null,
+                            "$recipeTypes": [
+                                "com.linkedin.fa372203df58872353caeba27eb380fc"
+                            ],
+                            "$type": "com.linkedin.voyager.dash.common.text.TextViewModel"
+                        },
+                        "$recipeTypes": [
+                            "com.linkedin.5b27c6455051fec110ab3849891e2251"
+                        ],
+                        "trackingId": "@\u0095\u00ed\u00d7\u0093\u0013@\u0014\u00bc\u000f\u00ca\u009b\u00a1\u00f5\u00fe\u00ed",
+                        "renderStyle": null,
+                        "target": {
+                            "address": null,
+                            "gender": null,
+                            "race": null,
+                            "profile": null,
+                            "segmentAttributeValue": null,
+                            "degree": null,
+                            "professionalEvent": null,
+                            "industry": null,
+                            "title": null,
+                            "profileSkill": null,
+                            "productCategory": null,
+                            "sexualOrientation": null,
+                            "industryV2": null,
+                            "jobFunction": null,
+                            "*geo": "urn:li:fsd_geo:100076283",
+                            "credential": null,
+                            "organizationProduct": null,
+                            "standardizedProduct": null,
+                            "skill": null,
+                            "company": null,
+                            "fieldOfStudy": null,
+                            "group": null,
+                            "hashtag": null
+                        },
+                        "$type": "com.linkedin.voyager.dash.search.typeahead.TypeaheadViewModel"
+                    },
+                    {
+                        "image": null,
+                        "trackingUrn": "urn:li:geo:103695990",
+                        "subtitle": null,
+                        "navigationUrl": null,
+                        "title": {
+                            "textDirection": "USER_LOCALE",
+                            "text": "New Rochelle, New York, United States",
+                            "attributesV2": [],
+                            "accessibilityTextAttributesV2": [],
+                            "accessibilityText": null,
+                            "$recipeTypes": [
+                                "com.linkedin.fa372203df58872353caeba27eb380fc"
+                            ],
+                            "$type": "com.linkedin.voyager.dash.common.text.TextViewModel"
+                        },
+                        "$recipeTypes": [
+                            "com.linkedin.5b27c6455051fec110ab3849891e2251"
+                        ],
+                        "trackingId": "\u00e4\u00ea\u009e\u00de~\u0082J\u001f\u008b\u00efaSV\u0001\u009a\u001b",
+                        "renderStyle": null,
+                        "target": {
+                            "address": null,
+                            "gender": null,
+                            "race": null,
+                            "profile": null,
+                            "segmentAttributeValue": null,
+                            "degree": null,
+                            "professionalEvent": null,
+                            "industry": null,
+                            "title": null,
+                            "profileSkill": null,
+                            "productCategory": null,
+                            "sexualOrientation": null,
+                            "industryV2": null,
+                            "jobFunction": null,
+                            "*geo": "urn:li:fsd_geo:103695990",
+                            "credential": null,
+                            "organizationProduct": null,
+                            "standardizedProduct": null,
+                            "skill": null,
+                            "company": null,
+                            "fieldOfStudy": null,
+                            "group": null,
+                            "hashtag": null
+                        },
+                        "$type": "com.linkedin.voyager.dash.search.typeahead.TypeaheadViewModel"
+                    },
+                    {
+                        "image": null,
+                        "trackingUrn": "urn:li:geo:102331196",
+                        "subtitle": null,
+                        "navigationUrl": null,
+                        "title": {
+                            "textDirection": "USER_LOCALE",
+                            "text": "Garden City, New York, United States",
+                            "attributesV2": [],
+                            "accessibilityTextAttributesV2": [],
+                            "accessibilityText": null,
+                            "$recipeTypes": [
+                                "com.linkedin.fa372203df58872353caeba27eb380fc"
+                            ],
+                            "$type": "com.linkedin.voyager.dash.common.text.TextViewModel"
+                        },
+                        "$recipeTypes": [
+                            "com.linkedin.5b27c6455051fec110ab3849891e2251"
+                        ],
+                        "trackingId": "\u00d4v\u0014\u009c\u00fd\u00e1I*\u00b1\u0097m\u0092uc\u00df\u0017",
+                        "renderStyle": null,
+                        "target": {
+                            "address": null,
+                            "gender": null,
+                            "race": null,
+                            "profile": null,
+                            "segmentAttributeValue": null,
+                            "degree": null,
+                            "professionalEvent": null,
+                            "industry": null,
+                            "title": null,
+                            "profileSkill": null,
+                            "productCategory": null,
+                            "sexualOrientation": null,
+                            "industryV2": null,
+                            "jobFunction": null,
+                            "*geo": "urn:li:fsd_geo:102331196",
+                            "credential": null,
+                            "organizationProduct": null,
+                            "standardizedProduct": null,
+                            "skill": null,
+                            "company": null,
+                            "fieldOfStudy": null,
+                            "group": null,
+                            "hashtag": null
+                        },
+                        "$type": "com.linkedin.voyager.dash.search.typeahead.TypeaheadViewModel"
+                    },
+                    {
+                        "image": null,
+                        "trackingUrn": "urn:li:geo:103138200",
+                        "subtitle": null,
+                        "navigationUrl": null,
+                        "title": {
+                            "textDirection": "USER_LOCALE",
+                            "text": "White Plains, New York, United States",
+                            "attributesV2": [],
+                            "accessibilityTextAttributesV2": [],
+                            "accessibilityText": null,
+                            "$recipeTypes": [
+                                "com.linkedin.fa372203df58872353caeba27eb380fc"
+                            ],
+                            "$type": "com.linkedin.voyager.dash.common.text.TextViewModel"
+                        },
+                        "$recipeTypes": [
+                            "com.linkedin.5b27c6455051fec110ab3849891e2251"
+                        ],
+                        "trackingId": "\u00eaf\u0095\u00dc1\u0089G\"\u00bbRz\u0088$\u00ef\u0001T",
+                        "renderStyle": null,
+                        "target": {
+                            "address": null,
+                            "gender": null,
+                            "race": null,
+                            "profile": null,
+                            "segmentAttributeValue": null,
+                            "degree": null,
+                            "professionalEvent": null,
+                            "industry": null,
+                            "title": null,
+                            "profileSkill": null,
+                            "productCategory": null,
+                            "sexualOrientation": null,
+                            "industryV2": null,
+                            "jobFunction": null,
+                            "*geo": "urn:li:fsd_geo:103138200",
+                            "credential": null,
+                            "organizationProduct": null,
+                            "standardizedProduct": null,
+                            "skill": null,
+                            "company": null,
+                            "fieldOfStudy": null,
+                            "group": null,
+                            "hashtag": null
+                        },
+                        "$type": "com.linkedin.voyager.dash.search.typeahead.TypeaheadViewModel"
+                    }
+                ],
+                "$type": "com.linkedin.restli.common.CollectionResponse"
+            },
+            "$recipeTypes": [
+                "com.linkedin.ac4bf6b3580bee5dbb1ed1955027e08c"
+            ],
+            "$type": "com.linkedin.ac4bf6b3580bee5dbb1ed1955027e08c"
+        }
+    },
+    "included": [
+        {
+            "entityUrn": "urn:li:fsd_geo:90000684",
+            "$recipeTypes": [
+                "com.linkedin.0beccb580c155b6adbb0c3ecb29f724a"
+            ],
+            "$type": "com.linkedin.voyager.dash.common.Geo"
+        },
+        {
+            "entityUrn": "urn:li:fsd_geo:102331196",
+            "$recipeTypes": [
+                "com.linkedin.0beccb580c155b6adbb0c3ecb29f724a"
+            ],
+            "$type": "com.linkedin.voyager.dash.common.Geo"
+        },
+        {
+            "entityUrn": "urn:li:fsd_geo:103138200",
+            "$recipeTypes": [
+                "com.linkedin.0beccb580c155b6adbb0c3ecb29f724a"
+            ],
+            "$type": "com.linkedin.voyager.dash.common.Geo"
+        },
+        {
+            "entityUrn": "urn:li:fsd_geo:105080838",
+            "$recipeTypes": [
+                "com.linkedin.0beccb580c155b6adbb0c3ecb29f724a"
+            ],
+            "$type": "com.linkedin.voyager.dash.common.Geo"
+        },
+        {
+            "entityUrn": "urn:li:fsd_geo:103695990",
+            "$recipeTypes": [
+                "com.linkedin.0beccb580c155b6adbb0c3ecb29f724a"
+            ],
+            "$type": "com.linkedin.voyager.dash.common.Geo"
+        },
+        {
+            "entityUrn": "urn:li:fsd_geo:90000070",
+            "$recipeTypes": [
+                "com.linkedin.0beccb580c155b6adbb0c3ecb29f724a"
+            ],
+            "$type": "com.linkedin.voyager.dash.common.Geo"
+        },
+        {
+            "entityUrn": "urn:li:fsd_geo:104307373",
+            "$recipeTypes": [
+                "com.linkedin.0beccb580c155b6adbb0c3ecb29f724a"
+            ],
+            "$type": "com.linkedin.voyager.dash.common.Geo"
+        },
+        {
+            "entityUrn": "urn:li:fsd_geo:106282048",
+            "$recipeTypes": [
+                "com.linkedin.0beccb580c155b6adbb0c3ecb29f724a"
+            ],
+            "$type": "com.linkedin.voyager.dash.common.Geo"
+        },
+        {
+            "entityUrn": "urn:li:fsd_geo:103556916",
+            "$recipeTypes": [
+                "com.linkedin.0beccb580c155b6adbb0c3ecb29f724a"
+            ],
+            "$type": "com.linkedin.voyager.dash.common.Geo"
+        },
+        {
+            "entityUrn": "urn:li:fsd_geo:101842255",
+            "$recipeTypes": [
+                "com.linkedin.0beccb580c155b6adbb0c3ecb29f724a"
+            ],
+            "$type": "com.linkedin.voyager.dash.common.Geo"
+        },
+        {
+            "entityUrn": "urn:li:fsd_geo:100076283",
+            "$recipeTypes": [
+                "com.linkedin.0beccb580c155b6adbb0c3ecb29f724a"
+            ],
+            "$type": "com.linkedin.voyager.dash.common.Geo"
+        },
+        {
+            "entityUrn": "urn:li:fsd_geo:106081027",
+            "$recipeTypes": [
+                "com.linkedin.0beccb580c155b6adbb0c3ecb29f724a"
+            ],
+            "$type": "com.linkedin.voyager.dash.common.Geo"
+        },
+        {
+            "entityUrn": "urn:li:fsd_geo:100074394",
+            "$recipeTypes": [
+                "com.linkedin.0beccb580c155b6adbb0c3ecb29f724a"
+            ],
+            "$type": "com.linkedin.voyager.dash.common.Geo"
+        },
+        {
+            "entityUrn": "urn:li:fsd_geo:106553046",
+            "$recipeTypes": [
+                "com.linkedin.0beccb580c155b6adbb0c3ecb29f724a"
+            ],
+            "$type": "com.linkedin.voyager.dash.common.Geo"
+        },
+        {
+            "entityUrn": "urn:li:fsd_geo:103650796",
+            "$recipeTypes": [
+                "com.linkedin.0beccb580c155b6adbb0c3ecb29f724a"
+            ],
+            "$type": "com.linkedin.voyager.dash.common.Geo"
+        },
+        {
+            "entityUrn": "urn:li:fsd_geo:103676418",
+            "$recipeTypes": [
+                "com.linkedin.0beccb580c155b6adbb0c3ecb29f724a"
+            ],
+            "$type": "com.linkedin.voyager.dash.common.Geo"
+        },
+        {
+            "entityUrn": "urn:li:fsd_geo:102571732",
+            "$recipeTypes": [
+                "com.linkedin.0beccb580c155b6adbb0c3ecb29f724a"
+            ],
+            "$type": "com.linkedin.voyager.dash.common.Geo"
+        },
+        {
+            "entityUrn": "urn:li:fsd_geo:90000016",
+            "$recipeTypes": [
+                "com.linkedin.0beccb580c155b6adbb0c3ecb29f724a"
+            ],
+            "$type": "com.linkedin.voyager.dash.common.Geo"
+        },
+        {
+            "entityUrn": "urn:li:fsd_geo:107093877",
+            "$recipeTypes": [
+                "com.linkedin.0beccb580c155b6adbb0c3ecb29f724a"
+            ],
+            "$type": "com.linkedin.voyager.dash.common.Geo"
+        },
+        {
+            "entityUrn": "urn:li:fsd_geo:104361728",
+            "$recipeTypes": [
+                "com.linkedin.0beccb580c155b6adbb0c3ecb29f724a"
+            ],
+            "$type": "com.linkedin.voyager.dash.common.Geo"
+        }
+    ]
+}

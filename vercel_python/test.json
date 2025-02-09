@@ -1,0 +1,1510 @@
+{
+    "positionGroupView": {
+        "paging": {
+            "start": 0,
+            "count": 5,
+            "total": 5,
+            "links": []
+        },
+        "entityUrn": "urn:li:fs_positionGroupView:ACoAABJA3gUBZB6f2uhQFB6wT-BwVx0THNV6Gew",
+        "profileId": "ACoAABJA3gUBZB6f2uhQFB6wT-BwVx0THNV6Gew",
+        "elements": [
+            {
+                "timePeriod": {
+                    "startDate": {
+                        "month": 4,
+                        "year": 2024
+                    }
+                },
+                "name": "InvestCloud, Inc.",
+                "positions": [
+                    {
+                        "locationName": "New York, New York, United States",
+                        "entityUrn": "urn:li:fs_position:(ACoAABJA3gUBZB6f2uhQFB6wT-BwVx0THNV6Gew,2378147793)",
+                        "geoLocationName": "New York, New York, United States",
+                        "geoUrn": "urn:li:fs_geo:102571732",
+                        "companyName": "InvestCloud, Inc.",
+                        "timePeriod": {
+                            "startDate": {
+                                "month": 4,
+                                "year": 2024
+                            }
+                        },
+                        "company": {
+                            "miniCompany": {
+                                "objectUrn": "urn:li:company:1275545",
+                                "entityUrn": "urn:li:fs_miniCompany:1275545",
+                                "name": "InvestCloud, Inc.",
+                                "showcase": false,
+                                "active": true,
+                                "logo": {
+                                    "com.linkedin.common.VectorImage": {
+                                        "artifacts": [
+                                            {
+                                                "width": 200,
+                                                "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1727783593419/investcloud_logo?e=1747267200&v=beta&t=YqVvvi4-T87I6X2-OerjTK7rHXmHlhKSEzPjZsEEpGs",
+                                                "expiresAt": 1747267200000,
+                                                "height": 200
+                                            },
+                                            {
+                                                "width": 100,
+                                                "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1727783593419/investcloud_logo?e=1747267200&v=beta&t=7_78roNksVcicZiICYb43dpQQGhsGC1qqKBJA_i9Cm0",
+                                                "expiresAt": 1747267200000,
+                                                "height": 100
+                                            },
+                                            {
+                                                "width": 400,
+                                                "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1727783593419/investcloud_logo?e=1747267200&v=beta&t=2yJXJFa6IqPWGsmRnoeVf6H2CKxOBqmdRhX6rK4RaKI",
+                                                "expiresAt": 1747267200000,
+                                                "height": 400
+                                            }
+                                        ],
+                                        "rootUrl": "https://media.licdn.com/dms/image/v2/D4D0BAQFS8ZvNesexjQ/company-logo_"
+                                    }
+                                },
+                                "universalName": "investcloud",
+                                "dashCompanyUrn": "urn:li:fsd_company:1275545",
+                                "trackingId": "8+OSUyotR6SyGwcX2UXxsQ=="
+                            },
+                            "employeeCountRange": {
+                                "start": 1001,
+                                "end": 5000
+                            },
+                            "industries": [
+                                "Financial Services"
+                            ]
+                        },
+                        "title": "Sr. Strategic Finance Manager",
+                        "region": "urn:li:fs_region:(us,0)",
+                        "companyUrn": "urn:li:fs_miniCompany:1275545"
+                    }
+                ],
+                "paging": {
+                    "start": 0,
+                    "count": 5,
+                    "total": 1,
+                    "links": []
+                },
+                "miniCompany": {
+                    "objectUrn": "urn:li:company:1275545",
+                    "entityUrn": "urn:li:fs_miniCompany:1275545",
+                    "name": "InvestCloud, Inc.",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1727783593419/investcloud_logo?e=1747267200&v=beta&t=YqVvvi4-T87I6X2-OerjTK7rHXmHlhKSEzPjZsEEpGs",
+                                    "expiresAt": 1747267200000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1727783593419/investcloud_logo?e=1747267200&v=beta&t=7_78roNksVcicZiICYb43dpQQGhsGC1qqKBJA_i9Cm0",
+                                    "expiresAt": 1747267200000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1727783593419/investcloud_logo?e=1747267200&v=beta&t=2yJXJFa6IqPWGsmRnoeVf6H2CKxOBqmdRhX6rK4RaKI",
+                                    "expiresAt": 1747267200000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media.licdn.com/dms/image/v2/D4D0BAQFS8ZvNesexjQ/company-logo_"
+                        }
+                    },
+                    "universalName": "investcloud",
+                    "dashCompanyUrn": "urn:li:fsd_company:1275545",
+                    "trackingId": "8+OSUyotR6SyGwcX2UXxsQ=="
+                },
+                "entityUrn": "urn:li:fs_positionGroup:(ACoAABJA3gUBZB6f2uhQFB6wT-BwVx0THNV6Gew,0)"
+            },
+            {
+                "timePeriod": {
+                    "endDate": {
+                        "month": 4,
+                        "year": 2024
+                    },
+                    "startDate": {
+                        "month": 6,
+                        "year": 2020
+                    }
+                },
+                "name": "Fiserv",
+                "positions": [
+                    {
+                        "locationName": "New York City Metropolitan Area",
+                        "entityUrn": "urn:li:fs_position:(ACoAABJA3gUBZB6f2uhQFB6wT-BwVx0THNV6Gew,2270667109)",
+                        "geoLocationName": "New York City Metropolitan Area",
+                        "geoUrn": "urn:li:fs_geo:90000070",
+                        "companyName": "Fiserv",
+                        "timePeriod": {
+                            "endDate": {
+                                "month": 4,
+                                "year": 2024
+                            },
+                            "startDate": {
+                                "month": 10,
+                                "year": 2023
+                            }
+                        },
+                        "company": {
+                            "miniCompany": {
+                                "objectUrn": "urn:li:company:3364",
+                                "entityUrn": "urn:li:fs_miniCompany:3364",
+                                "name": "Fiserv",
+                                "showcase": false,
+                                "active": true,
+                                "logo": {
+                                    "com.linkedin.common.VectorImage": {
+                                        "artifacts": [
+                                            {
+                                                "width": 200,
+                                                "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1727453796678/fiserv_logo?e=1747267200&v=beta&t=2XNY-pdtb-rlVpv5BeemN6upS6rcz0ae0IR-_q2ibs8",
+                                                "expiresAt": 1747267200000,
+                                                "height": 200
+                                            },
+                                            {
+                                                "width": 100,
+                                                "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1727453796678/fiserv_logo?e=1747267200&v=beta&t=52YjOroVKycGoOqheUWCASFLJxX_RRvTCjimxs3q_dA",
+                                                "expiresAt": 1747267200000,
+                                                "height": 100
+                                            },
+                                            {
+                                                "width": 400,
+                                                "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1727453796678/fiserv_logo?e=1747267200&v=beta&t=hYSJX-5_1THWvLnqUpX4a4kJMovVsxH9WhpnVijPGJk",
+                                                "expiresAt": 1747267200000,
+                                                "height": 400
+                                            }
+                                        ],
+                                        "rootUrl": "https://media.licdn.com/dms/image/v2/D4E0BAQFY7GLD59Mrkg/company-logo_"
+                                    }
+                                },
+                                "universalName": "fiserv",
+                                "dashCompanyUrn": "urn:li:fsd_company:3364",
+                                "trackingId": "aiBzii82TterghQusMcNmw=="
+                            },
+                            "employeeCountRange": {
+                                "start": 10001
+                            },
+                            "industries": [
+                                "Information Technology and Services"
+                            ]
+                        },
+                        "title": "Director",
+                        "region": "urn:li:fs_region:(us,70)",
+                        "companyUrn": "urn:li:fs_miniCompany:3364"
+                    },
+                    {
+                        "locationName": "New York, New York, United States",
+                        "entityUrn": "urn:li:fs_position:(ACoAABJA3gUBZB6f2uhQFB6wT-BwVx0THNV6Gew,1973523109)",
+                        "geoLocationName": "New York, New York, United States",
+                        "geoUrn": "urn:li:fs_geo:102571732",
+                        "companyName": "Fiserv",
+                        "timePeriod": {
+                            "endDate": {
+                                "month": 10,
+                                "year": 2023
+                            },
+                            "startDate": {
+                                "month": 5,
+                                "year": 2022
+                            }
+                        },
+                        "company": {
+                            "miniCompany": {
+                                "objectUrn": "urn:li:company:3364",
+                                "entityUrn": "urn:li:fs_miniCompany:3364",
+                                "name": "Fiserv",
+                                "showcase": false,
+                                "active": true,
+                                "logo": {
+                                    "com.linkedin.common.VectorImage": {
+                                        "artifacts": [
+                                            {
+                                                "width": 200,
+                                                "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1727453796678/fiserv_logo?e=1747267200&v=beta&t=2XNY-pdtb-rlVpv5BeemN6upS6rcz0ae0IR-_q2ibs8",
+                                                "expiresAt": 1747267200000,
+                                                "height": 200
+                                            },
+                                            {
+                                                "width": 100,
+                                                "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1727453796678/fiserv_logo?e=1747267200&v=beta&t=52YjOroVKycGoOqheUWCASFLJxX_RRvTCjimxs3q_dA",
+                                                "expiresAt": 1747267200000,
+                                                "height": 100
+                                            },
+                                            {
+                                                "width": 400,
+                                                "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1727453796678/fiserv_logo?e=1747267200&v=beta&t=hYSJX-5_1THWvLnqUpX4a4kJMovVsxH9WhpnVijPGJk",
+                                                "expiresAt": 1747267200000,
+                                                "height": 400
+                                            }
+                                        ],
+                                        "rootUrl": "https://media.licdn.com/dms/image/v2/D4E0BAQFY7GLD59Mrkg/company-logo_"
+                                    }
+                                },
+                                "universalName": "fiserv",
+                                "dashCompanyUrn": "urn:li:fsd_company:3364",
+                                "trackingId": "VqrFRwYsTMmnXOKqYYxYJA=="
+                            },
+                            "employeeCountRange": {
+                                "start": 10001
+                            },
+                            "industries": [
+                                "Information Technology and Services"
+                            ]
+                        },
+                        "title": "Senior Finance Manager",
+                        "region": "urn:li:fs_region:(us,0)",
+                        "companyUrn": "urn:li:fs_miniCompany:3364"
+                    }
+                ],
+                "paging": {
+                    "start": 0,
+                    "count": 2,
+                    "total": 3,
+                    "links": []
+                },
+                "miniCompany": {
+                    "objectUrn": "urn:li:company:3364",
+                    "entityUrn": "urn:li:fs_miniCompany:3364",
+                    "name": "Fiserv",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1727453796678/fiserv_logo?e=1747267200&v=beta&t=2XNY-pdtb-rlVpv5BeemN6upS6rcz0ae0IR-_q2ibs8",
+                                    "expiresAt": 1747267200000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1727453796678/fiserv_logo?e=1747267200&v=beta&t=52YjOroVKycGoOqheUWCASFLJxX_RRvTCjimxs3q_dA",
+                                    "expiresAt": 1747267200000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1727453796678/fiserv_logo?e=1747267200&v=beta&t=hYSJX-5_1THWvLnqUpX4a4kJMovVsxH9WhpnVijPGJk",
+                                    "expiresAt": 1747267200000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media.licdn.com/dms/image/v2/D4E0BAQFY7GLD59Mrkg/company-logo_"
+                        }
+                    },
+                    "universalName": "fiserv",
+                    "dashCompanyUrn": "urn:li:fsd_company:3364",
+                    "trackingId": "aiBzii82TterghQusMcNmw=="
+                },
+                "entityUrn": "urn:li:fs_positionGroup:(ACoAABJA3gUBZB6f2uhQFB6wT-BwVx0THNV6Gew,1)"
+            },
+            {
+                "timePeriod": {
+                    "endDate": {
+                        "month": 8,
+                        "year": 2019
+                    },
+                    "startDate": {
+                        "month": 5,
+                        "year": 2019
+                    }
+                },
+                "name": "Fiserv",
+                "positions": [
+                    {
+                        "locationName": "Alpharetta, Georgia, United States",
+                        "entityUrn": "urn:li:fs_position:(ACoAABJA3gUBZB6f2uhQFB6wT-BwVx0THNV6Gew,1505175163)",
+                        "geoLocationName": "Alpharetta, Georgia, United States",
+                        "geoUrn": "urn:li:fs_geo:105409290",
+                        "companyName": "Fiserv",
+                        "timePeriod": {
+                            "endDate": {
+                                "month": 8,
+                                "year": 2019
+                            },
+                            "startDate": {
+                                "month": 5,
+                                "year": 2019
+                            }
+                        },
+                        "company": {
+                            "miniCompany": {
+                                "objectUrn": "urn:li:company:3364",
+                                "entityUrn": "urn:li:fs_miniCompany:3364",
+                                "name": "Fiserv",
+                                "showcase": false,
+                                "active": true,
+                                "logo": {
+                                    "com.linkedin.common.VectorImage": {
+                                        "artifacts": [
+                                            {
+                                                "width": 200,
+                                                "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1727453796678/fiserv_logo?e=1747267200&v=beta&t=2XNY-pdtb-rlVpv5BeemN6upS6rcz0ae0IR-_q2ibs8",
+                                                "expiresAt": 1747267200000,
+                                                "height": 200
+                                            },
+                                            {
+                                                "width": 100,
+                                                "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1727453796678/fiserv_logo?e=1747267200&v=beta&t=52YjOroVKycGoOqheUWCASFLJxX_RRvTCjimxs3q_dA",
+                                                "expiresAt": 1747267200000,
+                                                "height": 100
+                                            },
+                                            {
+                                                "width": 400,
+                                                "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1727453796678/fiserv_logo?e=1747267200&v=beta&t=hYSJX-5_1THWvLnqUpX4a4kJMovVsxH9WhpnVijPGJk",
+                                                "expiresAt": 1747267200000,
+                                                "height": 400
+                                            }
+                                        ],
+                                        "rootUrl": "https://media.licdn.com/dms/image/v2/D4E0BAQFY7GLD59Mrkg/company-logo_"
+                                    }
+                                },
+                                "universalName": "fiserv",
+                                "dashCompanyUrn": "urn:li:fsd_company:3364",
+                                "trackingId": "qL6E6FJ/SKal3kk/o11N+Q=="
+                            },
+                            "employeeCountRange": {
+                                "start": 10001
+                            },
+                            "industries": [
+                                "Information Technology and Services"
+                            ]
+                        },
+                        "title": "Summer Associate, Corporate Strategy",
+                        "region": "urn:li:fs_region:(us,0)",
+                        "companyUrn": "urn:li:fs_miniCompany:3364"
+                    }
+                ],
+                "paging": {
+                    "start": 0,
+                    "count": 2,
+                    "total": 1,
+                    "links": []
+                },
+                "miniCompany": {
+                    "objectUrn": "urn:li:company:3364",
+                    "entityUrn": "urn:li:fs_miniCompany:3364",
+                    "name": "Fiserv",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1727453796678/fiserv_logo?e=1747267200&v=beta&t=2XNY-pdtb-rlVpv5BeemN6upS6rcz0ae0IR-_q2ibs8",
+                                    "expiresAt": 1747267200000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1727453796678/fiserv_logo?e=1747267200&v=beta&t=52YjOroVKycGoOqheUWCASFLJxX_RRvTCjimxs3q_dA",
+                                    "expiresAt": 1747267200000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1727453796678/fiserv_logo?e=1747267200&v=beta&t=hYSJX-5_1THWvLnqUpX4a4kJMovVsxH9WhpnVijPGJk",
+                                    "expiresAt": 1747267200000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media.licdn.com/dms/image/v2/D4E0BAQFY7GLD59Mrkg/company-logo_"
+                        }
+                    },
+                    "universalName": "fiserv",
+                    "dashCompanyUrn": "urn:li:fsd_company:3364",
+                    "trackingId": "qL6E6FJ/SKal3kk/o11N+Q=="
+                },
+                "entityUrn": "urn:li:fs_positionGroup:(ACoAABJA3gUBZB6f2uhQFB6wT-BwVx0THNV6Gew,2)"
+            },
+            {
+                "timePeriod": {
+                    "endDate": {
+                        "month": 2,
+                        "year": 2018
+                    },
+                    "startDate": {
+                        "month": 2,
+                        "year": 2016
+                    }
+                },
+                "name": "Brown Brothers Harriman",
+                "positions": [
+                    {
+                        "entityUrn": "urn:li:fs_position:(ACoAABJA3gUBZB6f2uhQFB6wT-BwVx0THNV6Gew,1287853681)",
+                        "companyName": "Brown Brothers Harriman",
+                        "timePeriod": {
+                            "endDate": {
+                                "month": 2,
+                                "year": 2018
+                            },
+                            "startDate": {
+                                "month": 2,
+                                "year": 2017
+                            }
+                        },
+                        "title": "CSG Custody Supervisor"
+                    },
+                    {
+                        "entityUrn": "urn:li:fs_position:(ACoAABJA3gUBZB6f2uhQFB6wT-BwVx0THNV6Gew,772611578)",
+                        "companyName": "Brown Brothers Harriman",
+                        "timePeriod": {
+                            "endDate": {
+                                "month": 2,
+                                "year": 2017
+                            },
+                            "startDate": {
+                                "month": 2,
+                                "year": 2016
+                            }
+                        },
+                        "company": {
+                            "miniCompany": {
+                                "objectUrn": "urn:li:company:4701",
+                                "entityUrn": "urn:li:fs_miniCompany:4701",
+                                "name": "Brown Brothers Harriman",
+                                "showcase": false,
+                                "active": true,
+                                "logo": {
+                                    "com.linkedin.common.VectorImage": {
+                                        "artifacts": [
+                                            {
+                                                "width": 200,
+                                                "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1728391436893/brown_brothers_harriman_logo?e=1747267200&v=beta&t=RqoxOMQnFd14zEhdkneY1Fs3lncXNrQDM19GghSiUJU",
+                                                "expiresAt": 1747267200000,
+                                                "height": 200
+                                            },
+                                            {
+                                                "width": 100,
+                                                "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1728391436893/brown_brothers_harriman_logo?e=1747267200&v=beta&t=N28QN6OGyG1l0vweN2GSa1xDFYj8qzXU5JVsReDdo8Q",
+                                                "expiresAt": 1747267200000,
+                                                "height": 100
+                                            },
+                                            {
+                                                "width": 400,
+                                                "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1728391436893/brown_brothers_harriman_logo?e=1747267200&v=beta&t=evEZ6BFHcqJ0RStsWBzE-EVNHBIokunbs7tkuvI05Gg",
+                                                "expiresAt": 1747267200000,
+                                                "height": 400
+                                            }
+                                        ],
+                                        "rootUrl": "https://media.licdn.com/dms/image/v2/D4E0BAQGf602sHjhATA/company-logo_"
+                                    }
+                                },
+                                "universalName": "brown-brothers-harriman",
+                                "dashCompanyUrn": "urn:li:fsd_company:4701",
+                                "trackingId": "SCRZpk+7Q9iCoRL2IXqhaA=="
+                            },
+                            "employeeCountRange": {
+                                "start": 5001,
+                                "end": 10000
+                            },
+                            "industries": [
+                                "Financial Services"
+                            ]
+                        },
+                        "title": "CSG Custody",
+                        "companyUrn": "urn:li:fs_miniCompany:4701"
+                    }
+                ],
+                "paging": {
+                    "start": 0,
+                    "count": 2,
+                    "total": 2,
+                    "links": []
+                },
+                "miniCompany": {
+                    "objectUrn": "urn:li:company:4701",
+                    "entityUrn": "urn:li:fs_miniCompany:4701",
+                    "name": "Brown Brothers Harriman",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1728391436893/brown_brothers_harriman_logo?e=1747267200&v=beta&t=RqoxOMQnFd14zEhdkneY1Fs3lncXNrQDM19GghSiUJU",
+                                    "expiresAt": 1747267200000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1728391436893/brown_brothers_harriman_logo?e=1747267200&v=beta&t=N28QN6OGyG1l0vweN2GSa1xDFYj8qzXU5JVsReDdo8Q",
+                                    "expiresAt": 1747267200000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1728391436893/brown_brothers_harriman_logo?e=1747267200&v=beta&t=evEZ6BFHcqJ0RStsWBzE-EVNHBIokunbs7tkuvI05Gg",
+                                    "expiresAt": 1747267200000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media.licdn.com/dms/image/v2/D4E0BAQGf602sHjhATA/company-logo_"
+                        }
+                    },
+                    "universalName": "brown-brothers-harriman",
+                    "dashCompanyUrn": "urn:li:fsd_company:4701",
+                    "trackingId": "SCRZpk+7Q9iCoRL2IXqhaA=="
+                },
+                "entityUrn": "urn:li:fs_positionGroup:(ACoAABJA3gUBZB6f2uhQFB6wT-BwVx0THNV6Gew,3)"
+            },
+            {
+                "timePeriod": {
+                    "endDate": {
+                        "month": 2,
+                        "year": 2016
+                    },
+                    "startDate": {
+                        "month": 7,
+                        "year": 2012
+                    }
+                },
+                "name": "Morgan Stanley",
+                "positions": [
+                    {
+                        "entityUrn": "urn:li:fs_position:(ACoAABJA3gUBZB6f2uhQFB6wT-BwVx0THNV6Gew,702598565)",
+                        "companyName": "Morgan Stanley",
+                        "timePeriod": {
+                            "endDate": {
+                                "month": 2,
+                                "year": 2016
+                            },
+                            "startDate": {
+                                "month": 1,
+                                "year": 2015
+                            }
+                        },
+                        "company": {
+                            "miniCompany": {
+                                "objectUrn": "urn:li:company:497017",
+                                "entityUrn": "urn:li:fs_miniCompany:497017",
+                                "name": "Morgan Stanley",
+                                "showcase": false,
+                                "active": true,
+                                "logo": {
+                                    "com.linkedin.common.VectorImage": {
+                                        "artifacts": [
+                                            {
+                                                "width": 200,
+                                                "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1677778128461/morgan_stanley_logo?e=1747267200&v=beta&t=Sce_50ksTMMGrT3ky88vK8KfHFi-Ps-12k3qSB1S3ZY",
+                                                "expiresAt": 1747267200000,
+                                                "height": 200
+                                            },
+                                            {
+                                                "width": 100,
+                                                "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1677778128461/morgan_stanley_logo?e=1747267200&v=beta&t=9J4HyMCXwPB9SMu9NwTzw8aVSvUNZQuMbhXF4rwo-sU",
+                                                "expiresAt": 1747267200000,
+                                                "height": 100
+                                            },
+                                            {
+                                                "width": 400,
+                                                "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1677778128461/morgan_stanley_logo?e=1747267200&v=beta&t=nRy1lqVqcEmtf-Vf3o9HQ8BcuDjaq2ssuJENnxGlwbY",
+                                                "expiresAt": 1747267200000,
+                                                "height": 400
+                                            }
+                                        ],
+                                        "rootUrl": "https://media.licdn.com/dms/image/v2/C560BAQFtDpMvYgbIwA/company-logo_"
+                                    }
+                                },
+                                "universalName": "morgan-stanley",
+                                "dashCompanyUrn": "urn:li:fsd_company:497017",
+                                "trackingId": "tAIAncA9R2W6pdfUSMM9UA=="
+                            },
+                            "employeeCountRange": {
+                                "start": 10001
+                            },
+                            "industries": [
+                                "Financial Services"
+                            ]
+                        },
+                        "title": "Associate",
+                        "companyUrn": "urn:li:fs_miniCompany:497017"
+                    },
+                    {
+                        "entityUrn": "urn:li:fs_position:(ACoAABJA3gUBZB6f2uhQFB6wT-BwVx0THNV6Gew,485406050)",
+                        "companyName": "Morgan Stanley",
+                        "timePeriod": {
+                            "endDate": {
+                                "month": 1,
+                                "year": 2015
+                            },
+                            "startDate": {
+                                "month": 7,
+                                "year": 2012
+                            }
+                        },
+                        "company": {
+                            "miniCompany": {
+                                "objectUrn": "urn:li:company:497017",
+                                "entityUrn": "urn:li:fs_miniCompany:497017",
+                                "name": "Morgan Stanley",
+                                "showcase": false,
+                                "active": true,
+                                "logo": {
+                                    "com.linkedin.common.VectorImage": {
+                                        "artifacts": [
+                                            {
+                                                "width": 200,
+                                                "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1677778128461/morgan_stanley_logo?e=1747267200&v=beta&t=Sce_50ksTMMGrT3ky88vK8KfHFi-Ps-12k3qSB1S3ZY",
+                                                "expiresAt": 1747267200000,
+                                                "height": 200
+                                            },
+                                            {
+                                                "width": 100,
+                                                "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1677778128461/morgan_stanley_logo?e=1747267200&v=beta&t=9J4HyMCXwPB9SMu9NwTzw8aVSvUNZQuMbhXF4rwo-sU",
+                                                "expiresAt": 1747267200000,
+                                                "height": 100
+                                            },
+                                            {
+                                                "width": 400,
+                                                "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1677778128461/morgan_stanley_logo?e=1747267200&v=beta&t=nRy1lqVqcEmtf-Vf3o9HQ8BcuDjaq2ssuJENnxGlwbY",
+                                                "expiresAt": 1747267200000,
+                                                "height": 400
+                                            }
+                                        ],
+                                        "rootUrl": "https://media.licdn.com/dms/image/v2/C560BAQFtDpMvYgbIwA/company-logo_"
+                                    }
+                                },
+                                "universalName": "morgan-stanley",
+                                "dashCompanyUrn": "urn:li:fsd_company:497017",
+                                "trackingId": "BAtgfFeiRIaV4YwplOg+aA=="
+                            },
+                            "employeeCountRange": {
+                                "start": 10001
+                            },
+                            "industries": [
+                                "Financial Services"
+                            ]
+                        },
+                        "title": "Analyst",
+                        "companyUrn": "urn:li:fs_miniCompany:497017"
+                    }
+                ],
+                "paging": {
+                    "start": 0,
+                    "count": 2,
+                    "total": 2,
+                    "links": []
+                },
+                "miniCompany": {
+                    "objectUrn": "urn:li:company:497017",
+                    "entityUrn": "urn:li:fs_miniCompany:497017",
+                    "name": "Morgan Stanley",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1677778128461/morgan_stanley_logo?e=1747267200&v=beta&t=Sce_50ksTMMGrT3ky88vK8KfHFi-Ps-12k3qSB1S3ZY",
+                                    "expiresAt": 1747267200000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1677778128461/morgan_stanley_logo?e=1747267200&v=beta&t=9J4HyMCXwPB9SMu9NwTzw8aVSvUNZQuMbhXF4rwo-sU",
+                                    "expiresAt": 1747267200000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1677778128461/morgan_stanley_logo?e=1747267200&v=beta&t=nRy1lqVqcEmtf-Vf3o9HQ8BcuDjaq2ssuJENnxGlwbY",
+                                    "expiresAt": 1747267200000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media.licdn.com/dms/image/v2/C560BAQFtDpMvYgbIwA/company-logo_"
+                        }
+                    },
+                    "universalName": "morgan-stanley",
+                    "dashCompanyUrn": "urn:li:fsd_company:497017",
+                    "trackingId": "tAIAncA9R2W6pdfUSMM9UA=="
+                },
+                "entityUrn": "urn:li:fs_positionGroup:(ACoAABJA3gUBZB6f2uhQFB6wT-BwVx0THNV6Gew,4)"
+            }
+        ]
+    },
+    "patentView": {
+        "paging": {
+            "start": 0,
+            "count": 10,
+            "total": 0,
+            "links": []
+        },
+        "entityUrn": "urn:li:fs_patentView:ACoAABJA3gUBZB6f2uhQFB6wT-BwVx0THNV6Gew",
+        "profileId": "ACoAABJA3gUBZB6f2uhQFB6wT-BwVx0THNV6Gew",
+        "elements": []
+    },
+    "summaryTreasuryMediaCount": 0,
+    "summaryTreasuryMedias": [],
+    "educationView": {
+        "paging": {
+            "start": 0,
+            "count": 3,
+            "total": 2,
+            "links": []
+        },
+        "entityUrn": "urn:li:fs_educationView:ACoAABJA3gUBZB6f2uhQFB6wT-BwVx0THNV6Gew",
+        "profileId": "ACoAABJA3gUBZB6f2uhQFB6wT-BwVx0THNV6Gew",
+        "elements": [
+            {
+                "entityUrn": "urn:li:fs_education:(ACoAABJA3gUBZB6f2uhQFB6wT-BwVx0THNV6Gew,505716394)",
+                "school": {
+                    "objectUrn": "urn:li:school:18192",
+                    "entityUrn": "urn:li:fs_miniSchool:18192",
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1631367782419?e=1747267200&v=beta&t=77vrnkxtEtPKy1zcNJuBZxetpPtvBzMZ6oEMjY0NXVA",
+                                    "expiresAt": 1747267200000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1631367782419?e=1747267200&v=beta&t=JFcEI68zphFurQlFvXNXXjlAaGJrmT03_CcIGiW3dzs",
+                                    "expiresAt": 1747267200000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1631367782419?e=1747267200&v=beta&t=IP-uI72PkrvyiZC0_MyVNT2_3HVTlm4HdZT8FFzLSto",
+                                    "expiresAt": 1747267200000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media.licdn.com/dms/image/v2/C560BAQGbhuBZtDA0Nw/company-logo_"
+                        }
+                    },
+                    "schoolName": "University of Georgia - Terry College of Business",
+                    "trackingId": "gYc8DDZ9SfCwM9OSW+S6MQ=="
+                },
+                "activities": "Leadership Fellows",
+                "timePeriod": {
+                    "endDate": {
+                        "year": 2020
+                    },
+                    "startDate": {
+                        "year": 2018
+                    }
+                },
+                "degreeName": "Master of Business Administration - MBA",
+                "schoolName": "University of Georgia - Terry College of Business",
+                "fieldOfStudy": "Finance, Strategy, & Social Innovation",
+                "degreeUrn": "urn:li:fs_degree:700",
+                "schoolUrn": "urn:li:fs_miniSchool:18192"
+            },
+            {
+                "entityUrn": "urn:li:fs_education:(ACoAABJA3gUBZB6f2uhQFB6wT-BwVx0THNV6Gew,195643138)",
+                "school": {
+                    "objectUrn": "urn:li:school:18167",
+                    "entityUrn": "urn:li:fs_miniSchool:18167",
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1630567349676/kennesaw_state_university_logo?e=1747267200&v=beta&t=-u3hVXOj2oeQrDl_yIVjF8fdnR4tTShYR-QZ4DpF3oE",
+                                    "expiresAt": 1747267200000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1630567349676/kennesaw_state_university_logo?e=1747267200&v=beta&t=AoNb0f36koHz6Gd0THQ-lAeagm6SBypwve9KeVx_pJI",
+                                    "expiresAt": 1747267200000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1630567349676/kennesaw_state_university_logo?e=1747267200&v=beta&t=TfQp7UVtHG41-L9yZ03MfLLdVvCMwhYC6bL1dwj14_I",
+                                    "expiresAt": 1747267200000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media.licdn.com/dms/image/v2/C4D0BAQHuTnl1ITbe5Q/company-logo_"
+                        }
+                    },
+                    "schoolName": "Kennesaw State University",
+                    "trackingId": "Od9pshA4SQCsDX3aXpJVuw=="
+                },
+                "timePeriod": {
+                    "endDate": {
+                        "year": 2012
+                    },
+                    "startDate": {
+                        "year": 2008
+                    }
+                },
+                "degreeName": "Bachelor of Business Administration - BBA",
+                "schoolName": "Kennesaw State University",
+                "fieldOfStudy": "Finance, General",
+                "degreeUrn": "urn:li:fs_degree:450",
+                "schoolUrn": "urn:li:fs_miniSchool:18167"
+            }
+        ]
+    },
+    "organizationView": {
+        "paging": {
+            "start": 0,
+            "count": 10,
+            "total": 0,
+            "links": []
+        },
+        "entityUrn": "urn:li:fs_organizationView:ACoAABJA3gUBZB6f2uhQFB6wT-BwVx0THNV6Gew",
+        "profileId": "ACoAABJA3gUBZB6f2uhQFB6wT-BwVx0THNV6Gew",
+        "elements": []
+    },
+    "projectView": {
+        "paging": {
+            "start": 0,
+            "count": 10,
+            "total": 0,
+            "links": []
+        },
+        "entityUrn": "urn:li:fs_projectView:ACoAABJA3gUBZB6f2uhQFB6wT-BwVx0THNV6Gew",
+        "profileId": "ACoAABJA3gUBZB6f2uhQFB6wT-BwVx0THNV6Gew",
+        "elements": []
+    },
+    "positionView": {
+        "paging": {
+            "start": 0,
+            "count": 5,
+            "total": 9,
+            "links": []
+        },
+        "entityUrn": "urn:li:fs_positionView:ACoAABJA3gUBZB6f2uhQFB6wT-BwVx0THNV6Gew",
+        "profileId": "ACoAABJA3gUBZB6f2uhQFB6wT-BwVx0THNV6Gew",
+        "elements": [
+            {
+                "locationName": "New York, New York, United States",
+                "entityUrn": "urn:li:fs_position:(ACoAABJA3gUBZB6f2uhQFB6wT-BwVx0THNV6Gew,2378147793)",
+                "geoLocationName": "New York, New York, United States",
+                "geoUrn": "urn:li:fs_geo:102571732",
+                "companyName": "InvestCloud, Inc.",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 4,
+                        "year": 2024
+                    }
+                },
+                "company": {
+                    "miniCompany": {
+                        "objectUrn": "urn:li:company:1275545",
+                        "entityUrn": "urn:li:fs_miniCompany:1275545",
+                        "name": "InvestCloud, Inc.",
+                        "showcase": false,
+                        "active": true,
+                        "logo": {
+                            "com.linkedin.common.VectorImage": {
+                                "artifacts": [
+                                    {
+                                        "width": 200,
+                                        "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1727783593419/investcloud_logo?e=1747267200&v=beta&t=YqVvvi4-T87I6X2-OerjTK7rHXmHlhKSEzPjZsEEpGs",
+                                        "expiresAt": 1747267200000,
+                                        "height": 200
+                                    },
+                                    {
+                                        "width": 100,
+                                        "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1727783593419/investcloud_logo?e=1747267200&v=beta&t=7_78roNksVcicZiICYb43dpQQGhsGC1qqKBJA_i9Cm0",
+                                        "expiresAt": 1747267200000,
+                                        "height": 100
+                                    },
+                                    {
+                                        "width": 400,
+                                        "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1727783593419/investcloud_logo?e=1747267200&v=beta&t=2yJXJFa6IqPWGsmRnoeVf6H2CKxOBqmdRhX6rK4RaKI",
+                                        "expiresAt": 1747267200000,
+                                        "height": 400
+                                    }
+                                ],
+                                "rootUrl": "https://media.licdn.com/dms/image/v2/D4D0BAQFS8ZvNesexjQ/company-logo_"
+                            }
+                        },
+                        "universalName": "investcloud",
+                        "dashCompanyUrn": "urn:li:fsd_company:1275545",
+                        "trackingId": "I5zszIjlQzWhxSK8yJtxTg=="
+                    },
+                    "employeeCountRange": {
+                        "start": 1001,
+                        "end": 5000
+                    },
+                    "industries": [
+                        "Financial Services"
+                    ]
+                },
+                "title": "Sr. Strategic Finance Manager",
+                "region": "urn:li:fs_region:(us,0)",
+                "companyUrn": "urn:li:fs_miniCompany:1275545"
+            },
+            {
+                "locationName": "New York City Metropolitan Area",
+                "entityUrn": "urn:li:fs_position:(ACoAABJA3gUBZB6f2uhQFB6wT-BwVx0THNV6Gew,2270667109)",
+                "geoLocationName": "New York City Metropolitan Area",
+                "geoUrn": "urn:li:fs_geo:90000070",
+                "companyName": "Fiserv",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 4,
+                        "year": 2024
+                    },
+                    "startDate": {
+                        "month": 10,
+                        "year": 2023
+                    }
+                },
+                "company": {
+                    "miniCompany": {
+                        "objectUrn": "urn:li:company:3364",
+                        "entityUrn": "urn:li:fs_miniCompany:3364",
+                        "name": "Fiserv",
+                        "showcase": false,
+                        "active": true,
+                        "logo": {
+                            "com.linkedin.common.VectorImage": {
+                                "artifacts": [
+                                    {
+                                        "width": 200,
+                                        "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1727453796678/fiserv_logo?e=1747267200&v=beta&t=2XNY-pdtb-rlVpv5BeemN6upS6rcz0ae0IR-_q2ibs8",
+                                        "expiresAt": 1747267200000,
+                                        "height": 200
+                                    },
+                                    {
+                                        "width": 100,
+                                        "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1727453796678/fiserv_logo?e=1747267200&v=beta&t=52YjOroVKycGoOqheUWCASFLJxX_RRvTCjimxs3q_dA",
+                                        "expiresAt": 1747267200000,
+                                        "height": 100
+                                    },
+                                    {
+                                        "width": 400,
+                                        "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1727453796678/fiserv_logo?e=1747267200&v=beta&t=hYSJX-5_1THWvLnqUpX4a4kJMovVsxH9WhpnVijPGJk",
+                                        "expiresAt": 1747267200000,
+                                        "height": 400
+                                    }
+                                ],
+                                "rootUrl": "https://media.licdn.com/dms/image/v2/D4E0BAQFY7GLD59Mrkg/company-logo_"
+                            }
+                        },
+                        "universalName": "fiserv",
+                        "dashCompanyUrn": "urn:li:fsd_company:3364",
+                        "trackingId": "5Z0wMZsmTbSsSRvvy3I7vg=="
+                    },
+                    "employeeCountRange": {
+                        "start": 10001
+                    },
+                    "industries": [
+                        "Information Technology and Services"
+                    ]
+                },
+                "title": "Director",
+                "region": "urn:li:fs_region:(us,70)",
+                "companyUrn": "urn:li:fs_miniCompany:3364"
+            },
+            {
+                "locationName": "New York, New York, United States",
+                "entityUrn": "urn:li:fs_position:(ACoAABJA3gUBZB6f2uhQFB6wT-BwVx0THNV6Gew,1973523109)",
+                "geoLocationName": "New York, New York, United States",
+                "geoUrn": "urn:li:fs_geo:102571732",
+                "companyName": "Fiserv",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 10,
+                        "year": 2023
+                    },
+                    "startDate": {
+                        "month": 5,
+                        "year": 2022
+                    }
+                },
+                "company": {
+                    "miniCompany": {
+                        "objectUrn": "urn:li:company:3364",
+                        "entityUrn": "urn:li:fs_miniCompany:3364",
+                        "name": "Fiserv",
+                        "showcase": false,
+                        "active": true,
+                        "logo": {
+                            "com.linkedin.common.VectorImage": {
+                                "artifacts": [
+                                    {
+                                        "width": 200,
+                                        "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1727453796678/fiserv_logo?e=1747267200&v=beta&t=2XNY-pdtb-rlVpv5BeemN6upS6rcz0ae0IR-_q2ibs8",
+                                        "expiresAt": 1747267200000,
+                                        "height": 200
+                                    },
+                                    {
+                                        "width": 100,
+                                        "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1727453796678/fiserv_logo?e=1747267200&v=beta&t=52YjOroVKycGoOqheUWCASFLJxX_RRvTCjimxs3q_dA",
+                                        "expiresAt": 1747267200000,
+                                        "height": 100
+                                    },
+                                    {
+                                        "width": 400,
+                                        "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1727453796678/fiserv_logo?e=1747267200&v=beta&t=hYSJX-5_1THWvLnqUpX4a4kJMovVsxH9WhpnVijPGJk",
+                                        "expiresAt": 1747267200000,
+                                        "height": 400
+                                    }
+                                ],
+                                "rootUrl": "https://media.licdn.com/dms/image/v2/D4E0BAQFY7GLD59Mrkg/company-logo_"
+                            }
+                        },
+                        "universalName": "fiserv",
+                        "dashCompanyUrn": "urn:li:fsd_company:3364",
+                        "trackingId": "2YCfFZYkSDyYfjPkXW8q6g=="
+                    },
+                    "employeeCountRange": {
+                        "start": 10001
+                    },
+                    "industries": [
+                        "Information Technology and Services"
+                    ]
+                },
+                "title": "Senior Finance Manager",
+                "region": "urn:li:fs_region:(us,0)",
+                "companyUrn": "urn:li:fs_miniCompany:3364"
+            },
+            {
+                "locationName": "New York, New York, United States",
+                "entityUrn": "urn:li:fs_position:(ACoAABJA3gUBZB6f2uhQFB6wT-BwVx0THNV6Gew,1635175397)",
+                "geoLocationName": "New York, New York, United States",
+                "geoUrn": "urn:li:fs_geo:102571732",
+                "companyName": "Fiserv",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 5,
+                        "year": 2022
+                    },
+                    "startDate": {
+                        "month": 6,
+                        "year": 2020
+                    }
+                },
+                "company": {
+                    "miniCompany": {
+                        "objectUrn": "urn:li:company:3364",
+                        "entityUrn": "urn:li:fs_miniCompany:3364",
+                        "name": "Fiserv",
+                        "showcase": false,
+                        "active": true,
+                        "logo": {
+                            "com.linkedin.common.VectorImage": {
+                                "artifacts": [
+                                    {
+                                        "width": 200,
+                                        "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1727453796678/fiserv_logo?e=1747267200&v=beta&t=2XNY-pdtb-rlVpv5BeemN6upS6rcz0ae0IR-_q2ibs8",
+                                        "expiresAt": 1747267200000,
+                                        "height": 200
+                                    },
+                                    {
+                                        "width": 100,
+                                        "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1727453796678/fiserv_logo?e=1747267200&v=beta&t=52YjOroVKycGoOqheUWCASFLJxX_RRvTCjimxs3q_dA",
+                                        "expiresAt": 1747267200000,
+                                        "height": 100
+                                    },
+                                    {
+                                        "width": 400,
+                                        "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1727453796678/fiserv_logo?e=1747267200&v=beta&t=hYSJX-5_1THWvLnqUpX4a4kJMovVsxH9WhpnVijPGJk",
+                                        "expiresAt": 1747267200000,
+                                        "height": 400
+                                    }
+                                ],
+                                "rootUrl": "https://media.licdn.com/dms/image/v2/D4E0BAQFY7GLD59Mrkg/company-logo_"
+                            }
+                        },
+                        "universalName": "fiserv",
+                        "dashCompanyUrn": "urn:li:fsd_company:3364",
+                        "trackingId": "rtfhhj4eSJajnH1xRR239w=="
+                    },
+                    "employeeCountRange": {
+                        "start": 10001
+                    },
+                    "industries": [
+                        "Information Technology and Services"
+                    ]
+                },
+                "title": "Strategic Financial Consultant",
+                "region": "urn:li:fs_region:(us,0)",
+                "companyUrn": "urn:li:fs_miniCompany:3364"
+            },
+            {
+                "locationName": "Alpharetta, Georgia, United States",
+                "entityUrn": "urn:li:fs_position:(ACoAABJA3gUBZB6f2uhQFB6wT-BwVx0THNV6Gew,1505175163)",
+                "geoLocationName": "Alpharetta, Georgia, United States",
+                "geoUrn": "urn:li:fs_geo:105409290",
+                "companyName": "Fiserv",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 8,
+                        "year": 2019
+                    },
+                    "startDate": {
+                        "month": 5,
+                        "year": 2019
+                    }
+                },
+                "company": {
+                    "miniCompany": {
+                        "objectUrn": "urn:li:company:3364",
+                        "entityUrn": "urn:li:fs_miniCompany:3364",
+                        "name": "Fiserv",
+                        "showcase": false,
+                        "active": true,
+                        "logo": {
+                            "com.linkedin.common.VectorImage": {
+                                "artifacts": [
+                                    {
+                                        "width": 200,
+                                        "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1727453796678/fiserv_logo?e=1747267200&v=beta&t=2XNY-pdtb-rlVpv5BeemN6upS6rcz0ae0IR-_q2ibs8",
+                                        "expiresAt": 1747267200000,
+                                        "height": 200
+                                    },
+                                    {
+                                        "width": 100,
+                                        "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1727453796678/fiserv_logo?e=1747267200&v=beta&t=52YjOroVKycGoOqheUWCASFLJxX_RRvTCjimxs3q_dA",
+                                        "expiresAt": 1747267200000,
+                                        "height": 100
+                                    },
+                                    {
+                                        "width": 400,
+                                        "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1727453796678/fiserv_logo?e=1747267200&v=beta&t=hYSJX-5_1THWvLnqUpX4a4kJMovVsxH9WhpnVijPGJk",
+                                        "expiresAt": 1747267200000,
+                                        "height": 400
+                                    }
+                                ],
+                                "rootUrl": "https://media.licdn.com/dms/image/v2/D4E0BAQFY7GLD59Mrkg/company-logo_"
+                            }
+                        },
+                        "universalName": "fiserv",
+                        "dashCompanyUrn": "urn:li:fsd_company:3364",
+                        "trackingId": "P5vEZ5MMTyKWDSXPSWqm5Q=="
+                    },
+                    "employeeCountRange": {
+                        "start": 10001
+                    },
+                    "industries": [
+                        "Information Technology and Services"
+                    ]
+                },
+                "title": "Summer Associate, Corporate Strategy",
+                "region": "urn:li:fs_region:(us,0)",
+                "companyUrn": "urn:li:fs_miniCompany:3364"
+            }
+        ]
+    },
+    "profile": {
+        "industryName": "Financial Services",
+        "lastName": "Menhorn",
+        "supportedLocales": [
+            {
+                "country": "US",
+                "language": "en"
+            }
+        ],
+        "locationName": "United States",
+        "student": false,
+        "geoCountryName": "United States",
+        "geoCountryUrn": "urn:li:fs_geo:103644278",
+        "versionTag": "1584682525",
+        "geoLocationBackfilled": false,
+        "elt": false,
+        "industryUrn": "urn:li:fs_industry:43",
+        "defaultLocale": {
+            "country": "US",
+            "language": "en"
+        },
+        "firstName": "Steven",
+        "showEducationOnProfileTopCard": true,
+        "entityUrn": "urn:li:fs_profile:ACoAABJA3gUBZB6f2uhQFB6wT-BwVx0THNV6Gew",
+        "geoLocation": {
+            "geoUrn": "urn:li:fs_geo:102571732"
+        },
+        "geoLocationName": "New York, New York",
+        "location": {
+            "basicLocation": {
+                "countryCode": "us"
+            }
+        },
+        "miniProfile": {
+            "firstName": "Steven",
+            "lastName": "Menhorn",
+            "dashEntityUrn": "urn:li:fsd_profile:ACoAABJA3gUBZB6f2uhQFB6wT-BwVx0THNV6Gew",
+            "occupation": "Sr Strategic Finance Manager",
+            "objectUrn": "urn:li:member:306241029",
+            "entityUrn": "urn:li:fs_miniProfile:ACoAABJA3gUBZB6f2uhQFB6wT-BwVx0THNV6Gew",
+            "backgroundImage": {
+                "com.linkedin.common.VectorImage": {
+                    "artifacts": [
+                        {
+                            "width": 800,
+                            "fileIdentifyingUrlPathSegment": "200_800/profile-displaybackgroundimage-shrink_200_800/0/1593200364592?e=1744243200&v=beta&t=6MDyZSMPf6RCRbN2iQ9pHBJiKkOnGDWDEfCCWy-_VQ0",
+                            "expiresAt": 1744243200000,
+                            "height": 200
+                        },
+                        {
+                            "width": 1400,
+                            "fileIdentifyingUrlPathSegment": "350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1593200364592?e=1744243200&v=beta&t=MSucgdN4SFR5JI7eJ4jZsPJ0F8km8xmOp9n0d9pOPl8",
+                            "expiresAt": 1744243200000,
+                            "height": 350
+                        }
+                    ],
+                    "rootUrl": "https://media.licdn.com/dms/image/v2/C4E16AQF9Z4r3XYnGJw/profile-displaybackgroundimage-shrink_"
+                }
+            },
+            "publicIdentifier": "steven-menhorn",
+            "picture": {
+                "com.linkedin.common.VectorImage": {
+                    "artifacts": [
+                        {
+                            "width": 100,
+                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1580840330604?e=1744243200&v=beta&t=NGnp3-mlWl2QaL5M_mGrpGqatncfmvdFt6k6aoYfd3I",
+                            "expiresAt": 1744243200000,
+                            "height": 100
+                        },
+                        {
+                            "width": 200,
+                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1580840330548?e=1744243200&v=beta&t=uG8tX1U7w_8NM8ZYXOnmSIsRMhUWirIooR5MU12cWak",
+                            "expiresAt": 1744243200000,
+                            "height": 200
+                        },
+                        {
+                            "width": 400,
+                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1580840330673?e=1744243200&v=beta&t=I0f6U4qgd2R_PmXea_ADwu-Iuc6qSMskMUUgEFL2i6I",
+                            "expiresAt": 1744243200000,
+                            "height": 400
+                        },
+                        {
+                            "width": 534,
+                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1580840330702?e=1744243200&v=beta&t=UnFikT-9RgJgFdFSUX4UltoKuwlMgDh-88vEDDJdb7A",
+                            "expiresAt": 1744243200000,
+                            "height": 534
+                        }
+                    ],
+                    "rootUrl": "https://media.licdn.com/dms/image/v2/C4E03AQEAD1TkVjrCBw/profile-displayphoto-shrink_"
+                }
+            },
+            "trackingId": "dMJxWp6oR+2tOKh9KCqvgg=="
+        },
+        "headline": "Sr Strategic Finance Manager"
+    },
+    "languageView": {
+        "paging": {
+            "start": 0,
+            "count": 10,
+            "total": 0,
+            "links": []
+        },
+        "entityUrn": "urn:li:fs_languageView:ACoAABJA3gUBZB6f2uhQFB6wT-BwVx0THNV6Gew",
+        "profileId": "ACoAABJA3gUBZB6f2uhQFB6wT-BwVx0THNV6Gew",
+        "elements": []
+    },
+    "certificationView": {
+        "paging": {
+            "start": 0,
+            "count": 10,
+            "total": 1,
+            "links": []
+        },
+        "entityUrn": "urn:li:fs_certificationView:ACoAABJA3gUBZB6f2uhQFB6wT-BwVx0THNV6Gew",
+        "profileId": "ACoAABJA3gUBZB6f2uhQFB6wT-BwVx0THNV6Gew",
+        "elements": [
+            {
+                "entityUrn": "urn:li:fs_certification:(ACoAABJA3gUBZB6f2uhQFB6wT-BwVx0THNV6Gew,565065956)",
+                "authority": "Acuity Knowledge Partners",
+                "name": "Six Sigma Black Belt Certification \u2013 Level I",
+                "company": {
+                    "objectUrn": "urn:li:company:30242966",
+                    "entityUrn": "urn:li:fs_miniCompany:30242966",
+                    "name": "Acuity Knowledge Partners",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "https://media.licdn.com/dms/image/v2/D560BAQGbqJnR_U4NAA/img-crop_100/img-crop_100/0/1720182388705?e=1747267200&v=beta&t=wZGoFW6C9osm7wrIzOX5SjTZX8Yx5sRkblfgPdC68YE",
+                                    "expiresAt": 1747267200000,
+                                    "height": 100
+                                }
+                            ],
+                            "rootUrl": ""
+                        }
+                    },
+                    "universalName": "acuity-knowledge-partners",
+                    "dashCompanyUrn": "urn:li:fsd_company:30242966",
+                    "trackingId": "qMCND3oLTdSnyd0aoVxhcA=="
+                },
+                "companyUrn": "urn:li:fs_miniCompany:30242966"
+            }
+        ]
+    },
+    "testScoreView": {
+        "paging": {
+            "start": 0,
+            "count": 10,
+            "total": 0,
+            "links": []
+        },
+        "entityUrn": "urn:li:fs_testScoreView:ACoAABJA3gUBZB6f2uhQFB6wT-BwVx0THNV6Gew",
+        "profileId": "ACoAABJA3gUBZB6f2uhQFB6wT-BwVx0THNV6Gew",
+        "elements": []
+    },
+    "volunteerCauseView": {
+        "paging": {
+            "start": 0,
+            "count": 0,
+            "total": 0,
+            "links": []
+        },
+        "entityUrn": "urn:li:fs_volunteerCauseView:ACoAABJA3gUBZB6f2uhQFB6wT-BwVx0THNV6Gew",
+        "profileId": "ACoAABJA3gUBZB6f2uhQFB6wT-BwVx0THNV6Gew",
+        "elements": []
+    },
+    "entityUrn": "urn:li:fs_profileView:ACoAABJA3gUBZB6f2uhQFB6wT-BwVx0THNV6Gew",
+    "courseView": {
+        "paging": {
+            "start": 0,
+            "count": 10,
+            "total": 0,
+            "links": []
+        },
+        "entityUrn": "urn:li:fs_courseView:ACoAABJA3gUBZB6f2uhQFB6wT-BwVx0THNV6Gew",
+        "profileId": "ACoAABJA3gUBZB6f2uhQFB6wT-BwVx0THNV6Gew",
+        "elements": []
+    },
+    "honorView": {
+        "paging": {
+            "start": 0,
+            "count": 10,
+            "total": 0,
+            "links": []
+        },
+        "entityUrn": "urn:li:fs_honorView:ACoAABJA3gUBZB6f2uhQFB6wT-BwVx0THNV6Gew",
+        "profileId": "ACoAABJA3gUBZB6f2uhQFB6wT-BwVx0THNV6Gew",
+        "elements": []
+    },
+    "skillView": {
+        "paging": {
+            "start": 0,
+            "count": 4,
+            "total": 10,
+            "links": []
+        },
+        "entityUrn": "urn:li:fs_skillView:ACoAABJA3gUBZB6f2uhQFB6wT-BwVx0THNV6Gew",
+        "profileId": "ACoAABJA3gUBZB6f2uhQFB6wT-BwVx0THNV6Gew",
+        "elements": [
+            {
+                "name": "Financial Analysis",
+                "entityUrn": "urn:li:fs_skill:(ACoAABJA3gUBZB6f2uhQFB6wT-BwVx0THNV6Gew,25)"
+            },
+            {
+                "name": "Corporate Finance",
+                "entityUrn": "urn:li:fs_skill:(ACoAABJA3gUBZB6f2uhQFB6wT-BwVx0THNV6Gew,23)"
+            },
+            {
+                "name": "Microsoft Excel",
+                "entityUrn": "urn:li:fs_skill:(ACoAABJA3gUBZB6f2uhQFB6wT-BwVx0THNV6Gew,702598566)"
+            },
+            {
+                "name": "Six Sigma Black Belt",
+                "entityUrn": "urn:li:fs_skill:(ACoAABJA3gUBZB6f2uhQFB6wT-BwVx0THNV6Gew,2)"
+            }
+        ]
+    },
+    "volunteerExperienceView": {
+        "paging": {
+            "start": 0,
+            "count": 3,
+            "total": 2,
+            "links": []
+        },
+        "entityUrn": "urn:li:fs_volunteerExperienceView:ACoAABJA3gUBZB6f2uhQFB6wT-BwVx0THNV6Gew",
+        "profileId": "ACoAABJA3gUBZB6f2uhQFB6wT-BwVx0THNV6Gew",
+        "elements": [
+            {
+                "role": "Habitate for Humanity",
+                "entityUrn": "urn:li:fs_volunteerExperience:(ACoAABJA3gUBZB6f2uhQFB6wT-BwVx0THNV6Gew,690596864)",
+                "companyName": "Habitat for Humanity International",
+                "company": {
+                    "miniCompany": {
+                        "objectUrn": "urn:li:company:7680",
+                        "entityUrn": "urn:li:fs_miniCompany:7680",
+                        "name": "Habitat for Humanity International",
+                        "showcase": false,
+                        "active": true,
+                        "logo": {
+                            "com.linkedin.common.VectorImage": {
+                                "artifacts": [
+                                    {
+                                        "width": 200,
+                                        "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1631333285363?e=1747267200&v=beta&t=UF9Oa4qNKucJwI5SZEoAqzGg2-y3zV1PTpaWloFBKUc",
+                                        "expiresAt": 1747267200000,
+                                        "height": 200
+                                    },
+                                    {
+                                        "width": 100,
+                                        "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1631333285363?e=1747267200&v=beta&t=FCuOVTZdGvnndVbuNzl2aJXNnct37TprLOtVDsn1HmM",
+                                        "expiresAt": 1747267200000,
+                                        "height": 100
+                                    },
+                                    {
+                                        "width": 400,
+                                        "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1631333285363?e=1747267200&v=beta&t=Fh-AC2jW8pQCUfhDAeRhvI9eG0vXD7FxkvVF8_0Fqek",
+                                        "expiresAt": 1747267200000,
+                                        "height": 400
+                                    }
+                                ],
+                                "rootUrl": "https://media.licdn.com/dms/image/v2/C4E0BAQHLbIDCpKBUfA/company-logo_"
+                            }
+                        },
+                        "universalName": "habitat-for-humanity-international",
+                        "dashCompanyUrn": "urn:li:fsd_company:7680",
+                        "trackingId": "k6Ka+tisQXGmoGMor+lkeQ=="
+                    }
+                },
+                "companyUrn": "urn:li:fs_miniCompany:7680"
+            },
+            {
+                "role": "Teacher of English",
+                "entityUrn": "urn:li:fs_volunteerExperience:(ACoAABJA3gUBZB6f2uhQFB6wT-BwVx0THNV6Gew,1154131509)",
+                "companyName": "English Open Doors",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 7,
+                        "year": 2018
+                    },
+                    "startDate": {
+                        "month": 2,
+                        "year": 2018
+                    }
+                }
+            }
+        ]
+    },
+    "primaryLocale": {
+        "country": "US",
+        "language": "en"
+    },
+    "publicationView": {
+        "paging": {
+            "start": 0,
+            "count": 10,
+            "total": 0,
+            "links": []
+        },
+        "entityUrn": "urn:li:fs_publicationView:ACoAABJA3gUBZB6f2uhQFB6wT-BwVx0THNV6Gew",
+        "profileId": "ACoAABJA3gUBZB6f2uhQFB6wT-BwVx0THNV6Gew",
+        "elements": []
+    }
+}
