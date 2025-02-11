@@ -398,6 +398,33 @@ async def get_school_id(request: EnrichProfileRequest) -> dict:
         logger.error(f"Traceback: {traceback.format_exc()}")
         raise HTTPException(status_code=500, detail=str(e))
 
+@app.post("/get-geo-id") # TBD
+async def get_geo_id(request: StandardInputRequest) -> dict:
+    logger.info(f"Received prompt: {request}")
+    try:
+        cookies = request.cookies
+        cookies_jar = cookie_extractor_from_json(cookies)
+        linkedin_client = LinkedinWrapper(dummy_username, dummy_password, cookies=cookies_jar, debug=True)
+        if not linkedin_client:
+            raise HTTPException(status_code=500, detail="Failed to initialize LinkedIn client")
+
+        result = linkedin_client.search_geo(
+            keywords=request.input,
+            limit=10,
+            offset=0
+        )
+        logger.info(f"Successfully enriched person: {result}")
+
+        # Your existing logic here using linkedin_client
+        return JSONResponse(content={
+            "result": result
+        }, media_type="application/json")
+
+    except Exception as e:
+        logger.error(f"Error in get_geo_id: {str(e)}")
+        logger.error(f"Traceback: {traceback.format_exc()}")
+        raise HTTPException(status_code=500, detail=str(e))
+
 @app.post("/enrich-profile") # TBD
 async def enrich_profile(request: EnrichProfileRequest) -> dict:
     logger.info(f"Received prompt: {request}")

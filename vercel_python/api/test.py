@@ -19,24 +19,6 @@ result = linkedin.get_profile(
         public_id="steven-menhorn",
     )
 
-# result = linkedin.search_people(
-#     keywords="investment banking",
-#     limit=10,
-#     offset=0
-# )
-
-# result = linkedin.search_geo(
-#     keywords="new york",
-#     limit=10,
-#     offset=0
-# )
-
-
-# result = linkedin.add_connection(
-#     profile_public_id="hasan-raza-",
-#     message="Hello, this is a test message",
-# )
-
 print(json.dumps(result, indent=4))
 
 with open('save.json', 'w') as f:
